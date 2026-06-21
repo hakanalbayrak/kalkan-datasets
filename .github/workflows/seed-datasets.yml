@@ -1,0 +1,61 @@
+name: Seed datasets from backend
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and validate current datasets
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          fetch_dataset() {
+            local output="$1"
+            shift
+            local temp="${output}.tmp"
+            rm -f "$temp"
+            for url in "$@"; do
+              if curl --fail --location --silent --show-error \
+                --header 'Accept: application/json' \
+                --output "$temp" "$url"; then
+                if jq -e 'type == "object" and (.entries | type == "array")' "$temp" >/dev/null; then
+                  mv "$temp" "$output"
+                  return 0
+                fi
+              fi
+              rm -f "$temp"
+            done
+            echo "Unable to fetch a valid dataset for $output" >&2
+            return 1
+          }
+
+          fetch_dataset exact_blocking_TR.json \
+            'https://api.kalkan.website/api/v1/datasets/exact-blocking/TR' \
+            'https://api.kalkan.website/downloads/exact_blocking_TR.json'
+          fetch_dataset caller_id_TR.json \
+            'https://api.kalkan.website/api/v1/datasets/caller-id/TR' \
+            'https://api.kalkan.website/downloads/caller_id_TR.json'
+          fetch_dataset general_protection_TR.json \
+            'https://api.kalkan.website/api/v1/datasets/general-protection/TR' \
+            'https://api.kalkan.website/downloads/general_protection_TR.json'
+
+      - name: Commit datasets
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add exact_blocking_TR.json caller_id_TR.json general_protection_TR.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'chore: seed Kalkan datasets'
+          git push
