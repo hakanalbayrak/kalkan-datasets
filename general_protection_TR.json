@@ -1,0 +1,609 @@
+{
+  "protection_layer": "general",
+  "generated_at": "2026-06-22T12:01:28.079Z",
+  "version": "v1-31f56853713e8f4b",
+  "entry_count": 98,
+  "entries": [
+    {
+      "phone_number": "+904446661",
+      "label": "S Sport Plus",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123156500",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902123181818",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902123293320",
+      "label": "Integral Forex Yatırım",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123541111",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902123550555",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902124514042",
+      "label": "Su arıtma",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902124548519",
+      "label": "Anket",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902127027060",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902127060200",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902128240255",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129220007",
+      "label": "Robot Ses Arama",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129220340",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129220475",
+      "label": "Robocall",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129392416",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902162852000",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902165382525",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902169220171",
+      "label": "Su arıtma",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902169220178",
+      "label": "Robocall",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902169220184",
+      "label": "Su arıtma",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+903124186863",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+903124470660",
+      "label": "LÖSEV",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124520425",
+      "label": "Robocall",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+903125840429",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+903129391435",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+903129507661",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+903129631788",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+903129990594",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+905059195744",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+905325320000",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+905338453563",
+      "label": "Kıbrıs Casino",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+905425420000",
+      "label": "Vodafone Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+905465279475",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+905465792490",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+905551112235",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+905555555556",
+      "label": "Reported by user",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502000666",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502100888",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502110111",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502200000",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502220400",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502220444",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502220600",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502220724",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502220800",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502220900",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502222244",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502222910",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502223663",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502225000",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502225550",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502225666",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502227777",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502227878",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502228444",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908503117701",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908503400340",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908503902770",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908503993636",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908504442525",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908504800770",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505120843",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505322222",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505323064",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505325050",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505326258",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505400042",
+      "label": "AppleConnect",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908505529251",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505529330",
+      "label": "Reported by user",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505529377",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505529400",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505529401",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505529432",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505529900",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505529910",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908505826006",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908506330623",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507240580",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507240724",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507245500",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507459312",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507459347",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507550606",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507591515",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507710137",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507710139",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507710146",
+      "label": "Spam",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908507710195",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507710260",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507710270",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507710410",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507710587",
+      "label": "Robot Ses Arama",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507710783",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507710974",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908509010557",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908509010568",
+      "label": "Robocall",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908509550955",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908509660142",
+      "label": "illegal bahis",
+      "block": true,
+      "block_recommended": true
+    }
+  ],
+  "policy": {
+    "allowlist_prefixes": [
+      "444",
+      "90444"
+    ],
+    "block_prefixes": [],
+    "label_prefixes": []
+  },
+  "compatibility": {
+    "mode": "legacy_mixed_exact_entries",
+    "canonical_identification_endpoint": "/downloads/caller_id_TR.json",
+    "canonical_exact_blocking_endpoint": "/downloads/exact_blocking_TR.json"
+  }
+}

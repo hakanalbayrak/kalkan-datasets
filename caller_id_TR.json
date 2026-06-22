@@ -1,0 +1,63 @@
+{
+  "protection_layer": "caller_id_exact",
+  "generated_at": "2026-06-22T12:01:28.079Z",
+  "version": "v1-1770ad97a7412cbc",
+  "entry_count": 6,
+  "entries": [
+    {
+      "phone_number": "+904446661",
+      "label": "S Sport Plus",
+      "category": null
+    },
+    {
+      "phone_number": "+902123293320",
+      "label": "Integral Forex Yatırım",
+      "category": null
+    },
+    {
+      "phone_number": "+903124470660",
+      "label": "LÖSEV",
+      "category": null
+    },
+    {
+      "phone_number": "+905425420000",
+      "label": "Vodafone Müşteri Hizmetleri",
+      "category": null
+    },
+    {
+      "phone_number": "+908505400042",
+      "label": "AppleConnect",
+      "category": null
+    },
+    {
+      "phone_number": "+908507710146",
+      "label": "Spam",
+      "category": null
+    }
+  ],
+  "routing_summary": {
+    "total_numbers_considered": 98,
+    "identify_count": 6,
+    "exact_blocking_count": 92,
+    "admin_override_count": 0,
+    "policy_non_block_override_count": 0
+  },
+  "routing_contract": {
+    "category_primary": true,
+    "admin_override_field": "block_recommended",
+    "safe_category": "safe",
+    "non_safe_default": "exact_blocking",
+    "policy_allowlist_non_block_prefixes": [
+      "444",
+      "90444"
+    ]
+  },
+  "policy": {
+    "allowlist_prefixes": [
+      "444",
+      "90444"
+    ],
+    "block_prefixes": [],
+    "label_prefixes": []
+  }
+}
