@@ -1,8 +1,8 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-06-22T12:01:28.079Z",
-  "version": "v1-7f966827ecbbb6f7",
-  "entry_count": 92,
+  "generated_at": "2026-06-28T17:08:24.349Z",
+  "version": "v1-cb522b85a27759b9",
+  "entry_count": 96,
   "entries": [
     {
       "phone_number": "+902123156500",
@@ -25,6 +25,12 @@
     {
       "phone_number": "+902123550555",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902123653401",
+      "label": "Trendyol Go Yemek / UberEats",
       "category": null,
       "block": true
     },
@@ -73,6 +79,18 @@
     {
       "phone_number": "+902129220475",
       "label": "Robocall",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129220608",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129221840",
+      "label": "Reported",
       "category": null,
       "block": true
     },
@@ -289,6 +307,12 @@
     {
       "phone_number": "+908502225666",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908502226660",
+      "label": "Eureko Sigorta",
       "category": null,
       "block": true
     },
@@ -558,9 +582,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 98,
+    "total_numbers_considered": 102,
     "identify_count": 6,
-    "exact_blocking_count": 92,
+    "exact_blocking_count": 96,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },
