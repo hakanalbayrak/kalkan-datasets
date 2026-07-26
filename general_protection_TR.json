@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-07-26T13:32:30.792Z",
-  "version": "v1-99c0af5df4b9dcaf",
-  "entry_count": 105,
+  "generated_at": "2026-07-26T13:32:34.871Z",
+  "version": "v1-f22b92a49a9cd2ee",
+  "entry_count": 106,
   "entries": [
     {
       "phone_number": "+904440333",
@@ -19,6 +19,12 @@
     {
       "phone_number": "+904441444",
       "label": "Türk Telekom Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904442525",
+      "label": "Akbank Müşteri İletişim Merkezi",
       "block": false,
       "block_recommended": false
     },
