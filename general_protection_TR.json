@@ -1,9 +1,15 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-06-28T17:08:24.349Z",
-  "version": "v1-d8d256f83e084775",
-  "entry_count": 102,
+  "generated_at": "2026-07-26T13:32:12.776Z",
+  "version": "v1-84825f3f499e965a",
+  "entry_count": 103,
   "entries": [
+    {
+      "phone_number": "+904441444",
+      "label": "Türk Telekom Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
     {
       "phone_number": "+904446661",
       "label": "S Sport Plus",
