@@ -1,7 +1,7 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-07-26T13:32:12.776Z",
-  "version": "v1-84825f3f499e965a",
+  "generated_at": "2026-07-26T13:32:19.207Z",
+  "version": "v1-11f703feee05916f",
   "entry_count": 103,
   "entries": [
     {
@@ -504,9 +504,9 @@
     },
     {
       "phone_number": "+908507240724",
-      "label": "Spam",
-      "block": true,
-      "block_recommended": true
+      "label": "Türkiye İş Bankası Telefon Şubesi",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908507245500",

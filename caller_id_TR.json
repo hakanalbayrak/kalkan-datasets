@@ -1,8 +1,8 @@
 {
   "protection_layer": "caller_id_exact",
-  "generated_at": "2026-07-26T13:32:12.776Z",
-  "version": "v1-d84f56728bef3de6",
-  "entry_count": 7,
+  "generated_at": "2026-07-26T13:32:19.207Z",
+  "version": "v1-142080fe0c3772eb",
+  "entry_count": 8,
   "entries": [
     {
       "phone_number": "+904441444",
@@ -35,6 +35,11 @@
       "category": null
     },
     {
+      "phone_number": "+908507240724",
+      "label": "Türkiye İş Bankası Telefon Şubesi",
+      "category": null
+    },
+    {
       "phone_number": "+908507710146",
       "label": "Spam",
       "category": null
@@ -42,8 +47,8 @@
   ],
   "routing_summary": {
     "total_numbers_considered": 103,
-    "identify_count": 7,
-    "exact_blocking_count": 96,
+    "identify_count": 8,
+    "exact_blocking_count": 95,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },
