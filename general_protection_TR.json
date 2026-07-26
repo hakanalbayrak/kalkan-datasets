@@ -1,12 +1,18 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-07-26T13:32:26.265Z",
-  "version": "v1-47d8d96af611f31f",
-  "entry_count": 104,
+  "generated_at": "2026-07-26T13:32:30.792Z",
+  "version": "v1-99c0af5df4b9dcaf",
+  "entry_count": 105,
   "entries": [
     {
       "phone_number": "+904440333",
       "label": "Garanti BBVA Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440444",
+      "label": "Yapı Kredi Müşteri İletişim Merkezi",
       "block": false,
       "block_recommended": false
     },
