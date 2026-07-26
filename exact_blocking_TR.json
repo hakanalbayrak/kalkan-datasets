@@ -1,7 +1,7 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-07-26T13:32:19.207Z",
-  "version": "v1-ff982611e4dd5c94",
+  "generated_at": "2026-07-26T13:32:26.265Z",
+  "version": "v1-447b74fb64e07abf",
   "entry_count": 95,
   "entries": [
     {
@@ -576,8 +576,8 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 103,
-    "identify_count": 8,
+    "total_numbers_considered": 104,
+    "identify_count": 9,
     "exact_blocking_count": 95,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0

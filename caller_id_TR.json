@@ -1,9 +1,14 @@
 {
   "protection_layer": "caller_id_exact",
-  "generated_at": "2026-07-26T13:32:19.207Z",
-  "version": "v1-142080fe0c3772eb",
-  "entry_count": 8,
+  "generated_at": "2026-07-26T13:32:26.265Z",
+  "version": "v1-8003ae60c12b10a8",
+  "entry_count": 9,
   "entries": [
+    {
+      "phone_number": "+904440333",
+      "label": "Garanti BBVA Müşteri İletişim Merkezi",
+      "category": null
+    },
     {
       "phone_number": "+904441444",
       "label": "Türk Telekom Müşteri Hizmetleri",
@@ -46,8 +51,8 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 103,
-    "identify_count": 8,
+    "total_numbers_considered": 104,
+    "identify_count": 9,
     "exact_blocking_count": 95,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
