@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-07-26T13:32:34.871Z",
-  "version": "v1-f22b92a49a9cd2ee",
-  "entry_count": 106,
+  "generated_at": "2026-07-31T13:45:11.447Z",
+  "version": "v1-febbc519c7533c57",
+  "entry_count": 109,
   "entries": [
     {
       "phone_number": "+904440333",
@@ -43,6 +43,12 @@
     {
       "phone_number": "+902123181818",
       "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902123275629",
+      "label": "Akbank Beşiktaş Şubesi",
       "block": true,
       "block_recommended": true
     },
@@ -137,6 +143,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902162230736",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902162852000",
       "label": "Spam",
       "block": true,
@@ -187,6 +199,12 @@
     {
       "phone_number": "+903125840429",
       "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+903128390086",
+      "label": "Reported",
       "block": true,
       "block_recommended": true
     },
@@ -264,9 +282,9 @@
     },
     {
       "phone_number": "+908502000666",
-      "label": "Spam",
-      "block": true,
-      "block_recommended": true
+      "label": "TEB Telefon Şubesi",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502100888",
@@ -282,15 +300,15 @@
     },
     {
       "phone_number": "+908502200000",
-      "label": "Spam",
-      "block": true,
-      "block_recommended": true
+      "label": "Ziraat Bankası Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502220400",
-      "label": "Spam",
-      "block": true,
-      "block_recommended": true
+      "label": "Halkbank Dialog",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502220444",
@@ -306,9 +324,9 @@
     },
     {
       "phone_number": "+908502220724",
-      "label": "Spam",
-      "block": true,
-      "block_recommended": true
+      "label": "VakıfBank Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502220800",
@@ -318,9 +336,9 @@
     },
     {
       "phone_number": "+908502220900",
-      "label": "Spam",
-      "block": true,
-      "block_recommended": true
+      "label": "QNB Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502222244",

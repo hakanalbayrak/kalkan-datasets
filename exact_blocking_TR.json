@@ -1,8 +1,8 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-07-26T13:32:34.871Z",
-  "version": "v1-9c14f561cdd9f243",
-  "entry_count": 95,
+  "generated_at": "2026-07-31T13:45:11.447Z",
+  "version": "v1-281861c37c651f10",
+  "entry_count": 93,
   "entries": [
     {
       "phone_number": "+902123156500",
@@ -13,6 +13,12 @@
     {
       "phone_number": "+902123181818",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902123275629",
+      "label": "Akbank Beşiktaş Şubesi",
       "category": null,
       "block": true
     },
@@ -101,6 +107,12 @@
       "block": true
     },
     {
+      "phone_number": "+902162230736",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902162852000",
       "label": "Spam",
       "category": null,
@@ -145,6 +157,12 @@
     {
       "phone_number": "+903125840429",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+903128390086",
+      "label": "Reported",
       "category": null,
       "block": true
     },
@@ -215,12 +233,6 @@
       "block": true
     },
     {
-      "phone_number": "+908502000666",
-      "label": "Spam",
-      "category": null,
-      "block": true
-    },
-    {
       "phone_number": "+908502100888",
       "label": "Spam",
       "category": null,
@@ -228,18 +240,6 @@
     },
     {
       "phone_number": "+908502110111",
-      "label": "Spam",
-      "category": null,
-      "block": true
-    },
-    {
-      "phone_number": "+908502200000",
-      "label": "Spam",
-      "category": null,
-      "block": true
-    },
-    {
-      "phone_number": "+908502220400",
       "label": "Spam",
       "category": null,
       "block": true
@@ -257,19 +257,7 @@
       "block": true
     },
     {
-      "phone_number": "+908502220724",
-      "label": "Spam",
-      "category": null,
-      "block": true
-    },
-    {
       "phone_number": "+908502220800",
-      "label": "Spam",
-      "category": null,
-      "block": true
-    },
-    {
-      "phone_number": "+908502220900",
       "label": "Spam",
       "category": null,
       "block": true
@@ -576,9 +564,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 106,
-    "identify_count": 11,
-    "exact_blocking_count": 95,
+    "total_numbers_considered": 109,
+    "identify_count": 16,
+    "exact_blocking_count": 93,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },
