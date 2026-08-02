@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-07-31T13:45:11.447Z",
-  "version": "v1-febbc519c7533c57",
-  "entry_count": 109,
+  "generated_at": "2026-08-02T07:50:28.897Z",
+  "version": "v1-73c801e85f44e2f3",
+  "entry_count": 110,
   "entries": [
     {
       "phone_number": "+904440333",
@@ -132,6 +132,12 @@
     },
     {
       "phone_number": "+902129221840",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129351125",
       "label": "Reported",
       "block": true,
       "block_recommended": true
