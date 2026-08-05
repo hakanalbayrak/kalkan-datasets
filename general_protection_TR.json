@@ -1,12 +1,48 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-08-02T07:50:28.897Z",
-  "version": "v1-73c801e85f44e2f3",
-  "entry_count": 110,
+  "generated_at": "2026-08-05T09:30:45.922Z",
+  "version": "v1-f4fe92ac68b82477",
+  "entry_count": 320,
   "entries": [
+    {
+      "phone_number": "+904440000",
+      "label": "Ziraat Bankası 444 İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440050",
+      "label": "ICBC Turkey İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440055",
+      "label": "Alternatifbank 444 İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440123",
+      "label": "Kuveyt Türk Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440199",
+      "label": "Recep Tayyip Erdoğan Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
     {
       "phone_number": "+904440333",
       "label": "Garanti BBVA Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440436",
+      "label": "Florence Nightingale Çağrı Merkezi",
       "block": false,
       "block_recommended": false
     },
@@ -17,8 +53,86 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904440448",
+      "label": "Yapı Kredi Kurumsal Müşteri İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440632",
+      "label": "Millî Eğitim Bakanlığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440666",
+      "label": "TEB Bireysel Telefon Bankacılığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440766",
+      "label": "TEB Yıldız Bankacılık Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440797",
+      "label": "SunExpress Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440832",
+      "label": "TEB Ticari Telefon Bankacılığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440849",
+      "label": "Türk Hava Yolları Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440966",
+      "label": "TEB Özel Bankacılık Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904440994",
+      "label": "PASHA Bank İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904441000",
+      "label": "CarrefourSA Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904441444",
       "label": "Türk Telekom Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904441488",
+      "label": "İstanbul Teknik Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904441788",
+      "label": "PTT Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904442020",
+      "label": "Shell Müşteri Hizmetleri",
       "block": false,
       "block_recommended": false
     },
@@ -29,8 +143,260 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904442552",
+      "label": "Aras Kargo Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904442626",
+      "label": "Emlak Katılım Çağrı Merkezi 444",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904442727",
+      "label": "Aksigorta Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904442967",
+      "label": "Boyner Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904443123",
+      "label": "Kuveyt Türk Müşteri Memnuniyeti",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904443166",
+      "label": "Dünya Katılım Genel Müdürlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904443322",
+      "label": "Domino's Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904444166",
+      "label": "Dünya Katılım Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904444372",
+      "label": "Enerjisa Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904444477",
+      "label": "Vakıf Katılım Müşteri İletişim Merkezi 444",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904444484",
+      "label": "Medical Park Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904444529",
+      "label": "LC Waikiki Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904444532",
+      "label": "IKEA Türkiye Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904444548",
+      "label": "Liv Hospital Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904444988",
+      "label": "Hayat Finans İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904445065",
+      "label": "Van Yüzüncü Yıl Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904445411",
+      "label": "Misyon Bank İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904445544",
+      "label": "Acıbadem Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904445666",
+      "label": "Albaraka Türk Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904446100",
+      "label": "Sanayi ve Teknoloji Bakanlığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904446244",
+      "label": "Mercedes-Benz Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904446333",
+      "label": "Bosch Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904446334",
+      "label": "Medicana Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904446543",
+      "label": "LG Müşteri Desteği",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904446622",
+      "label": "Renault Diyalog İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904446661",
       "label": "S Sport Plus",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904446688",
+      "label": "Siemens Ev Aletleri Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904446738",
+      "label": "OPET Müşteri İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904446882",
+      "label": "Türk Ticaret Bankası İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904447044",
+      "label": "Medipol Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904447711",
+      "label": "Samsung Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904447766",
+      "label": "Profilo Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904447878",
+      "label": "Şekerbank 444 İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904447888",
+      "label": "Memorial Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904448233",
+      "label": "TCDD Taşımacılık Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904448444",
+      "label": "Odeabank İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904448875",
+      "label": "TurkNet Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904448888",
+      "label": "Fibabanka Telefon Bankacılığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904449999",
+      "label": "Yurtiçi Kargo Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902122160216",
+      "label": "Kuveyt Türk Gönüllü Denetçilik Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902122608888",
+      "label": "Bank of China Turkey Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902122868100",
+      "label": "Nurol Yatırım Bankası Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123152525",
+      "label": "Takasbank Genel İletişim",
       "block": false,
       "block_recommended": false
     },
@@ -41,10 +407,22 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902123160000",
+      "label": "İş Bankası Genel Müdürlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902123181818",
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+902123198500",
+      "label": "JPMorgan Chase Türkiye Genel İletişim",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+902123275629",
@@ -55,6 +433,66 @@
     {
       "phone_number": "+902123293320",
       "label": "Integral Forex Yatırım",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123310200",
+      "label": "Trendyol Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123345050",
+      "label": "TSKB Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123345075",
+      "label": "TSKB Kurumsal Bankacılık",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123345081",
+      "label": "TSKB Kurumsal Finansman",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123345100",
+      "label": "TSKB Hazine Ürünleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123345280",
+      "label": "TSKB Danışmanlık Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123363636",
+      "label": "HSBC Santral 2",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123397000",
+      "label": "Yapı Kredi Genel Müdürlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123401010",
+      "label": "Birleşik Fon Bankası Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123540354",
+      "label": "Toyota Müşteri İlişkileri",
       "block": false,
       "block_recommended": false
     },
@@ -77,6 +515,48 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902123657585",
+      "label": "Halkbank Diğer Kurumsal Hat 0212-7585",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123663000",
+      "label": "HSBC Santral",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123736464",
+      "label": "Arap Türk Bankası İnternet Bankacılığı Destek",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123837070",
+      "label": "Yıldız Teknik Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123850600",
+      "label": "Intesa Sanpaolo Türkiye Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902124041000",
+      "label": "Ziraat Katılım Genel Müdürlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902124400000",
+      "label": "İstanbul Üniversitesi Rektörlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902124514042",
       "label": "Su arıtma",
       "block": true,
@@ -89,10 +569,22 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902124737373",
+      "label": "Digiturk Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902127027060",
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+902127058900",
+      "label": "PASHA Bank Genel İletişim",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+902127060200",
@@ -155,16 +647,148 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902162259595",
+      "label": "Halkbank Diğer Kurumsal Hat 0216-9595",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902162662626",
+      "label": "Emlak Katılım Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902162852000",
       "label": "Spam",
       "block": true,
       "block_recommended": true
     },
     {
+      "phone_number": "+902162953636",
+      "label": "Aytemiz Yatırım Bankası İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902164839000",
+      "label": "Sabancı Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165011100",
+      "label": "Hedef Yatırım Bankası Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165035050",
+      "label": "Halkbank Etik Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165035450",
+      "label": "Halkbank Yatırımcı İlişkileri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165037070",
+      "label": "Halkbank Genel Müdürlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165224959",
+      "label": "QNB First ve Private Banking Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902165382525",
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+902165592058",
+      "label": "Ziraat Katılım Ek Hizmet Binası",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165647100",
+      "label": "Ford Otosan Genel Merkez",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165879000",
+      "label": "GSD Yatırım Bankası Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902166003060",
+      "label": "MUFG Bank Turkey Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902166356512",
+      "label": "TEB POS Destek Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902166368700",
+      "label": "Kalkınma Yatırım Bankası Genel Müdürlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902166368751",
+      "label": "Kalkınma Bankası Gayrimenkul İletişim 1",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902166368776",
+      "label": "Kalkınma Bankası Gayrimenkul İletişim 2",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902166660101",
+      "label": "Albaraka Türk Genel Müdürlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902166762000",
+      "label": "Türkiye Finans Genel Müdürlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902167241000",
+      "label": "VakıfBank Genel Müdürlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902167243434",
+      "label": "VakıfBank POS Destek",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902167770000",
+      "label": "Marmara Üniversitesi",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+902169220171",
@@ -185,10 +809,172 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902222393750",
+      "label": "Eskişehir Osmangazi Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902242940000",
+      "label": "Bursa Uludağ Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902323111010",
+      "label": "Ege Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902324121212",
+      "label": "Dokuz Eylül Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902422274400",
+      "label": "Akdeniz Üniversitesi Rektörlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902462111269",
+      "label": "SDÜ Mühendislik Fakültesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902562182000",
+      "label": "Aydın Adnan Menderes Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902582962000",
+      "label": "Pamukkale Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902626471000",
+      "label": "Yapı Kredi Bankacılık Üssü",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902627234949",
+      "label": "Kuveyt Türk POS Destek Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902627235555",
+      "label": "Kuveyt Türk Bankacılık Üssü",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902642955454",
+      "label": "Sakarya Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902666121400",
+      "label": "Balıkesir Üniversitesi UZEM",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902842234210",
+      "label": "Trakya Üniversitesi Rektörlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902862180018",
+      "label": "Çanakkale Onsekiz Mart Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122022000",
+      "label": "Gazi Üniversitesi Rektörlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122031000",
+      "label": "Ulaştırma ve Altyapı Bakanlığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122664343",
+      "label": "Bilkent Üniversitesi İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122873360",
+      "label": "Tarım ve Orman Bakanlığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122921000",
+      "label": "Dışişleri Bakanlığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122924000",
+      "label": "TOBB ETÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123055000",
+      "label": "Hacettepe Üniversitesi Sıhhiye",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124101000",
+      "label": "Çevre Bakanlığı Yapı İşleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124152900",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124177770",
+      "label": "Adalet Bakanlığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903124186863",
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+903124224000",
+      "label": "İçişleri Bakanlığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124417522",
+      "label": "TSKB Ankara Şubesi",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+903124470660",
@@ -203,10 +989,34 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+903124708000",
+      "label": "Kültür ve Turizm Bakanlığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903125087000",
+      "label": "İller Bankası Merkez Santral",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903125464646",
+      "label": "Enerji Bakanlığı Enerji Verimliliği",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903125840429",
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+903125851000",
+      "label": "Sağlık Bakanlığı",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+903128390086",
@@ -239,10 +1049,136 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+903183574242",
+      "label": "Kırıkkale Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903222230484",
+      "label": "Kuveyt Türk Adana Şubesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903222324822",
+      "label": "Kuveyt Türk Adana Çukurova Şubesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903223030093",
+      "label": "Kuveyt Türk Adana Yüreğir Şubesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903223386084",
+      "label": "Çukurova Üniversitesi Rektörlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903224290419",
+      "label": "Kuveyt Türk Adana Barkal Şubesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903225035108",
+      "label": "Kuveyt Türk Adana Ticari Şubesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903243610001",
+      "label": "Mersin Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903322210500",
+      "label": "Necmettin Erbakan Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903322238000",
+      "label": "Selçuk Üniversitesi Rektörlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903423171300",
+      "label": "Gaziantep Üniversitesi Personel",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903443001000",
+      "label": "Kahramanmaraş Sütçü İmam Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903464870000",
+      "label": "Sivas Cumhuriyet Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903522076666",
+      "label": "Erciyes Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903562521616",
+      "label": "Tokat GOP Uluslararası Öğrenci",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903662801000",
+      "label": "Kastamonu Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903742541000",
+      "label": "Bolu Abant İzzet Baysal Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904122411000",
+      "label": "Dicle Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904242370000",
+      "label": "Fırat Üniversitesi Ana Santral",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904623773000",
+      "label": "Karadeniz Teknik Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+905059195744",
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+905309186543",
+      "label": "LG WhatsApp Destek",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+905325320000",
@@ -293,10 +1229,52 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908502010222",
+      "label": "Samsung Kurumsal Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502020202",
+      "label": "Sürat Kargo Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502021202",
+      "label": "Vakıf Katılım Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502022020",
+      "label": "Türkiye Sigorta Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502051155",
+      "label": "Alternatifbank İletişim Hattı 2",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502095050",
+      "label": "Koçtaş Çözüm Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502100888",
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908502106900",
+      "label": "Gratis Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502110111",
@@ -305,8 +1283,32 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908502110112",
+      "label": "HSBC Premier Telefon Bankacılığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502200000",
       "label": "Ziraat Bankası Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502200800",
+      "label": "Halkbank Platin Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502205000",
+      "label": "Ziraat Katılım Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502220091",
+      "label": "TEB Maaş ve Emekli Müşteri Hattı",
       "block": false,
       "block_recommended": false
     },
@@ -317,10 +1319,28 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908502220401",
+      "label": "Halkbank Kurumsal Dialog",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502220402",
+      "label": "Halkbank Diğer Kurumsal Hat 0850-0402",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502220444",
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908502220448",
+      "label": "Yapı Kredi Kurumsal Müşteri İletişim 0850",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502220600",
@@ -341,8 +1361,32 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908502220880",
+      "label": "Halkbank Tahsilat Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502220900",
       "label": "QNB Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502220929",
+      "label": "CEPTETEB İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502221500",
+      "label": "MediaMarkt Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502221900",
+      "label": "QNB Kurumsal Telefon Bankacılığı",
       "block": false,
       "block_recommended": false
     },
@@ -351,6 +1395,24 @@
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908502222525",
+      "label": "Akbank Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502222626",
+      "label": "Emlak Katılım Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502222900",
+      "label": "QNB Sizi Dinliyoruz Hattı",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502222910",
@@ -363,6 +1425,12 @@
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908502224020",
+      "label": "Halkbank Diğer Kurumsal Hat 0850-4020",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502225000",
@@ -389,6 +1457,18 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908502227445",
+      "label": "Philips Destek Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502227585",
+      "label": "Halkbank TOKİ Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502227777",
       "label": "Spam",
       "block": true,
@@ -401,10 +1481,124 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908502228222",
+      "label": "Burgan Bank İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502228444",
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908502229262",
+      "label": "Halkbank Emekli Müşteri Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502234444",
+      "label": "Ziraat Dinamik Bireysel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502250055",
+      "label": "Alternatifbank İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502252538",
+      "label": "AJet Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502254444",
+      "label": "Ziraat Dinamik Ticari İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502273747",
+      "label": "FUPS Bank Destek Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502352345",
+      "label": "Adil Katılım İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502500400",
+      "label": "Halkbank Dialog Alternatif Hat",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502508181",
+      "label": "Sompo Sigorta Yardım Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502509999",
+      "label": "AXA Müşteri Çözüm Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502510123",
+      "label": "Kuveyt Türk Müşteri İletişim Merkezi 0850",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502513123",
+      "label": "Kuveyt Türk Müşteri Memnuniyeti 0850",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502524000",
+      "label": "Hepsiburada Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502550066",
+      "label": "UPS Türkiye Müşteri Desteği",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502580000",
+      "label": "Ziraat Bankası İletişim Hattı 2",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502660266",
+      "label": "D-Smart Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502886363",
+      "label": "Bank Mellat İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502903414",
+      "label": "Golden Global Bank İletişim",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908503117701",
@@ -431,6 +1625,18 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908503999999",
+      "label": "Allianz Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908504006882",
+      "label": "Türk Ticaret Bankası 0850 İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908504442525",
       "label": "Spam",
       "block": true,
@@ -449,6 +1655,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908505321144",
+      "label": "Dyson Destek Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908505322222",
       "label": "Spam",
       "block": true,
@@ -459,6 +1671,12 @@
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908505323322",
+      "label": "Decathlon Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908505325050",
@@ -539,6 +1757,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908507240346",
+      "label": "English Home Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908507240580",
       "label": "Spam",
       "block": true,
@@ -551,10 +1775,28 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908507243050",
+      "label": "Aktif Bank İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908507245500",
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908507247767",
+      "label": "İş Bankası POS Destek",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908507334468",
+      "label": "Colendi Bank Destek Hattı",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908507459312",
@@ -573,6 +1815,12 @@
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908507559987",
+      "label": "Watsons İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908507591515",
@@ -641,6 +1889,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908508005555",
+      "label": "Bauhaus Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908509010557",
       "label": "Spam",
       "block": true,
@@ -663,6 +1917,12 @@
       "label": "illegal bahis",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908882281212",
+      "label": "Pegasus Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
     }
   ],
   "policy": {
