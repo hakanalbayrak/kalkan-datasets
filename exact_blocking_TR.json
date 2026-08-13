@@ -1,8 +1,8 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-08-05T09:30:45.922Z",
-  "version": "v1-1338d8db806e7a04",
-  "entry_count": 94,
+  "generated_at": "2026-08-13T10:31:57.346Z",
+  "version": "v1-6b2abd0c4a55aea5",
+  "entry_count": 96,
   "entries": [
     {
       "phone_number": "+902123156500",
@@ -95,6 +95,12 @@
       "block": true
     },
     {
+      "phone_number": "+902129221793",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902129221840",
       "label": "Reported",
       "category": null,
@@ -109,6 +115,12 @@
     {
       "phone_number": "+902129392416",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902162050534",
+      "label": "Dolandirici",
       "category": null,
       "block": true
     },
@@ -570,9 +582,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 320,
-    "identify_count": 226,
-    "exact_blocking_count": 94,
+    "total_numbers_considered": 722,
+    "identify_count": 626,
+    "exact_blocking_count": 96,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },
