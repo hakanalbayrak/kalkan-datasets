@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-08-13T10:31:57.346Z",
-  "version": "v1-b3273243601b2df4",
-  "entry_count": 722,
+  "generated_at": "2026-08-19T10:33:33.746Z",
+  "version": "v1-66ca602dc3736a07",
+  "entry_count": 923,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -911,6 +911,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902169221238",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902222393750",
       "label": "Eskişehir Osmangazi Üniversitesi",
       "block": false,
@@ -947,8 +953,410 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902420000000",
+      "label": "Belki: PTT – KARAÖZ ACENTELİĞİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902422274400",
       "label": "Akdeniz Üniversitesi Rektörlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902422277904",
+      "label": "Belki: PTT – UNCALI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902422296210",
+      "label": "Belki: PTT – SAKLIKENT ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902422372505",
+      "label": "Belki: PTT – ESKİ ADLİYE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902422580078",
+      "label": "Belki: PTT – ORGANİZE SANAYİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902422593727",
+      "label": "Belki: PTT – HURMA ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423120592",
+      "label": "Belki: PTT – ÇARŞI MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423128930",
+      "label": "Belki: PTT – ER EGİTİM ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423170403",
+      "label": "Belki: PTT – YEŞİLBAHÇE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423170703",
+      "label": "Belki: PTT – ŞİRİNYALI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423211600",
+      "label": "Belki: PTT – KIZILTOPRAK MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423249521",
+      "label": "Belki: PTT – LARA POSTA KARGO DAĞITIM MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423251742",
+      "label": "Belki: PTT – SÜTÇÜLER ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423253400",
+      "label": "Belki: PTT – KIZILARIK ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423254510",
+      "label": "Belki: PTT – ETİLER ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423261748",
+      "label": "Belki: PTT – KUZEYYAKA ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423262640",
+      "label": "Belki: PTT – YEŞİLIRMAK MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423263910",
+      "label": "Belki: PTT – KÖPRÜ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423268682",
+      "label": "Belki: PTT – KEPEZ POSTA KARGO DAĞITIM MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423394113",
+      "label": "Belki: PTT – TEOMANPAŞA ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423465946",
+      "label": "Belki: PTT – ŞARAMPOL ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423466580",
+      "label": "Belki: PTT – YILDIZ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423492434",
+      "label": "Belki: PTT – GÜZELOBA ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423510191",
+      "label": "Belki: PTT – ERMENEK ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902424172050",
+      "label": "Belki: PTT – ŞELALE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902424175700",
+      "label": "Belki: PTT – VARSAK ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902424213171",
+      "label": "Belki: PTT – DÖŞEMEALTI MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902424382050",
+      "label": "Belki: PTT – DAĞBELİ ACENTELİĞİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902424431680",
+      "label": "Belki: PTT – YEŞİLBAYIR ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902424632052",
+      "label": "Belki: PTT – GÜZELYURT ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902425040844",
+      "label": "Belki: PTT – LARA MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902425132344",
+      "label": "Belki: PTT – GÜLLERPINARI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902425142077",
+      "label": "Belki: PTT – TOSMUR ACENTELİĞİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902425161416",
+      "label": "Belki: PTT – DEMİRTAŞ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902425194841",
+      "label": "Belki: PTT – SARAY ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902425274450",
+      "label": "Belki: PTT – OKURCALAR ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902425285266",
+      "label": "Belki: PTT – MAHMUTLAR MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902425321241",
+      "label": "Belki: PTT – İNCEKUM ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902425653565",
+      "label": "Belki: PTT – KONAKLI ÇARŞI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902425721576",
+      "label": "Belki: PTT – GAZİPAŞA MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902426186866",
+      "label": "Belki: PTT – ELMALI MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902426436616",
+      "label": "Belki: PTT – KORKUTELİ MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902426912421",
+      "label": "Belki: PTT – İBRADI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902427222001",
+      "label": "Belki: PTT – SERİK MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902427255987",
+      "label": "Belki: PTT – KADRİYE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902427420563",
+      "label": "Belki: PTT – SARILAR ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902427463009",
+      "label": "Belki: PTT – MANAVGAT MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902427467706",
+      "label": "Belki: PTT – ZÜBEYDE HANIM ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902427531799",
+      "label": "Belki: PTT – SİDE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902427636001",
+      "label": "Belki: PTT – ÇOLAKLI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902427812074",
+      "label": "Belki: PTT – GÜNDOĞMUŞ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428141332",
+      "label": "Belki: PTT – KEMER MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428152424",
+      "label": "Belki: PTT – GÖYNÜK ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428214442",
+      "label": "Belki: PTT – TEKİROVA ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428247272",
+      "label": "Belki: PTT – ÇAMYUVA ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428314100",
+      "label": "Belki: PTT – GÖMBE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428361430",
+      "label": "Belki: PTT – KAŞ MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428418557",
+      "label": "Belki: PTT – OVA ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428442389",
+      "label": "Belki: PTT – İSLAMLAR ACENTELİĞİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428443221",
+      "label": "Belki: PTT – KALKAN MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428454100",
+      "label": "Belki: PTT – KINIK ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428486249",
+      "label": "Belki: PTT – YEŞİLKÖY ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428521570",
+      "label": "Belki: PTT – TURUNÇOVA ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428551515",
+      "label": "Belki: PTT – FİNİKE MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428656225",
+      "label": "Belki: PTT – HASYURT ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428715516",
+      "label": "Belki: PTT – DEMRE MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902428871948",
+      "label": "Belki: PTT – KUMLUCA MÜDÜRLÜĞÜ",
       "block": false,
       "block_recommended": false
     },
@@ -1379,8 +1787,44 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903122120657",
+      "label": "Belki: PTT Ankara ENERJİ VE TABİ KAYNAKLAR BAKANLIĞI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903122121419",
       "label": "Belki: PTT ULAŞTIRMA VE ALTYAPI BAKANLIĞI ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122127047",
+      "label": "Belki: PTT Ankara CUMHURBAŞKANLIĞI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122132132",
+      "label": "Belki: PTT Ankara GAZİ HASTANESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122133145",
+      "label": "Belki: PTT Ankara BAHÇELİEVLER MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122152606",
+      "label": "Belki: PTT Ankara ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122158291",
+      "label": "Belki: PTT – ANKARA İDARE VE VERGİ MAHKEMELERİ ŞUBESİ",
       "block": false,
       "block_recommended": false
     },
@@ -1415,14 +1859,50 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903122197036",
+      "label": "Belki: PTT – ANKARA BÖLGE ADLİYE MAHKEMELERİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903122200891",
       "label": "Belki: PTT TİCARET BAKANLIĞI ŞUBESİ – Ankara",
       "block": false,
       "block_recommended": false
     },
     {
+      "phone_number": "+903122221750",
+      "label": "Belki: PTT Ankara HAKİMLER VE SAVCILAR KURULU",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122229360",
+      "label": "Belki: PTT Ankara EMEK ŞUBE ŞEFLİĞİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122260985",
+      "label": "Belki: PTT – ALSANCAK ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122265508",
+      "label": "Belki: PTT – AHİ MESUT ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903122269363",
       "label": "Belki: PTT PİYADE MAHALLESİ ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122293667",
+      "label": "Belki: PTT Ankara BAKANLIKLAR MÜDÜRLÜĞÜ",
       "block": false,
       "block_recommended": false
     },
@@ -1439,8 +1919,68 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903122343217",
+      "label": "Belki: PTT Ankara BAĞLICA KÖYİÇİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903122353024",
       "label": "Belki: PTT ÜMİTKÖY ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122418501",
+      "label": "Belki: PTT Ankara ÇAYYOLU MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122440918",
+      "label": "Belki: PTT Ankara ETİMESGUT",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122525504",
+      "label": "Belki: PTT Ankara BATI SİTESİ ŞUBE ŞEFLİĞİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122525506",
+      "label": "Belki: PTT Ankara BATIKENT MESA MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122540267",
+      "label": "Belki: PTT Ankara CEZA İNFAZ KURUMLARI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122565616",
+      "label": "Belki: PTT Ankara GER-SAN",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122607311",
+      "label": "Belki: PTT Ankara ELVANKENT MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122617752",
+      "label": "Belki: PTT – ADLİYE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122663107",
+      "label": "Belki: PTT Ankara BİLKENT PLAZA MÜDÜRLÜĞÜ",
       "block": false,
       "block_recommended": false
     },
@@ -1451,8 +1991,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903122664481",
+      "label": "Belki: PTT Ankara BİLKENT ÜNİVERSİTESİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903122664698",
       "label": "Belki: PTT Y.Ö.K. ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122666493",
+      "label": "Belki: PTT Ankara KAHRAMANLAR",
       "block": false,
       "block_recommended": false
     },
@@ -1499,6 +2051,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903122774046",
+      "label": "Belki: PTT – 29 EKİM ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903122774076",
       "label": "Belki: PTT NECİP FAZIL ŞUBESİ – Ankara",
       "block": false,
@@ -1511,8 +2069,32 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903122800141",
+      "label": "Belki: PTT – ALTAY ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903122807202",
       "label": "Belki: PTT ŞEKER ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122807213",
+      "label": "Belki: PTT Ankara ERYAMAN MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122823131",
+      "label": "Belki: PTT Ankara ERYAMAN EVLERİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122840152",
+      "label": "Belki: PTT – ADLİYE İCRALAR ŞUBESİ",
       "block": false,
       "block_recommended": false
     },
@@ -1529,14 +2111,74 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903122844109",
+      "label": "Belki: PTT Ankara BARIŞ MANÇO ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903122855420",
       "label": "Belki: CEVA Lojistik Ankara Ofisi",
       "block": false,
       "block_recommended": false
     },
     {
+      "phone_number": "+903122856250",
+      "label": "Belki: PTT – ANKARA BÖLGE İDARE MAHKEMESİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122861109",
+      "label": "Belki: PTT – ANKARA ASLİYE TİCARET VE İŞ MAHKEMELERİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122863771",
+      "label": "Belki: PTT – AİLE BAKANLIĞI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122869638",
+      "label": "Belki: PTT Ankara ENERJİ PİYASASI DÜZENLEME KURUMU ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122869753",
+      "label": "Belki: PTT Ankara BİLKENT GÜMRÜK ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122870147",
+      "label": "Belki: PTT Ankara DANIŞTAY ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122870918",
+      "label": "Belki: PTT Ankara ÇUKURAMBAR MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903122873360",
       "label": "Tarım ve Orman Bakanlığı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122874404",
+      "label": "Belki: PTT Ankara BALGAT MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122877685",
+      "label": "Belki: PTT Ankara ATO ŞUBESİ",
       "block": false,
       "block_recommended": false
     },
@@ -1565,8 +2207,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903122992532",
+      "label": "Belki: PTT Ankara BEYTEPE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903123055000",
       "label": "Hacettepe Üniversitesi Sıhhiye",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123075231",
+      "label": "Belki: PTT – ANKARA POSTA İŞLEME MÜDÜRLÜĞÜ",
       "block": false,
       "block_recommended": false
     },
@@ -1583,8 +2237,50 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903123102846",
+      "label": "Belki: PTT Ankara HAMAMÖNÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123105259",
+      "label": "Belki: PTT – ANKARA BÜYÜKŞEHİR BELEDİYESİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123107130",
+      "label": "Belki: PTT Ankara HACI BAYRAM",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903123116288",
       "label": "Belki: PTT RÜZGARLI MÜDÜRLÜĞÜ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123122515",
+      "label": "Belki: PTT – ALTINDAĞ MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123122516",
+      "label": "Belki: PTT Ankara DIŞKAPI ADLİYE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123125506",
+      "label": "Belki: PTT Ankara HACETTEPE HASTANESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123125515",
+      "label": "Belki: PTT – ADLİYE SARAYI MÜDÜRLÜĞÜ",
       "block": false,
       "block_recommended": false
     },
@@ -1619,14 +2315,86 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903123181122",
+      "label": "Belki: PTT – ALTINDAĞ POSTA DAĞITIM MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123192212",
+      "label": "Belki: PTT Ankara CEBECİ MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123203472",
+      "label": "Belki: PTT Ankara GÜLVEREN",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123212127",
+      "label": "Belki: PTT Ankara ETLİK",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123222254",
+      "label": "Belki: PTT – ANTARES ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903123244409",
       "label": "Belki: PTT ULUS MÜDÜRLÜĞÜ – Ankara",
       "block": false,
       "block_recommended": false
     },
     {
+      "phone_number": "+903123262823",
+      "label": "Belki: PTT Ankara GÜLHANE HASTANESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123271753",
+      "label": "Belki: PTT Ankara EŞREF BİTLİS",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123288390",
+      "label": "Belki: PTT Ankara AYYILDIZ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123296498",
+      "label": "Belki: PTT Ankara KAFKAS",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123299697",
+      "label": "Belki: PTT Ankara BAĞLUM ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123333861",
+      "label": "Belki: PTT Ankara GAZİ MAHALLESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903123348781",
       "label": "Belki: PTT SELÇUKLU ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123352669",
+      "label": "Belki: PTT Ankara DEMETGÜL ŞUBESİ",
       "block": false,
       "block_recommended": false
     },
@@ -1643,8 +2411,32 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903123383815",
+      "label": "Belki: PTT – ANKARA ADLİ TIP ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903123384567",
       "label": "Belki: PTT YEŞİLÖZ ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123388772",
+      "label": "Belki: PTT Ankara GÜLPINAR",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123390058",
+      "label": "Belki: PTT – AKTEPE-YEŞİLTEPE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123404038",
+      "label": "Belki: PTT Ankara BAĞLARBAŞI ŞUBESİ",
       "block": false,
       "block_recommended": false
     },
@@ -1663,6 +2455,18 @@
     {
       "phone_number": "+903123421550",
       "label": "Belki: PTT ZİRAAAT MAHALLESİ ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123461967",
+      "label": "Belki: PTT Ankara DEMETEVLER MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123470171",
+      "label": "Belki: PTT Ankara AYDINLIKEVLER ŞUBESİ",
       "block": false,
       "block_recommended": false
     },
@@ -1691,6 +2495,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903123525562",
+      "label": "Belki: PTT Ankara İNCİRLİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903123543300",
       "label": "Belki: PTT OSTİM ŞUBESİ – Ankara",
       "block": false,
@@ -1709,8 +2519,32 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903123556942",
+      "label": "Belki: PTT Ankara BADEMLİK ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903123558055",
       "label": "Belki: PTT KUŞÇAĞIZ ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123600059",
+      "label": "Belki: PTT Ankara GÜÇLÜKAYA",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123640020",
+      "label": "Belki: PTT Ankara DEREBOYU ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123645837",
+      "label": "Belki: PTT – AKDERE ŞUBESİ",
       "block": false,
       "block_recommended": false
     },
@@ -1751,8 +2585,56 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903123751092",
+      "label": "Belki: PTT Ankara BAŞAK MAHALLESİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123755282",
+      "label": "Belki: PTT Ankara HÜSEYİNGAZİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123759145",
+      "label": "Belki: PTT Ankara ESENKÖY ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903123771104",
       "label": "Belki: PTT KARAPÜRÇEK ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123782422",
+      "label": "Belki: PTT Ankara ESERTEPE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123790072",
+      "label": "Belki: PTT Ankara ÇAMBAŞI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123846113",
+      "label": "Belki: PTT Ankara EMNİYET MÜDÜRLÜĞÜ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123890037",
+      "label": "Belki: PTT – ABİDİNPAŞA MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123901835",
+      "label": "Belki: PTT Ankara FAHRİ KORTÜRK",
       "block": false,
       "block_recommended": false
     },
@@ -1769,8 +2651,38 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903123922120",
+      "label": "Belki: PTT Ankara BOĞAZİÇİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123945082",
+      "label": "Belki: PTT Ankara İVEDİK ORGANİZE SANAYİ SİTESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903123967901",
       "label": "Belki: PTT YAKACIK ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123974146",
+      "label": "Belki: PTT Ankara GİMAT",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123974720",
+      "label": "Belki: PTT – ANKARA KARGO İŞLEME MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903123982421",
+      "label": "Belki: PTT Ankara HAVALİMANI",
       "block": false,
       "block_recommended": false
     },
@@ -1811,6 +2723,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903124185663",
+      "label": "Belki: PTT Ankara GENELKURMAY",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903124185952",
       "label": "Belki: PTT KIZILAY MÜDÜRLÜĞÜ – Ankara",
       "block": false,
@@ -1821,6 +2739,12 @@
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+903124189936",
+      "label": "Belki: PTT Ankara HAVA KUVETTELERİ KOMUTANLIĞI",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+903124190128",
@@ -1841,6 +2765,18 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903124258240",
+      "label": "Belki: PTT – ADALET BAKANLIĞI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124273216",
+      "label": "Belki: PTT – AŞAĞI AYRANCI ŞUBE ŞEFLİĞİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903124284265",
       "label": "Belki: PTT KAVAKLIDERE ŞUBESİ – Ankara",
       "block": false,
@@ -1853,6 +2789,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903124312020",
+      "label": "Belki: PTT – AHMETLER ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903124332020",
       "label": "Belki: PTT YENİŞEHİR MÜDÜRLÜĞÜ – Ankara",
       "block": false,
@@ -1861,6 +2803,18 @@
     {
       "phone_number": "+903124333058",
       "label": "Belki: PTT YENİŞEHİR SGK ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124372705",
+      "label": "Belki: PTT Ankara BÜYÜKESAT MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124387037",
+      "label": "Belki: PTT Ankara ÇANKAYA MÜDÜRLÜĞÜ",
       "block": false,
       "block_recommended": false
     },
@@ -1895,14 +2849,74 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+903124601000",
+      "label": "Belki: PTT Ankara İNCEK",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124661201",
+      "label": "Belki: PTT Ankara ÇANKAYA POSTA DAĞITIM MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124680960",
+      "label": "Belki: PTT Ankara EMNİYET GENEL MÜDÜRLÜĞÜ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903124708000",
       "label": "Kültür ve Turizm Bakanlığı",
       "block": false,
       "block_recommended": false
     },
     {
+      "phone_number": "+903124720004",
+      "label": "Belki: PTT – ANKARA BÖLGE ADLİYE MAHKEMESİ BALGAT ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903124769370",
       "label": "Belki: PTT KEKLİKPINARI ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124801988",
+      "label": "Belki: PTT Ankara DİKMEN MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124821604",
+      "label": "Belki: PTT Ankara İLKER",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124842085",
+      "label": "Belki: PTT Ankara GÖLBAŞI SEĞMENLER",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124843435",
+      "label": "Belki: PTT Ankara GÖLBAŞI",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124898069",
+      "label": "Belki: PTT – AHLATLIBEL ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124898219",
+      "label": "Belki: PTT – ANAYASA MAHKEMESİ ŞUBESİ",
       "block": false,
       "block_recommended": false
     },
@@ -1919,8 +2933,44 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903124966284",
+      "label": "Belki: PTT Ankara BİRLİK ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124981106",
+      "label": "Belki: PTT Ankara JANDARMA SAHİL GÜVENLİK AKADEMİSİ BŞK.ŞB.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903125024015",
       "label": "Belki: PTT YÜKSELTEPE ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903125025019",
+      "label": "Belki: PTT Ankara CONSEPT AVM ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903125027019",
+      "label": "Belki: PTT Ankara ATAYURT ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903125031506",
+      "label": "Belki: PTT Ankara BİLKENT ŞEHİR HASTANELERİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903125042289",
+      "label": "Belki: PTT Ankara BİLGİ TEKNOLOJİLERİ ŞUBESİ",
       "block": false,
       "block_recommended": false
     },
@@ -1933,6 +2983,12 @@
     {
       "phone_number": "+903125115839",
       "label": "Belki: PTT ŞENTEPE MÜDÜRLÜĞÜ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903125142396",
+      "label": "Belki: PTT Ankara BAĞLICA ŞUBE ŞEFLİĞİ",
       "block": false,
       "block_recommended": false
     },
@@ -1979,6 +3035,18 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903125665037",
+      "label": "Belki: PTT Ankara ÇAKIRLAR ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903125800388",
+      "label": "Belki: PTT – ATAPARK ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903125802756",
       "label": "Belki: PTT KANUNİ ŞUBESİ – Ankara",
       "block": false,
@@ -2003,8 +3071,32 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903126220851",
+      "label": "Belki: PTT Ankara DUA TEPE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903126239090",
       "label": "Belki: PTT POLATLI MÜDÜRLÜĞÜ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903126241099",
+      "label": "Belki: PTT – ADLİYE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903126411623",
+      "label": "Belki: PTT Ankara İSKİTLER",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903126581515",
+      "label": "Belki: PTT Ankara HAYMANA",
       "block": false,
       "block_recommended": false
     },
@@ -2015,8 +3107,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903127121404",
+      "label": "Belki: PTT Ankara AYAŞ MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903127121424",
       "label": "Belki: PTT PAZARYERİ ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903127281351",
+      "label": "Belki: PTT Ankara GÜDÜL",
       "block": false,
       "block_recommended": false
     },
@@ -2027,14 +3131,50 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903127531004",
+      "label": "Belki: PTT Ankara ÇAMLIDERE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903127600995",
+      "label": "Belki: PTT Ankara BEYPAZARI ADLİYE ŞB. ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903127632214",
+      "label": "Belki: PTT Ankara HACIKARA",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903127632215",
+      "label": "Belki: PTT Ankara BEYPAZARI MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903127851718",
       "label": "Belki: PTT NALLIHAN MÜDÜRLÜĞÜ – Ankara",
       "block": false,
       "block_recommended": false
     },
     {
+      "phone_number": "+903127961100",
+      "label": "Belki: PTT Ankara ÇAYIRHAN ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903128112752",
       "label": "Belki: PTT TAİ ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903128141100",
+      "label": "Belki: PTT Ankara KAHRAMANKAZAN",
       "block": false,
       "block_recommended": false
     },
@@ -2051,14 +3191,68 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903128370130",
+      "label": "Belki: PTT Ankara ÇUBUK MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903128384361",
+      "label": "Belki: PTT Ankara ÇUBUK ADLİYE ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903128390086",
       "label": "Reported",
       "block": true,
       "block_recommended": true
     },
     {
+      "phone_number": "+903128441105",
+      "label": "Belki: PTT – AKYURT MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903128571313",
+      "label": "Belki: PTT Ankara Kalecik",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903128631001",
+      "label": "Belki: PTT Ankara ELMADAĞ MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903128661001",
+      "label": "Belki: PTT Ankara HASANOĞLAN",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903128661190",
       "label": "Belki: PTT MENDERES ŞUBESİ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903128722448",
+      "label": "Belki: PTT Ankara ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903128761322",
+      "label": "Belki: PTT Ankara BALA MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903128935100",
+      "label": "Belki: PTT Ankara EVREN",
       "block": false,
       "block_recommended": false
     },
@@ -2963,6 +4157,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+905053837070",
+      "label": "Belki: PTT – OBAGÖL 1 KURUMSAL ACENTELİĞİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+905059195744",
       "label": "Spam",
       "block": true,
@@ -3079,6 +4279,12 @@
     {
       "phone_number": "+905417639371",
       "label": "Belki: PTT Adıyaman Kuyulu Acenteliği",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+905419440700",
+      "label": "Belki: PTT – YEŞİLYAYLA ACENTELİĞİ",
       "block": false,
       "block_recommended": false
     },

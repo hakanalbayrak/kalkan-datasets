@@ -1,8 +1,8 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-08-13T10:31:57.346Z",
-  "version": "v1-6b2abd0c4a55aea5",
-  "entry_count": 96,
+  "generated_at": "2026-08-19T10:33:33.746Z",
+  "version": "v1-4f95d537f00e7f02",
+  "entry_count": 97,
   "entries": [
     {
       "phone_number": "+902123156500",
@@ -157,6 +157,12 @@
     {
       "phone_number": "+902169220184",
       "label": "Su arıtma",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902169221238",
+      "label": "Reported",
       "category": null,
       "block": true
     },
@@ -582,9 +588,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 722,
-    "identify_count": 626,
-    "exact_blocking_count": 96,
+    "total_numbers_considered": 923,
+    "identify_count": 826,
+    "exact_blocking_count": 97,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },
