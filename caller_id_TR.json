@@ -1,8 +1,8 @@
 {
   "protection_layer": "caller_id_exact",
-  "generated_at": "2026-08-23T12:11:49.733Z",
-  "version": "v1-d17fac65c1e45170",
-  "entry_count": 3312,
+  "generated_at": "2026-08-23T12:12:58.510Z",
+  "version": "v1-73d2c47a5c4fab96",
+  "entry_count": 3316,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -15860,8 +15860,18 @@
       "category": null
     },
     {
+      "phone_number": "+908502220600",
+      "label": "ING Telefon Bankacılığı",
+      "category": null
+    },
+    {
       "phone_number": "+908502220724",
       "label": "VakıfBank Müşteri İletişim Merkezi",
+      "category": null
+    },
+    {
+      "phone_number": "+908502220800",
+      "label": "DenizBank İletişim Merkezi",
       "category": null
     },
     {
@@ -15892,6 +15902,11 @@
     {
       "phone_number": "+908502221900",
       "label": "QNB Kurumsal Telefon Bankacılığı",
+      "category": null
+    },
+    {
+      "phone_number": "+908502222244",
+      "label": "Türkiye Finans Müşteri İletişim Merkezi",
       "category": null
     },
     {
@@ -16410,6 +16425,11 @@
       "category": null
     },
     {
+      "phone_number": "+908503993636",
+      "label": "TOM Bank Müşteri İletişim Merkezi",
+      "category": null
+    },
+    {
       "phone_number": "+908503999999",
       "label": "Allianz Sigorta ve Hayat Emeklilik Müşteri Hizmetleri",
       "category": null
@@ -16567,8 +16587,8 @@
   ],
   "routing_summary": {
     "total_numbers_considered": 3408,
-    "identify_count": 3312,
-    "exact_blocking_count": 96,
+    "identify_count": 3316,
+    "exact_blocking_count": 92,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },

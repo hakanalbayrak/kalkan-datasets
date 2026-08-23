@@ -1,7 +1,7 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-08-23T12:11:49.733Z",
-  "version": "v1-e788542159d02a66",
+  "generated_at": "2026-08-23T12:12:58.510Z",
+  "version": "v1-8b2cb4fe69c294e8",
   "entry_count": 3408,
   "entries": [
     {
@@ -19308,9 +19308,9 @@
     },
     {
       "phone_number": "+908502220600",
-      "label": "Spam",
-      "block": true,
-      "block_recommended": true
+      "label": "ING Telefon Bankacılığı",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502220724",
@@ -19320,9 +19320,9 @@
     },
     {
       "phone_number": "+908502220800",
-      "label": "Spam",
-      "block": true,
-      "block_recommended": true
+      "label": "DenizBank İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502220860",
@@ -19362,9 +19362,9 @@
     },
     {
       "phone_number": "+908502222244",
-      "label": "Spam",
-      "block": true,
-      "block_recommended": true
+      "label": "Türkiye Finans Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502222525",
@@ -20058,9 +20058,9 @@
     },
     {
       "phone_number": "+908503993636",
-      "label": "Spam",
-      "block": true,
-      "block_recommended": true
+      "label": "TOM Bank Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908503999999",
