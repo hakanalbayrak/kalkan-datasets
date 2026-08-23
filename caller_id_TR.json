@@ -1,8 +1,8 @@
 {
   "protection_layer": "caller_id_exact",
-  "generated_at": "2026-08-23T11:01:00.557Z",
-  "version": "v1-172986df6268b804",
-  "entry_count": 3265,
+  "generated_at": "2026-08-23T11:34:39.727Z",
+  "version": "v1-393e5e912f74fd19",
+  "entry_count": 3275,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -32,6 +32,11 @@
     {
       "phone_number": "+904440199",
       "label": "Recep Tayyip Erdoğan Üniversitesi",
+      "category": null
+    },
+    {
+      "phone_number": "+904440248",
+      "label": "AGT Kurye Çağrı Merkezi",
       "category": null
     },
     {
@@ -325,6 +330,16 @@
       "category": null
     },
     {
+      "phone_number": "+904449339",
+      "label": "FedEx Türkiye Müşteri Hizmetleri",
+      "category": null
+    },
+    {
+      "phone_number": "+904449393",
+      "label": "Kuryenet Çağrı Merkezi",
+      "category": null
+    },
+    {
       "phone_number": "+904449999",
       "label": "Yurtiçi Kargo Çağrı Merkezi",
       "category": null
@@ -482,6 +497,11 @@
     {
       "phone_number": "+902122690585",
       "label": "PTT - EMNİYET EVLERİ ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902122704744",
+      "label": "Bir Günde Kargo Genel Müdürlüğü",
       "category": null
     },
     {
@@ -822,6 +842,11 @@
     {
       "phone_number": "+902124519843",
       "label": "PTT - KUYUMCULAR ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902124561000",
+      "label": "Horoz Lojistik Genel Müdürlüğü",
       "category": null
     },
     {
@@ -1720,6 +1745,11 @@
       "category": null
     },
     {
+      "phone_number": "+902162323088",
+      "label": "Scotty Destek Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902162662626",
       "label": "Emlak Katılım Genel İletişim",
       "category": null
@@ -2371,7 +2401,7 @@
     },
     {
       "phone_number": "+902166334444",
-      "label": "CEVA Lojistik İstanbul Ofisi",
+      "label": "Borusan Lojistik Genel Müdürlüğü",
       "category": null
     },
     {
@@ -15700,6 +15730,11 @@
       "category": null
     },
     {
+      "phone_number": "+908502153334",
+      "label": "Jetizz Müşteri Hizmetleri",
+      "category": null
+    },
+    {
       "phone_number": "+908502200000",
       "label": "Ziraat Bankası Müşteri İletişim Merkezi",
       "category": null
@@ -16240,6 +16275,11 @@
       "category": null
     },
     {
+      "phone_number": "+908503330327",
+      "label": "AGT Kurye WhatsApp Destek Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+908503332286",
       "label": "DeFacto Müşteri Hizmetleri",
       "category": null
@@ -16255,6 +16295,11 @@
       "category": null
     },
     {
+      "phone_number": "+908504773474",
+      "label": "Kargoist Müşteri Hizmetleri",
+      "category": null
+    },
+    {
       "phone_number": "+908505321144",
       "label": "Dyson Destek Hattı",
       "category": null
@@ -16267,6 +16312,11 @@
     {
       "phone_number": "+908505400042",
       "label": "AppleConnect",
+      "category": null
+    },
+    {
+      "phone_number": "+908505580333",
+      "label": "HepsiJET Danışma Hattı",
       "category": null
     },
     {
@@ -16331,8 +16381,8 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 3363,
-    "identify_count": 3265,
+    "total_numbers_considered": 3373,
+    "identify_count": 3275,
     "exact_blocking_count": 98,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
