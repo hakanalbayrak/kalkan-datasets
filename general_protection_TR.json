@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-08-23T11:51:35.553Z",
-  "version": "v1-d23c22036bf0213a",
-  "entry_count": 3375,
+  "generated_at": "2026-08-23T12:10:50.986Z",
+  "version": "v1-d6a5c60b6c31b347",
+  "entry_count": 3408,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -168,7 +168,7 @@
     },
     {
       "phone_number": "+904442727",
-      "label": "Aksigorta Çağrı Merkezi",
+      "label": "Aksigorta Hizmet Merkezi",
       "block": false,
       "block_recommended": false
     },
@@ -491,6 +491,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902122314730",
+      "label": "Milli Reasürans Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902122369870",
       "label": "PTT - ORTAKÖY ŞUBESİ (+1 işyeri)",
       "block": false,
@@ -701,6 +707,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902123063900",
+      "label": "Chubb Türkiye Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902123152525",
       "label": "Takasbank Genel İletişim",
       "block": false,
@@ -863,6 +875,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902123632500",
+      "label": "Ray Sigorta Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902123653401",
       "label": "Trendyol Go Yemek / UberEats",
       "block": true,
@@ -899,6 +917,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902123738300",
+      "label": "Şeker Sigorta Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902123837070",
       "label": "Yıldız Teknik Üniversitesi",
       "block": false,
@@ -907,6 +931,12 @@
     {
       "phone_number": "+902123850600",
       "label": "Intesa Sanpaolo Türkiye Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123862800",
+      "label": "Atradius Türkiye Genel İletişim",
       "block": false,
       "block_recommended": false
     },
@@ -2195,6 +2225,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902129396980",
+      "label": "VHV Reasürans Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902162050534",
       "label": "Dolandirici",
       "block": true,
@@ -2225,8 +2261,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902162259600",
+      "label": "Türk Katılım Reasürans Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902162323088",
       "label": "Scotty Destek Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902162519900",
+      "label": "Coface Türkiye Genel İletişim",
       "block": false,
       "block_recommended": false
     },
@@ -2639,6 +2687,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902164441111",
+      "label": "AgeSA Hayat ve Emeklilik İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902164449339",
       "label": "FedEx Adana İstasyonu",
       "block": false,
@@ -2873,6 +2927,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902165541100",
+      "label": "Türk Nippon Sigorta Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902165592058",
       "label": "Ziraat Katılım Ek Hizmet Binası",
       "block": false,
@@ -3035,6 +3095,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902166354444",
+      "label": "Bereket Sigorta ve Emeklilik İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902166356512",
       "label": "TEB POS Destek Hattı",
       "block": false,
@@ -3073,6 +3139,12 @@
     {
       "phone_number": "+902166413879",
       "label": "PTT - MERKEZ MAHALLESİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902166658500",
+      "label": "Ankara Sigorta Genel Müdürlüğü",
       "block": false,
       "block_recommended": false
     },
@@ -10123,6 +10195,12 @@
     {
       "phone_number": "+903124420573",
       "label": "PTT TURAN GÜNEŞ MÜDÜRLÜĞÜ – Ankara",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124461020",
+      "label": "GWI Sigorta Genel İletişim",
       "block": false,
       "block_recommended": false
     },
@@ -19086,13 +19164,19 @@
     },
     {
       "phone_number": "+908502022020",
-      "label": "Türkiye Sigorta Çağrı Merkezi",
+      "label": "Türkiye Sigorta ve Türkiye Hayat Emeklilik Müşteri İletişim Merk",
       "block": false,
       "block_recommended": false
     },
     {
       "phone_number": "+908502023350",
       "label": "Horoz Lojistik Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502023515",
+      "label": "Orient Sigorta İletişim Hattı",
       "block": false,
       "block_recommended": false
     },
@@ -19187,6 +19271,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908502220312",
+      "label": "Viennalife Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502220400",
       "label": "Halkbank Dialog",
       "block": false,
@@ -19233,6 +19323,12 @@
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908502220860",
+      "label": "QNB Sigorta Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502220880",
@@ -19283,6 +19379,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908502222800",
+      "label": "Unico Sigorta Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502222900",
       "label": "QNB Sizi Dinliyoruz Hattı",
       "block": false,
@@ -19309,6 +19411,12 @@
     {
       "phone_number": "+908502224020",
       "label": "Halkbank Diğer Kurumsal Hat 0850-4020",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502224440",
+      "label": "Atlas Mutuel İletişim Hattı",
       "block": false,
       "block_recommended": false
     },
@@ -19353,6 +19461,12 @@
       "label": "Eureko Sigorta",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908502227434",
+      "label": "HDI Katılım Sigorta İletişim Hattı",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908502227445",
@@ -19439,14 +19553,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908502507500",
+      "label": "Zurich Sigorta ve Yaşam Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502508181",
-      "label": "Sompo Sigorta Yardım Hattı",
+      "label": "Sompo Sigorta İletişim Hattı",
       "block": false,
       "block_recommended": false
     },
     {
       "phone_number": "+908502509999",
-      "label": "AXA Müşteri Çözüm Merkezi",
+      "label": "AXA Sigorta ve AXA Hayat Emeklilik Müşteri Hizmetleri",
       "block": false,
       "block_recommended": false
     },
@@ -19459,6 +19579,12 @@
     {
       "phone_number": "+908502513123",
       "label": "Kuveyt Türk Müşteri Memnuniyeti 0850",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502520404",
+      "label": "Demir Sağlık ve Hayat İletişim Hattı",
       "block": false,
       "block_recommended": false
     },
@@ -19483,6 +19609,12 @@
     {
       "phone_number": "+908502550066",
       "label": "UPS Türkiye Müşteri Desteği",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502553622",
+      "label": "Emaa Sigorta İletişim Hattı",
       "block": false,
       "block_recommended": false
     },
@@ -19913,6 +20045,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908503403434",
+      "label": "Koru Sigorta Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908503902770",
       "label": "Spam",
       "block": true,
@@ -19926,7 +20064,7 @@
     },
     {
       "phone_number": "+908503999999",
-      "label": "Allianz Müşteri Hizmetleri",
+      "label": "Allianz Sigorta ve Hayat Emeklilik Müşteri Hizmetleri",
       "block": false,
       "block_recommended": false
     },
@@ -19943,6 +20081,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908504606262",
+      "label": "Ana Sigorta Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908504773474",
       "label": "Kargoist Müşteri Hizmetleri",
       "block": false,
@@ -19953,6 +20097,12 @@
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908504807505",
+      "label": "BNP Paribas Cardif Sigorta ve Emeklilik İletişim Hattı",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908505120843",
@@ -20069,6 +20219,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908506656363",
+      "label": "Hepiyi Sigorta Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908507240346",
       "label": "English Home Müşteri Hizmetleri",
       "block": false,
@@ -20087,6 +20243,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908507240850",
+      "label": "Anadolu Sigorta Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908507243050",
       "label": "Aktif Bank İletişim Hattı",
       "block": false,
@@ -20094,9 +20256,9 @@
     },
     {
       "phone_number": "+908507245500",
-      "label": "Spam",
-      "block": true,
-      "block_recommended": true
+      "label": "Anadolu Hayat Emeklilik Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908507247767",
@@ -20107,6 +20269,12 @@
     {
       "phone_number": "+908507334468",
       "label": "Colendi Bank Destek Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908507377070",
+      "label": "Corpus Sigorta İletişim Hattı",
       "block": false,
       "block_recommended": false
     },
@@ -20129,8 +20297,20 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908507550755",
+      "label": "MAPFRE Sigorta Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908507551000",
       "label": "CarrefourSA Genel Müdürlük",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908507551755",
+      "label": "Quick Sigorta ve Quick Hayat İletişim Hattı",
       "block": false,
       "block_recommended": false
     },
@@ -20221,6 +20401,24 @@
     {
       "phone_number": "+908508080000",
       "label": "ŞOK Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908508082624",
+      "label": "Magdeburger Sigorta İletişim Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908508115100",
+      "label": "Doğa Sigorta Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908508880909",
+      "label": "Ethica Sigorta Müşteri Hizmetleri",
       "block": false,
       "block_recommended": false
     },
