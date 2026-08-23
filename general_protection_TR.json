@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-08-23T11:34:39.727Z",
-  "version": "v1-fe9a182daa2b7887",
-  "entry_count": 3373,
+  "generated_at": "2026-08-23T11:51:35.553Z",
+  "version": "v1-d23c22036bf0213a",
+  "entry_count": 3375,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -849,6 +849,12 @@
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+902123591800",
+      "label": "Yemeksepeti Genel Merkez",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+902123600806",
@@ -19895,6 +19901,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908503334700",
+      "label": "BiTaksi Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908503400340",
       "label": "Spam",
       "block": true,
@@ -19974,9 +19986,9 @@
     },
     {
       "phone_number": "+908505325050",
-      "label": "Spam",
-      "block": true,
-      "block_recommended": true
+      "label": "Getir ve GetirYemek Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908505326258",

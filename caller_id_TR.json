@@ -1,8 +1,8 @@
 {
   "protection_layer": "caller_id_exact",
-  "generated_at": "2026-08-23T11:34:39.727Z",
-  "version": "v1-393e5e912f74fd19",
-  "entry_count": 3275,
+  "generated_at": "2026-08-23T11:51:35.553Z",
+  "version": "v1-20609c09791d32d3",
+  "entry_count": 3278,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -682,6 +682,11 @@
     {
       "phone_number": "+902123540354",
       "label": "Toyota Müşteri İlişkileri",
+      "category": null
+    },
+    {
+      "phone_number": "+902123591800",
+      "label": "Yemeksepeti Genel Merkez",
       "category": null
     },
     {
@@ -16285,6 +16290,11 @@
       "category": null
     },
     {
+      "phone_number": "+908503334700",
+      "label": "BiTaksi Müşteri Hizmetleri",
+      "category": null
+    },
+    {
       "phone_number": "+908503999999",
       "label": "Allianz Müşteri Hizmetleri",
       "category": null
@@ -16307,6 +16317,11 @@
     {
       "phone_number": "+908505323322",
       "label": "Decathlon Müşteri Hizmetleri",
+      "category": null
+    },
+    {
+      "phone_number": "+908505325050",
+      "label": "Getir ve GetirYemek Müşteri Hizmetleri",
       "category": null
     },
     {
@@ -16381,9 +16396,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 3373,
-    "identify_count": 3275,
-    "exact_blocking_count": 98,
+    "total_numbers_considered": 3375,
+    "identify_count": 3278,
+    "exact_blocking_count": 97,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },
