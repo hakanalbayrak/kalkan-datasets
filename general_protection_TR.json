@@ -1,7 +1,7 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-08-23T12:10:50.986Z",
-  "version": "v1-d6a5c60b6c31b347",
+  "generated_at": "2026-08-23T12:11:49.733Z",
+  "version": "v1-e788542159d02a66",
   "entry_count": 3408,
   "entries": [
     {
@@ -19164,7 +19164,7 @@
     },
     {
       "phone_number": "+908502022020",
-      "label": "Türkiye Sigorta ve Türkiye Hayat Emeklilik Müşteri İletişim Merk",
+      "label": "Türkiye Sigorta ve Hayat Emeklilik Müşteri Hattı",
       "block": false,
       "block_recommended": false
     },
