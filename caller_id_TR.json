@@ -1,8 +1,8 @@
 {
   "protection_layer": "caller_id_exact",
-  "generated_at": "2026-08-23T12:12:58.510Z",
-  "version": "v1-73d2c47a5c4fab96",
-  "entry_count": 3316,
+  "generated_at": "2026-08-24T10:35:17.576Z",
+  "version": "v1-f1abb0caebb1f49d",
+  "entry_count": 3416,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -370,6 +370,11 @@
       "category": null
     },
     {
+      "phone_number": "+902122123642",
+      "label": "Doğa Sigorta",
+      "category": null
+    },
+    {
       "phone_number": "+902122126535",
       "label": "PTT - MECİDİYEKÖY MÜDÜRLÜĞÜ",
       "category": null
@@ -565,6 +570,11 @@
       "category": null
     },
     {
+      "phone_number": "+902122886851",
+      "label": "Demir Sağlık İstanbul Avrupa Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902122894260",
       "label": "PTT - AYAZAĞA ŞUBESİ",
       "category": null
@@ -675,6 +685,11 @@
       "category": null
     },
     {
+      "phone_number": "+902123349000",
+      "label": "MAPFRE Sigorta İstanbul Avrupa Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902123363636",
       "label": "HSBC Santral 2",
       "category": null
@@ -752,6 +767,11 @@
     {
       "phone_number": "+902123862800",
       "label": "Atradius Türkiye Genel İletişim",
+      "category": null
+    },
+    {
+      "phone_number": "+902123934303",
+      "label": "Aksigorta İstanbul Avrupa Bölge Hattı",
       "category": null
     },
     {
@@ -877,6 +897,16 @@
     {
       "phone_number": "+902124561000",
       "label": "Horoz Lojistik Genel Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+902124636800",
+      "label": "Aksigorta İstanbul Avrupa Bölge Hattı 2",
+      "category": null
+    },
+    {
+      "phone_number": "+902124654045",
+      "label": "Ray Sigorta İstanbul Avrupa Bölge Hattı 3",
       "category": null
     },
     {
@@ -1700,6 +1730,11 @@
       "category": null
     },
     {
+      "phone_number": "+902128714612",
+      "label": "MAPFRE Sigorta İstanbul Avrupa Bölge Hattı 2",
+      "category": null
+    },
+    {
       "phone_number": "+902128731351",
       "label": "PTT - BÜYÜKŞEHİR ŞUBESİ",
       "category": null
@@ -1775,6 +1810,16 @@
       "category": null
     },
     {
+      "phone_number": "+902162222026",
+      "label": "Hepiyi Çözüm Merkezi Hattı 4",
+      "category": null
+    },
+    {
+      "phone_number": "+902162222027",
+      "label": "Hepiyi Çözüm Merkezi Hattı 5",
+      "category": null
+    },
+    {
       "phone_number": "+902162259595",
       "label": "Halkbank Diğer Kurumsal Hat 0216-9595",
       "category": null
@@ -1797,6 +1842,11 @@
     {
       "phone_number": "+902162662626",
       "label": "Emlak Katılım Genel İletişim",
+      "category": null
+    },
+    {
+      "phone_number": "+902162808888",
+      "label": "Aksigorta İstanbul Anadolu Bölge Hattı 2",
       "category": null
     },
     {
@@ -2005,6 +2055,11 @@
       "category": null
     },
     {
+      "phone_number": "+902163680027",
+      "label": "MAPFRE Sigorta İstanbul Anadolu Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902163713787",
       "label": "PTT - ALTAYÇEŞME ŞUBESİ",
       "category": null
@@ -2100,6 +2155,16 @@
       "category": null
     },
     {
+      "phone_number": "+902164002400",
+      "label": "GIG Sigorta İstanbul Anadolu Bölge Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+902164111606",
+      "label": "Ray Sigorta İstanbul Anadolu Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902164171018",
       "label": "PTT - ORHANGAZİ ŞUBESİ",
       "category": null
@@ -2152,6 +2217,16 @@
     {
       "phone_number": "+902164574007",
       "label": "PTT - İSTANBUL BÖLGE İSTİNAF MAHKEMELERİ MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902164657353",
+      "label": "Koru Sigorta İstanbul Anadolu Bölge Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+902164680300",
+      "label": "QNB Sigorta İstanbul Anadolu Bölge Hattı",
       "category": null
     },
     {
@@ -2330,6 +2405,11 @@
       "category": null
     },
     {
+      "phone_number": "+902165591900",
+      "label": "VHV Sigorta İstanbul Anadolu Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902165592058",
       "label": "Ziraat Katılım Ek Hizmet Binası",
       "category": null
@@ -2505,6 +2585,16 @@
       "category": null
     },
     {
+      "phone_number": "+902166560056",
+      "label": "Medisa Sigorta İstanbul Anadolu Bölge Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+902166657514",
+      "label": "Aksigorta İstanbul Anadolu Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902166658500",
       "label": "Ankara Sigorta Genel Müdürlüğü",
       "category": null
@@ -2572,6 +2662,26 @@
     {
       "phone_number": "+902167841064",
       "label": "PTT - DOĞANEVLER KURUMSAL ACENTELİĞİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902169397233",
+      "label": "QNB Sigorta İstanbul Anadolu Bölge Hattı 2",
+      "category": null
+    },
+    {
+      "phone_number": "+902169397257",
+      "label": "QNB Sigorta İstanbul Anadolu Bölge Hattı 4",
+      "category": null
+    },
+    {
+      "phone_number": "+902169397284",
+      "label": "QNB Sigorta İstanbul Anadolu Bölge Hattı 3",
+      "category": null
+    },
+    {
+      "phone_number": "+902169989119",
+      "label": "Hepiyi Çözüm Merkezi Hattı 3",
       "category": null
     },
     {
@@ -2785,6 +2895,16 @@
       "category": null
     },
     {
+      "phone_number": "+902242112827",
+      "label": "Ray Sigorta Bursa Bölge Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+902242113272",
+      "label": "Unico Sigorta Bursa Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902242117757",
       "label": "PTT - PANAYIR ŞUBESİ",
       "category": null
@@ -2795,6 +2915,11 @@
       "category": null
     },
     {
+      "phone_number": "+902242200450",
+      "label": "Sompo Sigorta Marmara Bölge Müdürlüğü",
+      "category": null
+    },
+    {
       "phone_number": "+902242222136",
       "label": "PTT - REYHAN ŞUBESİ",
       "category": null
@@ -2802,6 +2927,16 @@
     {
       "phone_number": "+902242241717",
       "label": "PTT - ULUCAMİ MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902242243395",
+      "label": "GIG Sigorta Bursa Bölge Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+902242243443",
+      "label": "VHV Sigorta Bursa Bölge Hattı",
       "category": null
     },
     {
@@ -2950,6 +3085,11 @@
       "category": null
     },
     {
+      "phone_number": "+902242753047",
+      "label": "Aksigorta Bursa Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902242940000",
       "label": "Bursa Uludağ Üniversitesi",
       "category": null
@@ -3080,6 +3220,11 @@
       "category": null
     },
     {
+      "phone_number": "+902244414141",
+      "label": "MAPFRE Sigorta Bursa Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902244417843",
       "label": "PTT - İHSANİYE MÜDÜRLÜĞÜ (+2 işyeri)",
       "category": null
@@ -3097,6 +3242,11 @@
     {
       "phone_number": "+902244436136",
       "label": "PTT - ÜÇEVLER ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902244523732",
+      "label": "Ankara Sigorta Bursa Bölge Hattı",
       "category": null
     },
     {
@@ -3122,6 +3272,11 @@
     {
       "phone_number": "+902244833894",
       "label": "PTT - GÖRÜKLE ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902245020636",
+      "label": "Doğa Sigorta Bursa Bölge Müdürlüğü",
       "category": null
     },
     {
@@ -3405,6 +3560,11 @@
       "category": null
     },
     {
+      "phone_number": "+902322424000",
+      "label": "MAPFRE Sigorta İzmir Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902322439192",
       "label": "PTT - HATAY MÜDÜRLÜĞÜ",
       "category": null
@@ -3605,8 +3765,18 @@
       "category": null
     },
     {
+      "phone_number": "+902324252979",
+      "label": "Ankara Sigorta İzmir Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902324256381",
       "label": "PTT - BASMANE MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902324256661",
+      "label": "GIG Sigorta İzmir Bölge Hattı",
       "category": null
     },
     {
@@ -3640,8 +3810,18 @@
       "category": null
     },
     {
+      "phone_number": "+902324410042",
+      "label": "Koru Sigorta İzmir Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902324418112",
       "label": "PTT - MİMAR KEMALETTİN KARGO ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902324419699",
+      "label": "Unico Sigorta İzmir Bölge Hattı",
       "category": null
     },
     {
@@ -3652,6 +3832,11 @@
     {
       "phone_number": "+902324422579",
       "label": "PTT - KOZAĞAÇ ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902324468909",
+      "label": "VHV Sigorta İzmir Bölge Hattı",
       "category": null
     },
     {
@@ -3667,6 +3852,11 @@
     {
       "phone_number": "+902324535390",
       "label": "PTT - TINAZTEPE YERLEŞKESİ ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902324558500",
+      "label": "Aksigorta İzmir Bölge Hattı",
       "category": null
     },
     {
@@ -3730,6 +3920,16 @@
       "category": null
     },
     {
+      "phone_number": "+902324837246",
+      "label": "Ray Sigorta İzmir Bölge Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+902324840885",
+      "label": "Doğa Sigorta İzmir Bölge Müdürlüğü",
+      "category": null
+    },
+    {
       "phone_number": "+902324869235",
       "label": "PTT - İZMİR KARGO DAĞITIM MÜDÜRLÜĞÜ",
       "category": null
@@ -3737,6 +3937,11 @@
     {
       "phone_number": "+902324872595",
       "label": "PTT - ŞİRİNYER MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902324896949",
+      "label": "Atlas Sigorta",
       "category": null
     },
     {
@@ -4200,6 +4405,11 @@
       "category": null
     },
     {
+      "phone_number": "+902422252778",
+      "label": "Unico Sigorta Antalya Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902422274400",
       "label": "Akdeniz Üniversitesi Rektörlük",
       "category": null
@@ -4255,6 +4465,16 @@
       "category": null
     },
     {
+      "phone_number": "+902422455900",
+      "label": "Aksigorta Antalya Bölge Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+902422472025",
+      "label": "Ray Sigorta Antalya Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902422580078",
       "label": "PTT – ORGANİZE SANAYİ ŞUBESİ",
       "category": null
@@ -4265,13 +4485,28 @@
       "category": null
     },
     {
+      "phone_number": "+902423113632",
+      "label": "Doğa Sigorta Antalya Bölge Müdürlüğü",
+      "category": null
+    },
+    {
       "phone_number": "+902423120592",
       "label": "PTT – ÇARŞI MÜDÜRLÜĞÜ",
       "category": null
     },
     {
+      "phone_number": "+902423121230",
+      "label": "MAPFRE Sigorta Antalya Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+902423128930",
       "label": "PTT – ER EGİTİM ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902423130090",
+      "label": "Ankara Sigorta Antalya Bölge Hattı",
       "category": null
     },
     {
@@ -5357,6 +5592,11 @@
     {
       "phone_number": "+902568564461",
       "label": "PTT Aydın AKBÜK ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902580000000",
+      "label": "PTT Süller Acenteli̇ği̇, Deni̇zli̇",
       "category": null
     },
     {
@@ -6720,6 +6960,11 @@
       "category": null
     },
     {
+      "phone_number": "+902740000000",
+      "label": "PTT Zafertepe Çalköy Acenteli̇ği̇, Kütahya",
+      "category": null
+    },
+    {
       "phone_number": "+902742231771",
       "label": "PTT - KÜTAHYA DAĞITIM VE TOPLAMA MÜDÜRLÜĞÜ",
       "category": null
@@ -7805,6 +8050,11 @@
       "category": null
     },
     {
+      "phone_number": "+903122873141",
+      "label": "Doğa Sigorta Ankara Bölge Müdürlüğü",
+      "category": null
+    },
+    {
       "phone_number": "+903122873360",
       "label": "Tarım ve Orman Bakanlığı",
       "category": null
@@ -8315,6 +8565,11 @@
       "category": null
     },
     {
+      "phone_number": "+903124285000",
+      "label": "Ray Sigorta Ankara Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+903124287895",
       "label": "PTT TUNUS CADDESİ ŞUBESİ – Ankara",
       "category": null
@@ -8345,6 +8600,11 @@
       "category": null
     },
     {
+      "phone_number": "+903124400907",
+      "label": "Unico Sigorta Ankara Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+903124417522",
       "label": "TSKB Ankara Şubesi",
       "category": null
@@ -8357,6 +8617,11 @@
     {
       "phone_number": "+903124461020",
       "label": "GWI Sigorta Genel İletişim",
+      "category": null
+    },
+    {
+      "phone_number": "+903124465700",
+      "label": "Global World Sigorta",
       "category": null
     },
     {
@@ -8375,8 +8640,23 @@
       "category": null
     },
     {
+      "phone_number": "+903124660280",
+      "label": "Demir Sağlık Ankara Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+903124661201",
       "label": "PTT Ankara ÇANKAYA POSTA DAĞITIM MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+903124666700",
+      "label": "GIG Sigorta Ankara Bölge Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+903124669055",
+      "label": "VHV Sigorta Ankara Bölge Hattı",
       "category": null
     },
     {
@@ -8392,6 +8672,11 @@
     {
       "phone_number": "+903124720004",
       "label": "PTT – ANKARA BÖLGE ADLİYE MAHKEMESİ BALGAT ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+903124727572",
+      "label": "MAPFRE Sigorta Ankara Bölge Hattı",
       "category": null
     },
     {
@@ -8542,6 +8827,11 @@
     {
       "phone_number": "+903125812690",
       "label": "PTT UFUKTEPE MÜDÜRLÜĞÜ – Ankara",
+      "category": null
+    },
+    {
+      "phone_number": "+903125825000",
+      "label": "Aksigorta Ankara Bölge Hattı",
       "category": null
     },
     {
@@ -8850,6 +9140,11 @@
       "category": null
     },
     {
+      "phone_number": "+903222372556",
+      "label": "Unico Sigorta Adana Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+903222471822",
       "label": "PTT Adana Huzur Evleri Şubesi",
       "category": null
@@ -8990,6 +9285,11 @@
       "category": null
     },
     {
+      "phone_number": "+903223557843",
+      "label": "Aksigorta Adana Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+903223599971",
       "label": "PTT Adana Adliye Sarayı Müdürlüğü",
       "category": null
@@ -9027,6 +9327,31 @@
     {
       "phone_number": "+903224543586",
       "label": "PTT Adana Cemalpaşa Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+903224570683",
+      "label": "Ray Sigorta Adana Bölge Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+903224583280",
+      "label": "Ankara Sigorta Adana Bölge Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+903224583642",
+      "label": "Doğa Sigorta Adana Bölge Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+903224594115",
+      "label": "GIG Sigorta Adana Bölge Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+903224595858",
+      "label": "MAPFRE Sigorta Adana Bölge Hattı",
       "category": null
     },
     {
@@ -9422,6 +9747,16 @@
     {
       "phone_number": "+903253214448",
       "label": "PTT - ORGANİZE SANAYİ MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+903260000000",
+      "label": "PTT Hatay Dağitim Ve Toplama Merkezi̇, Hatay",
+      "category": null
+    },
+    {
+      "phone_number": "+903262000000",
+      "label": "PTT Harbi̇ye Esenbulak Şubesi̇, Hatay",
       "category": null
     },
     {
@@ -10055,6 +10390,16 @@
       "category": null
     },
     {
+      "phone_number": "+903420000000",
+      "label": "PTT 8 Şubat Şubesi̇, Gazi̇antep",
+      "category": null
+    },
+    {
+      "phone_number": "+903421111111",
+      "label": "PTT Eli̇f Şubesi̇, Gazi̇antep",
+      "category": null
+    },
+    {
       "phone_number": "+903422154456",
       "label": "PTT - GAZİMUHTARPAŞA MÜDÜRLÜĞÜ",
       "category": null
@@ -10062,6 +10407,11 @@
     {
       "phone_number": "+903422203274",
       "label": "PTT - BEKİRBEY ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+903422205111",
+      "label": "MAPFRE Sigorta Gaziantep Bölge Hattı",
       "category": null
     },
     {
@@ -10092,6 +10442,11 @@
     {
       "phone_number": "+903422717139",
       "label": "PTT - DUMLUPINAR ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+903422801240",
+      "label": "Aksigorta Gaziantep Bölge Hattı",
       "category": null
     },
     {
@@ -10527,6 +10882,11 @@
     {
       "phone_number": "+903468612445",
       "label": "PTT - İMRANLI MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+903480000000",
+      "label": "PTT Ki̇li̇s Dağitim Ve Toplama Müdürlüğü, Ki̇li̇s",
       "category": null
     },
     {
@@ -11055,6 +11415,16 @@
       "category": null
     },
     {
+      "phone_number": "+903620000000",
+      "label": "PTT Gazi̇ Şubesi̇, Samsun",
+      "category": null
+    },
+    {
+      "phone_number": "+903622289066",
+      "label": "Ray Sigorta Samsun Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+903622333002",
       "label": "PTT - YENI ADLIYE ŞUBESİ",
       "category": null
@@ -11080,6 +11450,16 @@
       "category": null
     },
     {
+      "phone_number": "+903622809100",
+      "label": "Aksigorta Samsun Bölge Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+903624310121",
+      "label": "MAPFRE Sigorta Samsun Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+903624313027",
       "label": "PTT - SAMSUN MÜDÜRLÜĞÜ",
       "category": null
@@ -11087,6 +11467,11 @@
     {
       "phone_number": "+903624324825",
       "label": "PTT - ESKİ ADLİYE ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+903624350120",
+      "label": "Doğa Sigorta Samsun Bölge Müdürlüğü",
       "category": null
     },
     {
@@ -12125,6 +12510,11 @@
       "category": null
     },
     {
+      "phone_number": "+903840000000",
+      "label": "PTT Çaliş Acenteli̇ği̇, Nevşehi̇r",
+      "category": null
+    },
+    {
       "phone_number": "+903841234567",
       "label": "PTT - MUSTAFA PAŞA ACENTELİĞİ",
       "category": null
@@ -12480,6 +12870,11 @@
       "category": null
     },
     {
+      "phone_number": "+903922275784",
+      "label": "GIG Sigorta 392 Bölge Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+904122121212",
       "label": "PTT - YENİŞEHİR POSTA KARGO DAĞITIM MÜDÜRLÜĞÜ (+5 işyeri)",
       "category": null
@@ -12767,6 +13162,16 @@
     {
       "phone_number": "+904167816001",
       "label": "PTT Adıyaman Gölbaşı Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+904220000010",
+      "label": "PTT Alacakapi Şubesi̇, Malatya",
+      "category": null
+    },
+    {
+      "phone_number": "+904220000030",
+      "label": "PTT Akpinar Müdürlüğü, Malatya",
       "category": null
     },
     {
@@ -13985,6 +14390,11 @@
       "category": null
     },
     {
+      "phone_number": "+904620000000",
+      "label": "PTT Yavuz Acenteli̇ği̇, Trabzon",
+      "category": null
+    },
+    {
       "phone_number": "+904622234494",
       "label": "PTT - BEŞİRLİ ŞUBESİ",
       "category": null
@@ -14702,6 +15112,11 @@
     {
       "phone_number": "+904845652001",
       "label": "PTT - ZİYARET ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+904860000000",
+      "label": "PTT Findik Acenteli̇ği̇, Şirnak",
       "category": null
     },
     {
@@ -15770,8 +16185,18 @@
       "category": null
     },
     {
+      "phone_number": "+908502025520",
+      "label": "Magdeburger Sigorta",
+      "category": null
+    },
+    {
       "phone_number": "+908502051155",
       "label": "Alternatifbank İletişim Hattı 2",
+      "category": null
+    },
+    {
+      "phone_number": "+908502051843",
+      "label": "Magdeburger Sigorta",
       "category": null
     },
     {
@@ -15985,8 +16410,18 @@
       "category": null
     },
     {
+      "phone_number": "+908502233447",
+      "label": "Magdeburger Sigorta",
+      "category": null
+    },
+    {
       "phone_number": "+908502234444",
       "label": "Ziraat Dinamik Bireysel İletişim",
+      "category": null
+    },
+    {
+      "phone_number": "+908502243370",
+      "label": "VHV Sigorta",
       "category": null
     },
     {
@@ -16007,6 +16442,11 @@
     {
       "phone_number": "+908502273747",
       "label": "FUPS Bank Destek Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+908502279006",
+      "label": "Magdeburger Sigorta",
       "category": null
     },
     {
@@ -16425,6 +16865,16 @@
       "category": null
     },
     {
+      "phone_number": "+908503777702",
+      "label": "Hepiyi Çözüm Merkezi Hattı 1",
+      "category": null
+    },
+    {
+      "phone_number": "+908503777703",
+      "label": "Hepiyi Çözüm Merkezi Hattı 2",
+      "category": null
+    },
+    {
       "phone_number": "+908503993636",
       "label": "TOM Bank Müşteri İletişim Merkezi",
       "category": null
@@ -16485,6 +16935,11 @@
       "category": null
     },
     {
+      "phone_number": "+908507228000",
+      "label": "Anadolu Hayat Kurumsal Müşteri Hattı",
+      "category": null
+    },
+    {
       "phone_number": "+908507240346",
       "label": "English Home Müşteri Hizmetleri",
       "category": null
@@ -16522,6 +16977,51 @@
     {
       "phone_number": "+908507377070",
       "label": "Corpus Sigorta İletişim Hattı",
+      "category": null
+    },
+    {
+      "phone_number": "+908507440746",
+      "label": "Anadolu Sigorta Güney Anadolu Bölge Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+908507440747",
+      "label": "Anadolu Sigorta Batı Anadolu Bölge Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+908507440748",
+      "label": "Anadolu Sigorta Marmara Bölge Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+908507440749",
+      "label": "Anadolu Sigorta İç Anadolu Bölge Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+908507440750",
+      "label": "Anadolu Sigorta Orta Karadeniz Bölge Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+908507440751",
+      "label": "Anadolu Sigorta Karadeniz Bölge Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+908507440752",
+      "label": "Anadolu Sigorta Akdeniz Bölge Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+908507440753",
+      "label": "Anadolu Sigorta İstanbul Bölge Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+908507440754",
+      "label": "Anadolu Sigorta Kadıköy Bölge Müdürlüğü",
       "category": null
     },
     {
@@ -16586,8 +17086,8 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 3408,
-    "identify_count": 3316,
+    "total_numbers_considered": 3508,
+    "identify_count": 3416,
     "exact_blocking_count": 92,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
