@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-08-24T10:35:17.576Z",
-  "version": "v1-b5e68cbe34ba7cf2",
-  "entry_count": 3508,
+  "generated_at": "2026-08-25T13:59:22.382Z",
+  "version": "v1-e07f9738d199a854",
+  "entry_count": 3509,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -2271,6 +2271,12 @@
       "label": "VHV Reasürans Genel İletişim",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+902162030593",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+902162050534",
