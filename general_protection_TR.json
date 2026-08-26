@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-08-25T13:59:22.382Z",
-  "version": "v1-e07f9738d199a854",
-  "entry_count": 3509,
+  "generated_at": "2026-08-26T22:05:29.613Z",
+  "version": "v1-889a6612cddf7b5c",
+  "entry_count": 3609,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -137,6 +137,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904441636",
+      "label": "Neova Sigorta Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904441788",
       "label": "PTT Çağrı Merkezi",
       "block": false,
@@ -173,6 +179,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904442758",
+      "label": "Bereket Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904442967",
       "label": "Boyner Müşteri Hizmetleri",
       "block": false,
@@ -199,6 +211,18 @@
     {
       "phone_number": "+904444166",
       "label": "Dünya Katılım Müşteri İletişim Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904444223",
+      "label": "Chubb Türkiye Genel Sorular",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904444323",
+      "label": "BNP Paribas Cardif Müşteri Hizmetleri",
       "block": false,
       "block_recommended": false
     },
@@ -253,6 +277,12 @@
     {
       "phone_number": "+904445065",
       "label": "Van Yüzüncü Yıl Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904445202",
+      "label": "Fiba Sigorta Müşteri Hizmetleri",
       "block": false,
       "block_recommended": false
     },
@@ -383,6 +413,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904448867",
+      "label": "Türk Nippon Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904448875",
       "label": "TurkNet Çağrı Merkezi",
       "block": false,
@@ -403,6 +439,12 @@
     {
       "phone_number": "+904449393",
       "label": "Kuryenet Çağrı Merkezi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904449555",
+      "label": "Bupa Acıbadem senCard Hizmet Merkezi",
       "block": false,
       "block_recommended": false
     },
@@ -497,6 +539,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902122271010",
+      "label": "Prive Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902122314730",
       "label": "Milli Reasürans Genel İletişim",
       "block": false,
@@ -505,6 +553,12 @@
     {
       "phone_number": "+902122369870",
       "label": "PTT - ORTAKÖY ŞUBESİ (+1 işyeri)",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902122370337",
+      "label": "Emaa Sigorta A.Ş.",
       "block": false,
       "block_recommended": false
     },
@@ -683,6 +737,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902122886844",
+      "label": "Corpus Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902122886851",
       "label": "Demir Sağlık İstanbul Avrupa Bölge Hattı",
       "block": false,
@@ -691,6 +751,12 @@
     {
       "phone_number": "+902122894260",
       "label": "PTT - AYAZAĞA ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902122907610",
+      "label": "Allianz Trade Müşteri Hizmetleri",
       "block": false,
       "block_recommended": false
     },
@@ -725,6 +791,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902123131000",
+      "label": "Turkcell Dijital Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902123152525",
       "label": "Takasbank Genel İletişim",
       "block": false,
@@ -747,6 +819,12 @@
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+902123193200",
+      "label": "BNP Paribas Cardif Genel Müdürlük",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+902123198500",
@@ -809,6 +887,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902123342424",
+      "label": "Axa Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902123345050",
       "label": "TSKB Genel İletişim",
       "block": false,
@@ -851,6 +935,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902123363700",
+      "label": "Allianz Batı İstanbul ve Trakya Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902123397000",
       "label": "Yapı Kredi Genel Müdürlük",
       "block": false,
@@ -859,6 +949,12 @@
     {
       "phone_number": "+902123401010",
       "label": "Birleşik Fon Bankası Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123475161",
+      "label": "Türkiye Hayat Emeklilik İstanbul Avrupa",
       "block": false,
       "block_recommended": false
     },
@@ -879,6 +975,24 @@
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+902123556464",
+      "label": "Türkiye Katılım Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123556513",
+      "label": "Türkiye Sigorta İstanbul Avrupa Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123556565",
+      "label": "Türkiye Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+902123591800",
@@ -907,6 +1021,12 @@
     {
       "phone_number": "+902123657585",
       "label": "Halkbank Diğer Kurumsal Hat 0212-7585",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902123658262",
+      "label": "Ana Sigorta A.Ş.",
       "block": false,
       "block_recommended": false
     },
@@ -941,6 +1061,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902123772700",
+      "label": "Allianz İstanbul Avrupa Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902123837070",
       "label": "Yıldız Teknik Üniversitesi",
       "block": false,
@@ -959,6 +1085,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902123931600",
+      "label": "Zurich Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902123934303",
       "label": "Aksigorta İstanbul Avrupa Bölge Hattı",
       "block": false,
@@ -973,6 +1105,12 @@
     {
       "phone_number": "+902124181356",
       "label": "PTT - KAYMAKAMLIK ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902124185567",
+      "label": "Türkiye Sigorta Batı İstanbul Trakya",
       "block": false,
       "block_recommended": false
     },
@@ -1225,6 +1363,12 @@
     {
       "phone_number": "+902124791960",
       "label": "PTT - BARBAROS HAYRETTİN PAŞA ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902124813422",
+      "label": "Neova Sigorta İstanbul Avrupa Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -1925,6 +2069,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902127054545",
+      "label": "Referans Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902127058900",
       "label": "PASHA Bank Genel İletişim",
       "block": false,
@@ -2273,6 +2423,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902129420404",
+      "label": "Allianz Trade Satış Ekibi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902162030593",
       "label": "Reported",
       "block": true,
@@ -2283,6 +2439,12 @@
       "label": "Dolandirici",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+902162100223",
+      "label": "Türkiye Katılım Sigorta Genel Müdürlük",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+902162162161",
@@ -2313,6 +2475,12 @@
       "label": "Reported",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+902162252323",
+      "label": "HDI Katılım Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+902162259595",
@@ -2579,6 +2747,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902163629999",
+      "label": "Ethica Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902163642332",
       "label": "PTT - DES SANAYİ SİTESİ ŞUBESİ",
       "block": false,
@@ -2723,6 +2897,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902164001000",
+      "label": "Eureko Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902164002400",
       "label": "GIG Sigorta İstanbul Anadolu Bölge Hattı",
       "block": false,
@@ -2845,6 +3025,12 @@
     {
       "phone_number": "+902164737100",
       "label": "PTT - KARTAL MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902164741724",
+      "label": "Türkiye Hayat Emeklilik İstanbul Anadolu",
       "block": false,
       "block_recommended": false
     },
@@ -3029,6 +3215,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902165566666",
+      "label": "Allianz Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902165591900",
       "label": "VHV Sigorta İstanbul Anadolu Bölge Hattı",
       "block": false,
@@ -3043,6 +3235,42 @@
     {
       "phone_number": "+902165647100",
       "label": "Ford Otosan Genel Merkez",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165705555",
+      "label": "Bupa Acıbadem Check-up Bilgi Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165714600",
+      "label": "Allianz İstanbul Anadolu Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165715300",
+      "label": "Türkiye Sigorta Boğaziçi Bankasürans",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165715353",
+      "label": "Türkiye Sigorta İstanbul Anadolu Acenteler",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165715571",
+      "label": "Bupa Acıbadem Sigorta KVKK İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902165718800",
+      "label": "Fiba Sigorta A.Ş.",
       "block": false,
       "block_recommended": false
     },
@@ -3155,6 +3383,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902166006000",
+      "label": "HDI Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902166118880",
       "label": "PTT - HUZUR ŞUBESİ",
       "block": false,
@@ -3187,6 +3421,12 @@
     {
       "phone_number": "+902166334444",
       "label": "Borusan Lojistik Genel Müdürlüğü",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902166337100",
+      "label": "Bereket İstanbul Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -3247,6 +3487,12 @@
     {
       "phone_number": "+902166560056",
       "label": "Medisa Sigorta İstanbul Anadolu Bölge Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902166655555",
+      "label": "Neova Katılım Sigorta A.Ş.",
       "block": false,
       "block_recommended": false
     },
@@ -3389,6 +3635,18 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902169994569",
+      "label": "Neova Sigorta İstanbul Anadolu Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902169998050",
+      "label": "Orient Sigorta A.Ş.",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902222171447",
       "label": "PTT - ERENKÖY ŞUBESİ",
       "block": false,
@@ -3451,6 +3709,12 @@
     {
       "phone_number": "+902222313565",
       "label": "PTT - YENİKENT ŞUBESİ (+3 işyeri)",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902222345884",
+      "label": "Türkiye Hayat Emeklilik Eskişehir Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -3701,6 +3965,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902242250530",
+      "label": "Bereket Bursa Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902242380577",
       "label": "PTT - HÜDAVENDİGAR ŞUBESİ",
       "block": false,
@@ -3757,6 +4027,12 @@
     {
       "phone_number": "+902242470622",
       "label": "PTT - İSTİKLAL ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902242473733",
+      "label": "Neova Sigorta Bursa Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -3875,8 +4151,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902242754200",
+      "label": "Türkiye Sigorta Marmara Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902242940000",
       "label": "Bursa Uludağ Üniversitesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902242948400",
+      "label": "Allianz Marmara Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -4445,6 +4733,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902322424800",
+      "label": "Allianz Ege Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902322439192",
       "label": "PTT - HATAY MÜDÜRLÜĞÜ",
       "block": false,
@@ -4775,6 +5069,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902324456499",
+      "label": "Türkiye Hayat Emeklilik Ege 1 Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902324468909",
       "label": "VHV Sigorta İzmir Bölge Hattı",
       "block": false,
@@ -4859,6 +5159,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902324636540",
+      "label": "Türk Nippon Ege Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902324640141",
       "label": "PTT - ALSANCAK ŞUBE ŞEFLİĞİ",
       "block": false,
@@ -4873,6 +5179,12 @@
     {
       "phone_number": "+902324720383",
       "label": "PTT - OTOGAR ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902324830262",
+      "label": "Bereket İzmir Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -4901,8 +5213,26 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902324892363",
+      "label": "Neova Sigorta İzmir Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902324896949",
       "label": "Atlas Sigorta",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902324974131",
+      "label": "Türkiye Sigorta Ege Bankasürans",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902324974141",
+      "label": "Türkiye Sigorta Ege Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -5555,6 +5885,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902423103900",
+      "label": "Allianz Akdeniz Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902423113632",
       "label": "Doğa Sigorta Antalya Bölge Müdürlüğü",
       "block": false,
@@ -5563,6 +5899,12 @@
     {
       "phone_number": "+902423120592",
       "label": "PTT – ÇARŞI MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423121162",
+      "label": "Türkiye Hayat Emeklilik Akdeniz Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -5599,6 +5941,12 @@
     {
       "phone_number": "+902423211600",
       "label": "PTT – KIZILTOPRAK MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423224811",
+      "label": "Neova Sigorta Antalya Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -5647,6 +5995,12 @@
     {
       "phone_number": "+902423268682",
       "label": "PTT – KEPEZ POSTA KARGO DAĞITIM MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902423341616",
+      "label": "Bereket Antalya Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -6019,6 +6373,12 @@
     {
       "phone_number": "+902428871948",
       "label": "PTT – KUMLUCA MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902429997784",
+      "label": "Türkiye Sigorta Akdeniz Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -6953,6 +7313,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902582657621",
+      "label": "Türkiye Hayat Emeklilik Ege 2 Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902582665034",
       "label": "PTT - ZEYTİNKÖY ŞUBESİ",
       "block": false,
@@ -7295,6 +7661,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902623174500",
+      "label": "Allianz Batı Karadeniz Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902623210804",
       "label": "PTT - ADLİYE SARAYI ŞUBESİ",
       "block": false,
@@ -7307,6 +7679,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902623215543",
+      "label": "Neova Sigorta Kocaeli Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902623224822",
       "label": "PTT - YEŞİLOVA ŞUBESİ",
       "block": false,
@@ -7315,6 +7693,12 @@
     {
       "phone_number": "+902623229797",
       "label": "PTT - SEKA ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902623231385",
+      "label": "Türkiye Hayat Emeklilik Batı Karadeniz",
       "block": false,
       "block_recommended": false
     },
@@ -7603,6 +7987,12 @@
     {
       "phone_number": "+902627548502",
       "label": "PTT - DİLİSKELESİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902628884229",
+      "label": "Türkiye Sigorta Anadolu Bankasürans",
       "block": false,
       "block_recommended": false
     },
@@ -9587,6 +9977,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903122307750",
+      "label": "Bereket Ankara Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903122343217",
       "label": "PTT Ankara BAĞLICA KÖYİÇİ ŞUBESİ",
       "block": false,
@@ -9803,6 +10199,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903122861280",
+      "label": "Türk Nippon İç Anadolu Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903122863771",
       "label": "PTT – AİLE BAKANLIĞI ŞUBESİ",
       "block": false,
@@ -9871,6 +10273,12 @@
     {
       "phone_number": "+903122924000",
       "label": "TOBB ETÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903122943200",
+      "label": "Allianz İç Anadolu Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -10373,6 +10781,18 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903124104646",
+      "label": "Türkiye Sigorta Ankara Bankasürans",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124104650",
+      "label": "Türkiye Sigorta Orta Anadolu Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903124152900",
       "label": "Hazine ve Maliye Bakanlığı",
       "block": false,
@@ -10597,6 +11017,12 @@
     {
       "phone_number": "+903124727572",
       "label": "MAPFRE Sigorta Ankara Bölge Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124733347",
+      "label": "Neova Sigorta Ankara Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -11417,14 +11843,32 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903224553100",
+      "label": "Allianz Güney Anadolu Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903224570683",
       "label": "Ray Sigorta Adana Bölge Hattı",
       "block": false,
       "block_recommended": false
     },
     {
+      "phone_number": "+903224573330",
+      "label": "Türk Nippon Güney ve Doğu Anadolu Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903224583280",
       "label": "Ankara Sigorta Adana Bölge Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903224583400",
+      "label": "Türkiye Hayat Emeklilik Çukurova Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -11441,8 +11885,26 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903224595100",
+      "label": "Neova Sigorta Adana Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903224595858",
       "label": "MAPFRE Sigorta Adana Bölge Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903224597487",
+      "label": "Bereket Adana Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903224597800",
+      "label": "Türkiye Sigorta Çukurova Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -12311,6 +12773,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903323504628",
+      "label": "Türkiye Hayat Emeklilik İç Anadolu Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903323550567",
       "label": "PTT - ADLİYE SARAYI MÜDÜRLÜĞÜ (+1 işyeri)",
       "block": false,
@@ -12941,6 +13409,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903429099014",
+      "label": "Neova Sigorta Gaziantep Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903442111452",
       "label": "PTT - ADLİYE ŞUBESİ",
       "block": false,
@@ -13337,8 +13811,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903522211636",
+      "label": "Neova Sigorta Kayseri Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903522212791",
       "label": "PTT - TACETTİN VELİ ŞUBESİ (+1 işyeri)",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903522225645",
+      "label": "Türkiye Sigorta İç Anadolu Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -13925,6 +14411,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903622284789",
+      "label": "Bereket Samsun Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903622289066",
       "label": "Ray Sigorta Samsun Bölge Hattı",
       "block": false,
@@ -13967,6 +14459,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903623113500",
+      "label": "Allianz Karadeniz Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903624310121",
       "label": "MAPFRE Sigorta Samsun Bölge Hattı",
       "block": false,
@@ -13975,6 +14473,12 @@
     {
       "phone_number": "+903624313027",
       "label": "PTT - SAMSUN MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903624324663",
+      "label": "Türkiye Sigorta Batı Karadeniz Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -15683,6 +16187,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904122248424",
+      "label": "Türkiye Hayat Emeklilik Güneydoğu Anadolu",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904122287422",
       "label": "PTT - BAĞLAR POSTA KARGO DAĞITIM MÜDÜRLÜĞÜ",
       "block": false,
@@ -15733,6 +16243,12 @@
     {
       "phone_number": "+904122510570",
       "label": "PTT - TOPTANCILAR ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904122523321",
+      "label": "Bereket Diyarbakır Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -15871,6 +16387,12 @@
     {
       "phone_number": "+904143158867",
       "label": "PTT - YENİŞEHİR ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904143410140",
+      "label": "Bereket Şanlıurfa Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -16673,8 +17195,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904422351957",
+      "label": "Türkiye Sigorta Doğu Anadolu Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904422356236",
       "label": "PTT - YAKUTİYE MÜDÜRLÜĞÜ (+1 işyeri)",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904422370090",
+      "label": "Türkiye Sigorta Doğu Anadolu Bankasürans",
       "block": false,
       "block_recommended": false
     },
@@ -17575,6 +18109,24 @@
     {
       "phone_number": "+904622587570",
       "label": "PTT - PAZARCIK ACENTELİĞİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904623211580",
+      "label": "Neova Sigorta Trabzon Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904623216212",
+      "label": "Bereket Trabzon Temsilciliği",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904623231300",
+      "label": "Türkiye Sigorta Karadeniz Bölge",
       "block": false,
       "block_recommended": false
     },
@@ -19691,6 +20243,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908502038609",
+      "label": "Bupa Acıbadem Sağlıklı Yaşam Hattı",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502051155",
       "label": "Alternatifbank İletişim Hattı 2",
       "block": false,
@@ -20015,6 +20573,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908502228434",
+      "label": "HDI Sigorta Kolay Hat",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502228444",
       "label": "Spam",
       "block": true,
@@ -20143,6 +20707,12 @@
     {
       "phone_number": "+908502550066",
       "label": "UPS Türkiye Müşteri Desteği",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502550222",
+      "label": "GRI Sigorta Hasar İhbar",
       "block": false,
       "block_recommended": false
     },
@@ -20417,6 +20987,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908502601023",
+      "label": "Türkiye Katılım Sigorta Müşteri İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502601126",
       "label": "Evidea Sayapark AVM",
       "block": false,
@@ -20621,6 +21197,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908504022020",
+      "label": "Türkiye Sigorta Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908504442525",
       "label": "Spam",
       "block": true,
@@ -20629,6 +21211,12 @@
     {
       "phone_number": "+908504606262",
       "label": "Ana Sigorta Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908504741313",
+      "label": "Arex Sigorta Hasar Yardım",
       "block": false,
       "block_recommended": false
     },
@@ -20651,6 +21239,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908504808740",
+      "label": "Türkiye Sigorta Asistans Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908505120843",
       "label": "Spam",
       "block": true,
@@ -20667,6 +21261,12 @@
       "label": "Spam",
       "block": true,
       "block_recommended": true
+    },
+    {
+      "phone_number": "+908505322428",
+      "label": "HDI Teknoloji Servisi",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+908505323064",
