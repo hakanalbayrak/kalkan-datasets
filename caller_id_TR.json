@@ -1,8 +1,8 @@
 {
   "protection_layer": "caller_id_exact",
-  "generated_at": "2026-08-26T22:05:29.613Z",
-  "version": "v1-b9507a706620db7c",
-  "entry_count": 3516,
+  "generated_at": "2026-08-29T14:51:44.598Z",
+  "version": "v1-d80a1f09879ace67",
+  "entry_count": 3716,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -182,6 +182,11 @@
     {
       "phone_number": "+904444223",
       "label": "Chubb Türkiye Genel Sorular",
+      "category": null
+    },
+    {
+      "phone_number": "+904444234",
+      "label": "Afyonkarahisar Devlet Hastanesi",
       "category": null
     },
     {
@@ -3140,6 +3145,11 @@
       "category": null
     },
     {
+      "phone_number": "+902242204701",
+      "label": "Türkiye Hayat Marmara Bölge Müdürlüğü",
+      "category": null
+    },
+    {
       "phone_number": "+902242222136",
       "label": "PTT - REYHAN ŞUBESİ",
       "category": null
@@ -4690,6 +4700,11 @@
       "category": null
     },
     {
+      "phone_number": "+902422275550",
+      "label": "ANTALYA ADSH",
+      "category": null
+    },
+    {
       "phone_number": "+902422277904",
       "label": "PTT – UNCALI ŞUBESİ",
       "category": null
@@ -4870,6 +4885,11 @@
       "category": null
     },
     {
+      "phone_number": "+902423454550",
+      "label": "ATATÜRK DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902423465946",
       "label": "PTT – ŞARAMPOL ŞUBESİ",
       "category": null
@@ -4925,6 +4945,16 @@
       "category": null
     },
     {
+      "phone_number": "+902424555353",
+      "label": "ANTALYA ŞEHİR HASTANESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902424555450",
+      "label": "DÖŞEMEALTI DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902424632052",
       "label": "PTT – GÜZELYURT ŞUBESİ",
       "category": null
@@ -4942,6 +4972,11 @@
     {
       "phone_number": "+902425132344",
       "label": "PTT – GÜLLERPINARI ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902425134841",
+      "label": "ALANYA EAH",
       "category": null
     },
     {
@@ -4995,6 +5030,11 @@
       "category": null
     },
     {
+      "phone_number": "+902425721562",
+      "label": "GAZİPAŞA DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902425721576",
       "label": "PTT – GAZİPAŞA MÜDÜRLÜĞÜ",
       "category": null
@@ -5015,6 +5055,11 @@
       "category": null
     },
     {
+      "phone_number": "+902426782091",
+      "label": "AKSEKİ İLÇE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902426782250",
       "label": "PTT Antalya AKSEKİ MÜDÜRLÜĞÜ",
       "category": null
@@ -5032,6 +5077,11 @@
     {
       "phone_number": "+902427151819",
       "label": "PTT Antalya BELEK ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902427221340",
+      "label": "SERİK DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -5060,6 +5110,11 @@
       "category": null
     },
     {
+      "phone_number": "+902427461117",
+      "label": "MANAVGAT DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902427463009",
       "label": "PTT – MANAVGAT MÜDÜRLÜĞÜ",
       "category": null
@@ -5080,6 +5135,11 @@
       "category": null
     },
     {
+      "phone_number": "+902427812069",
+      "label": "GÜNDOĞMUŞ İLÇE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902427812074",
       "label": "PTT – GÜNDOĞMUŞ ŞUBESİ",
       "category": null
@@ -5087,6 +5147,11 @@
     {
       "phone_number": "+902428141332",
       "label": "PTT – KEMER MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902428141550",
+      "label": "KEMER DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -5112,6 +5177,11 @@
     {
       "phone_number": "+902428314100",
       "label": "PTT – GÖMBE ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902428361185",
+      "label": "KAŞ DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -5155,6 +5225,11 @@
       "category": null
     },
     {
+      "phone_number": "+902428552000",
+      "label": "FİNİKE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902428656225",
       "label": "PTT – HASYURT ŞUBESİ",
       "category": null
@@ -5162,6 +5237,11 @@
     {
       "phone_number": "+902428715516",
       "label": "PTT – DEMRE MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902428721610",
+      "label": "DEMRE DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -5660,8 +5740,18 @@
       "category": null
     },
     {
+      "phone_number": "+902562112828",
+      "label": "Özel Ege Liva Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+902562114069",
       "label": "PTT Aydın 1.SANAYİ SİTESİ ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902562120012",
+      "label": "Özel Medinova Hastanesi",
       "category": null
     },
     {
@@ -5675,8 +5765,23 @@
       "category": null
     },
     {
+      "phone_number": "+902562122300",
+      "label": "Kadın Doğum ve Çocuk HASTANESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902562129222",
+      "label": "ATATÜRK DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902562131685",
       "label": "PTT Aydın AYDIN DAĞITIM VE TOPLAMA MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902562139002",
+      "label": "AYDIN DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -5700,8 +5805,33 @@
       "category": null
     },
     {
+      "phone_number": "+902562197690",
+      "label": "AYDIN ADSH",
+      "category": null
+    },
+    {
+      "phone_number": "+902562197691",
+      "label": "AYDIN ADSH",
+      "category": null
+    },
+    {
+      "phone_number": "+902562197692",
+      "label": "AYDIN ADSH",
+      "category": null
+    },
+    {
+      "phone_number": "+902562197694",
+      "label": "AYDIN ADSH",
+      "category": null
+    },
+    {
       "phone_number": "+902562262915",
       "label": "PTT Aydın OSMAN YOZGATLI ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902562268686",
+      "label": "Özel Aydın Göz Hastanesi",
       "category": null
     },
     {
@@ -5710,8 +5840,18 @@
       "category": null
     },
     {
+      "phone_number": "+902563120000",
+      "label": "NAZİLLİ DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902563121212",
       "label": "PTT Aydın NAZİLLİ MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902563124630",
+      "label": "NAZİLLİ AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
       "category": null
     },
     {
@@ -5740,6 +5880,11 @@
       "category": null
     },
     {
+      "phone_number": "+902563513002",
+      "label": "SULTANHİSAR İLÇE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902563513212",
       "label": "PTT Aydın SULTANHİSAR ŞUBESİ",
       "category": null
@@ -5755,8 +5900,18 @@
       "category": null
     },
     {
+      "phone_number": "+902563614646",
+      "label": "YENİPAZAR İLÇE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902563665402",
       "label": "PTT Aydın HAMZABALİ ACENTELİĞİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902563714024",
+      "label": "KUYUCAK İLÇE DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -5772,6 +5927,16 @@
     {
       "phone_number": "+902563913212",
       "label": "PTT Aydın BUHARKENT MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902563914390",
+      "label": "BUHARKENT İLÇE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902564141039",
+      "label": "BOZDOĞAN RASİM MENTEŞE İLÇE DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -5800,8 +5965,28 @@
       "category": null
     },
     {
+      "phone_number": "+902564613105",
+      "label": "KÖŞK İLÇE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902564613471",
       "label": "PTT Aydın KÖŞK MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902565110606",
+      "label": "Aydın Göz Söke",
+      "category": null
+    },
+    {
+      "phone_number": "+902565121741",
+      "label": "SÖKE ADSM",
+      "category": null
+    },
+    {
+      "phone_number": "+902565128787",
+      "label": "SÖKE ADSM",
       "category": null
     },
     {
@@ -5812,6 +5997,16 @@
     {
       "phone_number": "+902565181212",
       "label": "PTT Aydın SÖKE MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902565181423",
+      "label": "Egemed Söke",
+      "category": null
+    },
+    {
+      "phone_number": "+902565182361",
+      "label": "SÖKE FEHİME FAİK KOCAGÖZ DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -5830,6 +6025,11 @@
       "category": null
     },
     {
+      "phone_number": "+902565633242",
+      "label": "GERMENCİK DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902565771116",
       "label": "PTT Aydın ORTAKLAR ŞUBESİ",
       "category": null
@@ -5845,6 +6045,16 @@
       "category": null
     },
     {
+      "phone_number": "+902566100044",
+      "label": "Özel Gözde Kuşadası Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+902566122555",
+      "label": "Egemed Kuşadası",
+      "category": null
+    },
+    {
       "phone_number": "+902566128030",
       "label": "PTT Aydın ADALET SARAYI ŞUBESİ",
       "category": null
@@ -5852,6 +6062,11 @@
     {
       "phone_number": "+902566141212",
       "label": "PTT Aydın KUŞADASI MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902566182414",
+      "label": "KUŞADASI DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -5865,8 +6080,18 @@
       "category": null
     },
     {
+      "phone_number": "+902567115900",
+      "label": "ÇİNE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902567116212",
       "label": "PTT Aydın ÇİNE MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902567412043",
+      "label": "KARPUZLU İLÇE DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -5887,6 +6112,11 @@
     {
       "phone_number": "+902568115180",
       "label": "PTT Aydın DİDİM MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902568115757",
+      "label": "DİDİM DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -6745,6 +6975,11 @@
       "category": null
     },
     {
+      "phone_number": "+902662459020",
+      "label": "BALIKESİR DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902662462850",
       "label": "PTT PAŞAALANI ŞUBESİ (Balikesi̇r)",
       "category": null
@@ -6767,6 +7002,11 @@
     {
       "phone_number": "+902663121003",
       "label": "PTT AYVALIK MÜDÜRLÜĞÜ (Balikesi̇r)",
+      "category": null
+    },
+    {
+      "phone_number": "+902663121744",
+      "label": "AYVALIK DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -6805,6 +7045,11 @@
       "category": null
     },
     {
+      "phone_number": "+902663731313",
+      "label": "EDREMİT DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902663732887",
       "label": "PTT KAZDAĞI ŞUBESİ (Balikesi̇r)",
       "category": null
@@ -6840,6 +7085,16 @@
       "category": null
     },
     {
+      "phone_number": "+902664125606",
+      "label": "BURHANİYE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902664126999",
+      "label": "BURHANİYE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902664222000",
       "label": "PTT BURHANİYE MÜDÜRLÜĞÜ (Balikesi̇r)",
       "category": null
@@ -6857,6 +7112,11 @@
     {
       "phone_number": "+902664562777",
       "label": "PTT İVRİNDİ MÜDÜRLÜĞÜ (Balikesi̇r)",
+      "category": null
+    },
+    {
+      "phone_number": "+902664604000",
+      "label": "BALIKESİR ATATÜRK ŞEHİR HASTANESİ",
       "category": null
     },
     {
@@ -6905,6 +7165,11 @@
       "category": null
     },
     {
+      "phone_number": "+902666621040",
+      "label": "DURSUNBEY DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+902666621919",
       "label": "PTT DURSUNBEY MÜDÜRLÜĞÜ (Balikesi̇r)",
       "category": null
@@ -6937,6 +7202,11 @@
     {
       "phone_number": "+902667271406",
       "label": "PTT EDİNCİK ŞUBESİ (Balikesi̇r)",
+      "category": null
+    },
+    {
+      "phone_number": "+902667380022",
+      "label": "BANDIRMA EAH",
       "category": null
     },
     {
@@ -7095,8 +7365,18 @@
       "category": null
     },
     {
+      "phone_number": "+902722612050",
+      "label": "Çobanlar İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+902722612166",
       "label": "PTT ÇOBANLAR MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902722715011",
+      "label": "İhsaniye İlçe Devlet Hastanesi",
       "category": null
     },
     {
@@ -7112,6 +7392,11 @@
     {
       "phone_number": "+902723117166",
       "label": "PTT SİNANPAŞA MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902723118040",
+      "label": "Sinanpaşa Devlet Hastanesi",
       "category": null
     },
     {
@@ -7170,6 +7455,11 @@
       "category": null
     },
     {
+      "phone_number": "+902723414306",
+      "label": "İscehisar Karamehmet Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+902723435187",
       "label": "PTT ALANYURT ACENTELİĞİ",
       "category": null
@@ -7180,8 +7470,18 @@
       "category": null
     },
     {
+      "phone_number": "+902723536099",
+      "label": "Dinar Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+902723536166",
       "label": "PTT DİNAR MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902723582488",
+      "label": "Haydarlı Devlet Hastanesi",
       "category": null
     },
     {
@@ -7190,8 +7490,23 @@
       "category": null
     },
     {
+      "phone_number": "+902724113223",
+      "label": "Başmakçı İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+902724213035",
+      "label": "Dazkırı İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+902724213111",
       "label": "PTT DAZKIRI MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902724312014",
+      "label": "Evciler İlçe Devlet Hastanesi",
       "category": null
     },
     {
@@ -7202,6 +7517,11 @@
     {
       "phone_number": "+902724425166",
       "label": "PTT EMİRDAĞ MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902724427056",
+      "label": "Emirdağ Devlet Hastanesi",
       "category": null
     },
     {
@@ -7220,6 +7540,11 @@
       "category": null
     },
     {
+      "phone_number": "+902724912440",
+      "label": "Bayat Dr. Mete Tan İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+902725020345",
       "label": "PTT ORGANİZE SANAYİ ŞUBESİ",
       "category": null
@@ -7235,6 +7560,16 @@
       "category": null
     },
     {
+      "phone_number": "+902725125177",
+      "label": "Sandıklı Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+902725512009",
+      "label": "Hocalar İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+902725512166",
       "label": "PTT HOCALAR ŞUBESİ",
       "category": null
@@ -7247,6 +7582,11 @@
     {
       "phone_number": "+902726126161",
       "label": "PTT BOLVADİN MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902726129101",
+      "label": "Dr. Halil İbrahim Özsoy Bolvadin Devlet Hastanesi",
       "category": null
     },
     {
@@ -7267,6 +7607,16 @@
     {
       "phone_number": "+902726561361",
       "label": "PTT Afyonkarahisar Yeşilçiftlik Acenteliği",
+      "category": null
+    },
+    {
+      "phone_number": "+902726563293",
+      "label": "Sultandağı İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+902727181001",
+      "label": "Şuhut Devlet Hastanesi",
       "category": null
     },
     {
@@ -7562,6 +7912,11 @@
     {
       "phone_number": "+902826441963",
       "label": "PTT - YENİÇİFTLİK SAHİL ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+902826500049",
+      "label": "Türkiye Hayat İstanbul Batı ve Trakya Bölge Müdürlüğü",
       "category": null
     },
     {
@@ -8070,6 +8425,11 @@
       "category": null
     },
     {
+      "phone_number": "+903122126666",
+      "label": "Gazi Mustafa Kemal Meslek Hastalıkları Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903122127047",
       "label": "PTT Ankara CUMHURBAŞKANLIĞI ŞUBESİ",
       "category": null
@@ -8210,6 +8570,11 @@
       "category": null
     },
     {
+      "phone_number": "+903122540270",
+      "label": "CEZA İNFAZ KURUMLARI KAMPÜS DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+903122565616",
       "label": "PTT Ankara GER-SAN",
       "category": null
@@ -8260,6 +8625,21 @@
       "category": null
     },
     {
+      "phone_number": "+903122680110",
+      "label": "SİNCAN ADSH",
+      "category": null
+    },
+    {
+      "phone_number": "+903122680111",
+      "label": "SİNCAN ADSH",
+      "category": null
+    },
+    {
+      "phone_number": "+903122700270",
+      "label": "Ceza İnfaz Kurumları Kampüs Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903122701828",
       "label": "PTT SİNCAN MÜDÜRLÜĞÜ – Ankara",
       "category": null
@@ -8267,6 +8647,11 @@
     {
       "phone_number": "+903122721290",
       "label": "PTT ULUBATLI ŞUBESİ – Ankara",
+      "category": null
+    },
+    {
+      "phone_number": "+903122726240",
+      "label": "SBÜ SİNCAN EAH",
       "category": null
     },
     {
@@ -8332,6 +8717,11 @@
     {
       "phone_number": "+903122842301",
       "label": "PTT SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI ŞUBESİ – Ankara",
+      "category": null
+    },
+    {
+      "phone_number": "+903122842679",
+      "label": "BALGAT ADSM",
       "category": null
     },
     {
@@ -8410,6 +8800,11 @@
       "category": null
     },
     {
+      "phone_number": "+903122911000",
+      "label": "SBÜ ANKARA GAZİLER FTR EAH",
+      "category": null
+    },
+    {
       "phone_number": "+903122921000",
       "label": "Dışişleri Bakanlığı",
       "category": null
@@ -8417,6 +8812,11 @@
     {
       "phone_number": "+903122924000",
       "label": "TOBB ETÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+903122933000",
+      "label": "ANKARA ETİMESGUT ADSM",
       "category": null
     },
     {
@@ -8432,6 +8832,11 @@
     {
       "phone_number": "+903122992532",
       "label": "PTT Ankara BEYTEPE ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+903123042000",
+      "label": "SBÜ GÜLHANE EAH",
       "category": null
     },
     {
@@ -8500,6 +8905,11 @@
       "category": null
     },
     {
+      "phone_number": "+903123126261",
+      "label": "SBÜ ULUCANLAR GÖZ EAH",
+      "category": null
+    },
+    {
       "phone_number": "+903123140023",
       "label": "PTT TEPEBAŞI ŞUBESİ – Ankara",
       "category": null
@@ -8547,6 +8957,11 @@
     {
       "phone_number": "+903123244409",
       "label": "PTT ULUS MÜDÜRLÜĞÜ – Ankara",
+      "category": null
+    },
+    {
+      "phone_number": "+903123253636",
+      "label": "ANKARA OSMANLI ADSH",
       "category": null
     },
     {
@@ -8700,6 +9115,11 @@
       "category": null
     },
     {
+      "phone_number": "+903123600007",
+      "label": "TEPEBAŞI ADSH",
+      "category": null
+    },
+    {
       "phone_number": "+903123600059",
       "label": "PTT Ankara GÜÇLÜKAYA",
       "category": null
@@ -8730,6 +9150,11 @@
       "category": null
     },
     {
+      "phone_number": "+903123702511",
+      "label": "MAMAK ADSM",
+      "category": null
+    },
+    {
       "phone_number": "+903123722736",
       "label": "PTT KAYAŞ ŞUBESİ – Ankara",
       "category": null
@@ -8742,6 +9167,11 @@
     {
       "phone_number": "+903123742266",
       "label": "PTT KIBRIS MAHALLESİ ŞUBESİ – Ankara",
+      "category": null
+    },
+    {
+      "phone_number": "+903123750242",
+      "label": "KARAPÜRÇEK ADSM",
       "category": null
     },
     {
@@ -8850,6 +9280,11 @@
       "category": null
     },
     {
+      "phone_number": "+903124123000",
+      "label": "Beştepe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903124152900",
       "label": "Hazine ve Maliye Bakanlığı",
       "category": null
@@ -8867,6 +9302,11 @@
     {
       "phone_number": "+903124181871",
       "label": "PTT KARA HARP OKULU ŞUBESİ – Ankara",
+      "category": null
+    },
+    {
+      "phone_number": "+903124185567",
+      "label": "Türkiye Hayat Ankara 1 Bölge Müdürlüğü",
       "category": null
     },
     {
@@ -9050,6 +9490,11 @@
       "category": null
     },
     {
+      "phone_number": "+903124840322",
+      "label": "Gölbaşı Şehit Ahmet Özsoy Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903124842085",
       "label": "PTT Ankara GÖLBAŞI SEĞMENLER",
       "category": null
@@ -9057,6 +9502,16 @@
     {
       "phone_number": "+903124843435",
       "label": "PTT Ankara GÖLBAŞI",
+      "category": null
+    },
+    {
+      "phone_number": "+903124852005",
+      "label": "GÖLBAŞI ÜLKÜ ULUSOY ADSM",
+      "category": null
+    },
+    {
+      "phone_number": "+903124852745",
+      "label": "GÖLBAŞI ÜLKÜ ULUSOY ADSM",
       "category": null
     },
     {
@@ -9120,6 +9575,11 @@
       "category": null
     },
     {
+      "phone_number": "+903125097000",
+      "label": "PURSAKLAR DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+903125115839",
       "label": "PTT ŞENTEPE MÜDÜRLÜĞÜ – Ankara",
       "category": null
@@ -9155,6 +9615,31 @@
       "category": null
     },
     {
+      "phone_number": "+903125523000",
+      "label": "MAMAK DEVLET HASTANESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+903125524050",
+      "label": "POLATLI ADSM",
+      "category": null
+    },
+    {
+      "phone_number": "+903125525500",
+      "label": "Etimesgut Şehit Sait Ertürk Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903125525838",
+      "label": "PURSAKLAR ADSM",
+      "category": null
+    },
+    {
+      "phone_number": "+903125526000",
+      "label": "ANKARA BİLKENT ŞEHİR HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+903125571708",
       "label": "PTT NATOYOLU MÜDÜRLÜĞÜ – Ankara",
       "category": null
@@ -9167,6 +9652,11 @@
     {
       "phone_number": "+903125665037",
       "label": "PTT Ankara ÇAKIRLAR ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+903125677000",
+      "label": "Ankara Atatürk Sanatoryum Eğitim ve Araştırma Hastanesi",
       "category": null
     },
     {
@@ -9195,6 +9685,31 @@
       "category": null
     },
     {
+      "phone_number": "+903125855500",
+      "label": "TOPRAKLIK ADSM",
+      "category": null
+    },
+    {
+      "phone_number": "+903125872000",
+      "label": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ YENİMAHALLE EAH",
+      "category": null
+    },
+    {
+      "phone_number": "+903125932929",
+      "label": "29 Mayıs Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903125953000",
+      "label": "ANKARA EAH",
+      "category": null
+    },
+    {
+      "phone_number": "+903125959700",
+      "label": "75.YIL ADSH",
+      "category": null
+    },
+    {
       "phone_number": "+903126220851",
       "label": "PTT Ankara DUA TEPE ŞUBESİ",
       "category": null
@@ -9210,6 +9725,11 @@
       "category": null
     },
     {
+      "phone_number": "+903126303030",
+      "label": "POLATLI DUATEPE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+903126411623",
       "label": "PTT Ankara İSKİTLER",
       "category": null
@@ -9217,6 +9737,16 @@
     {
       "phone_number": "+903126581515",
       "label": "PTT Ankara HAYMANA",
+      "category": null
+    },
+    {
+      "phone_number": "+903126583041",
+      "label": "Haymana Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903126871754",
+      "label": "ŞEREFLİKOÇHİSAR DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -9235,6 +9765,16 @@
       "category": null
     },
     {
+      "phone_number": "+903127122825",
+      "label": "Ayaş Şehit Mehmet Çifci Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903127280209",
+      "label": "Güdül İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903127281351",
       "label": "PTT Ankara GÜDÜL",
       "category": null
@@ -9242,6 +9782,11 @@
     {
       "phone_number": "+903127361001",
       "label": "PTT KIZILCAHAMAM MÜDÜRLÜĞÜ – Ankara",
+      "category": null
+    },
+    {
+      "phone_number": "+903127361008",
+      "label": "KIZILCAHAMAM DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -9255,6 +9800,11 @@
       "category": null
     },
     {
+      "phone_number": "+903127630775",
+      "label": "Beypazarı Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903127632214",
       "label": "PTT Ankara HACIKARA",
       "category": null
@@ -9262,6 +9812,11 @@
     {
       "phone_number": "+903127632215",
       "label": "PTT Ankara BEYPAZARI MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+903127851041",
+      "label": "NALLIHAN DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -9275,6 +9830,11 @@
       "category": null
     },
     {
+      "phone_number": "+903127970000",
+      "label": "ANKARA ETLİK ŞEHİR HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+903128112752",
       "label": "PTT TAİ ŞUBESİ – Ankara",
       "category": null
@@ -9282,6 +9842,11 @@
     {
       "phone_number": "+903128141100",
       "label": "PTT Ankara KAHRAMANKAZAN",
+      "category": null
+    },
+    {
+      "phone_number": "+903128141414",
+      "label": "KAHRAMANKAZAN DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -9300,6 +9865,11 @@
       "category": null
     },
     {
+      "phone_number": "+903128378110",
+      "label": "Çubuk Halil Şıvgın Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903128384361",
       "label": "PTT Ankara ÇUBUK ADLİYE ŞUBESİ",
       "category": null
@@ -9315,8 +9885,18 @@
       "category": null
     },
     {
+      "phone_number": "+903128572523",
+      "label": "KALECİK İLÇE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+903128631001",
       "label": "PTT Ankara ELMADAĞ MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+903128631041",
+      "label": "Elmadağ Dr. Hulusi Alataş Devlet Hastanesi",
       "category": null
     },
     {
@@ -9340,8 +9920,18 @@
       "category": null
     },
     {
+      "phone_number": "+903128761818",
+      "label": "Bala İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903128935100",
       "label": "PTT Ankara EVREN",
+      "category": null
+    },
+    {
+      "phone_number": "+903129060670",
+      "label": "Beytepe Şehit Murat Erdi Eker Devlet Hastanesi",
       "category": null
     },
     {
@@ -9445,8 +10035,28 @@
       "category": null
     },
     {
+      "phone_number": "+903222055555",
+      "label": "Özel Sezar Hospital Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903222230484",
       "label": "Kuveyt Türk Adana Şubesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903222251494",
+      "label": "Adana 5 Ocak Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903222259329",
+      "label": "Seyhan Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903222259494",
+      "label": "Özel Era Göz Hastanesi",
       "category": null
     },
     {
@@ -9475,6 +10085,11 @@
       "category": null
     },
     {
+      "phone_number": "+903222322425",
+      "label": "Özel Avrupa Hospital Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903222324822",
       "label": "Kuveyt Türk Adana Çukurova Şubesi",
       "category": null
@@ -9500,6 +10115,11 @@
       "category": null
     },
     {
+      "phone_number": "+903222390475",
+      "label": "Dr. Ekrem Tok Ruh Sağlığı ve Hastalıkları Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903222471822",
       "label": "PTT Adana Huzur Evleri Şubesi",
       "category": null
@@ -9520,8 +10140,18 @@
       "category": null
     },
     {
+      "phone_number": "+903222563960",
+      "label": "Fatma Kemal Timuçin Ağız ve Diş Sağlığı Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903222566002",
       "label": "PTT Adana 100. Yıl Şubesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903222600001",
+      "label": "Özel EPC Hastanesi",
       "category": null
     },
     {
@@ -9550,8 +10180,18 @@
       "category": null
     },
     {
+      "phone_number": "+903223215752",
+      "label": "Yüreğir Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903223217152",
       "label": "PTT Adana Yavuzlar Şubesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903223227272",
+      "label": "Özel Altın Koza Hastanesi",
       "category": null
     },
     {
@@ -9567,6 +10207,11 @@
     {
       "phone_number": "+903223240018",
       "label": "PTT Adana Yüreğir Posta Kargo Dağıtım Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+903223272727",
+      "label": "Başkent Üniversitesi Adana Uygulama ve Araştırma Hastanesi",
       "category": null
     },
     {
@@ -9595,6 +10240,11 @@
       "category": null
     },
     {
+      "phone_number": "+903223330099",
+      "label": "Özel Algomed Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903223340002",
       "label": "PTT Adana Doğankent Şubesi",
       "category": null
@@ -9602,6 +10252,11 @@
     {
       "phone_number": "+903223386006",
       "label": "PTT Adana Çukurova Üniversitesi Şubesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903223386060",
+      "label": "Çukurova Üniversitesi Balcalı Hastanesi",
       "category": null
     },
     {
@@ -9680,13 +10335,43 @@
       "category": null
     },
     {
+      "phone_number": "+903224327777",
+      "label": "Özel Acıbadem Ortopedia Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903224543586",
       "label": "PTT Adana Cemalpaşa Müdürlüğü",
       "category": null
     },
     {
+      "phone_number": "+903224544430",
+      "label": "Özel Ortadoğu Sağlık Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903224552550",
+      "label": "Özel Medline Adana Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903224553100",
       "label": "Allianz Güney Anadolu Bölge",
+      "category": null
+    },
+    {
+      "phone_number": "+903224554444",
+      "label": "Özel Acıbadem Adana Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903224559000",
+      "label": "Adana Şehir Eğitim ve Araştırma Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903224561900",
+      "label": "Özel Medicalpark Seyhan Hastanesi",
       "category": null
     },
     {
@@ -9715,6 +10400,16 @@
       "category": null
     },
     {
+      "phone_number": "+903224586868",
+      "label": "Başkent Üniversitesi Adana Seyhan Başkent Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903224592222",
+      "label": "Özel Medicalpark Adana Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903224594115",
       "label": "GIG Sigorta Adana Bölge Hattı",
       "category": null
@@ -9740,6 +10435,16 @@
       "category": null
     },
     {
+      "phone_number": "+903224604214",
+      "label": "Yüreğir Karşıyaka Ağız ve Diş Sağlığı Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903224604350",
+      "label": "Çukurova Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903224855050",
       "label": "PTT Adana Küçükdikili Şubesi",
       "category": null
@@ -9752,6 +10457,11 @@
     {
       "phone_number": "+903225035230",
       "label": "PTT Adana Barkal Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+903225035566",
+      "label": "Adana Karşıyaka Devlet Hastanesi",
       "category": null
     },
     {
@@ -9785,6 +10495,11 @@
       "category": null
     },
     {
+      "phone_number": "+903225158306",
+      "label": "Kozan Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903225332029",
       "label": "PTT Adana Hacıbeyli Şubesi",
       "category": null
@@ -9795,6 +10510,11 @@
       "category": null
     },
     {
+      "phone_number": "+903225512524",
+      "label": "Karaisalı Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903225512615",
       "label": "PTT Adana Karaisalı Müdürlüğü",
       "category": null
@@ -9802,6 +10522,11 @@
     {
       "phone_number": "+903225813001",
       "label": "PTT Adana Pozantı Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+903225813920",
+      "label": "Pozantı 80. Yıl Devlet Hastanesi",
       "category": null
     },
     {
@@ -9820,8 +10545,23 @@
       "category": null
     },
     {
+      "phone_number": "+903225912727",
+      "label": "Aladağ İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903226113030",
+      "label": "Özel Ceyhan Çınar Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903226132626",
       "label": "PTT Adana Ceyhan Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+903226133362",
+      "label": "Ceyhan Devlet Hastanesi",
       "category": null
     },
     {
@@ -9855,13 +10595,38 @@
       "category": null
     },
     {
+      "phone_number": "+903227412224",
+      "label": "Feke İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903227612001",
       "label": "PTT Adana Saimbeyli Müdürlüğü",
       "category": null
     },
     {
+      "phone_number": "+903227612727",
+      "label": "Saimbeyli Adem Ambarcı İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903227707070",
+      "label": "Özel Güzelyalı Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903227818001",
       "label": "PTT Adana Tufanbeyli Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+903227819496",
+      "label": "Tufanbeyli Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903228913701",
+      "label": "İmamoğlu Devlet Hastanesi",
       "category": null
     },
     {
@@ -11335,6 +12100,11 @@
       "category": null
     },
     {
+      "phone_number": "+903522213056",
+      "label": "Türkiye Hayat Orta Anadolu Bölge Müdürlüğü",
+      "category": null
+    },
+    {
       "phone_number": "+903522225645",
       "label": "Türkiye Sigorta İç Anadolu Bölge",
       "category": null
@@ -11765,6 +12535,11 @@
       "category": null
     },
     {
+      "phone_number": "+903582184000",
+      "label": "Amasya Sabuncuoğlu Şerefettin EAH",
+      "category": null
+    },
+    {
       "phone_number": "+903582240047",
       "label": "PTT AYDINCA ACENTELİĞİ – Amasya",
       "category": null
@@ -11795,13 +12570,28 @@
       "category": null
     },
     {
+      "phone_number": "+903583122121",
+      "label": "Taşova Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903584171090",
       "label": "PTT SULUOVA MÜDÜRLÜĞÜ",
       "category": null
     },
     {
+      "phone_number": "+903584178000",
+      "label": "Suluova Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903585131122",
       "label": "PTT MERZİFON MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+903585134444",
+      "label": "Merzifon Kara Mustafa Paşa Devlet Hastanesi",
       "category": null
     },
     {
@@ -11877,6 +12667,11 @@
     {
       "phone_number": "+903624313027",
       "label": "PTT - SAMSUN MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+903624323235",
+      "label": "Türkiye Hayat Orta Karadeniz Bölge Müdürlüğü",
       "category": null
     },
     {
@@ -12900,6 +13695,11 @@
       "category": null
     },
     {
+      "phone_number": "+903823518166",
+      "label": "Ortaköy Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903823518912",
       "label": "PTT ORTAKÖY MÜDÜRLÜĞÜ",
       "category": null
@@ -12910,8 +13710,18 @@
       "category": null
     },
     {
+      "phone_number": "+903824115294",
+      "label": "Eskil Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+903824312660",
       "label": "PTT GÜLAĞAÇ MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+903824312868",
+      "label": "Gülağaç İlçe Devlet Hastanesi",
       "category": null
     },
     {
@@ -12927,6 +13737,16 @@
     {
       "phone_number": "+903824512096",
       "label": "PTT GÜZELYURT MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+903825022000",
+      "label": "Aksaray Eğitim ve Araştırma Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+903825022828",
+      "label": "Sultanhanı Dr. Hüseyin Ağır İlçe Devlet Hastanesi",
       "category": null
     },
     {
@@ -13560,6 +14380,11 @@
       "category": null
     },
     {
+      "phone_number": "+904162161015",
+      "label": "Adıyaman Eğitim ve Araştırma Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+904162162001",
       "label": "PTT Adıyaman Samsat Şubesi",
       "category": null
@@ -13570,13 +14395,43 @@
       "category": null
     },
     {
+      "phone_number": "+904163181067",
+      "label": "Besni Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+904164112053",
+      "label": "Samsat İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+904164212014",
+      "label": "Sincik İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+904164212100",
       "label": "PTT Adıyaman Sincik Şubesi",
       "category": null
     },
     {
+      "phone_number": "+904164312209",
+      "label": "Gerger İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+904164312465",
       "label": "PTT Adıyaman Gerger Şubesi",
+      "category": null
+    },
+    {
+      "phone_number": "+904164412588",
+      "label": "Tut İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+904164512101",
+      "label": "Çelikhan Devlet Hastanesi",
       "category": null
     },
     {
@@ -13590,6 +14445,16 @@
       "category": null
     },
     {
+      "phone_number": "+904167255067",
+      "label": "Kahta Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+904167458109",
+      "label": "Kahta Göçeri İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+904167458280",
       "label": "PTT Adıyaman Menzil Şubesi",
       "category": null
@@ -13597,6 +14462,11 @@
     {
       "phone_number": "+904167816001",
       "label": "PTT Adıyaman Gölbaşı Müdürlüğü",
+      "category": null
+    },
+    {
+      "phone_number": "+904167816133",
+      "label": "Gölbaşı Devlet Hastanesi",
       "category": null
     },
     {
@@ -15190,8 +16060,18 @@
       "category": null
     },
     {
+      "phone_number": "+904662121040",
+      "label": "ARTVİN DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+904662122591",
       "label": "PTT Artvin ARTVİN MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+904662128306",
+      "label": "ARTVİN ADSM",
       "category": null
     },
     {
@@ -15200,8 +16080,28 @@
       "category": null
     },
     {
+      "phone_number": "+904663123071",
+      "label": "ARHAVİ DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+904663123323",
       "label": "PTT Artvin ARHAVİ MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+904663124071",
+      "label": "ARHAVİ DEVLET HASTANESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+904663124588",
+      "label": "ARHAVİ DEVLET HASTANESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+904663514017",
+      "label": "HOPA DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -15220,6 +16120,16 @@
       "category": null
     },
     {
+      "phone_number": "+904664152575",
+      "label": "BORÇKA DEVLET HASTANESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+904665171018",
+      "label": "ŞAVŞAT DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+904665171340",
       "label": "PTT Artvin ŞAVŞAT MÜDÜRLÜĞÜ",
       "category": null
@@ -15227,6 +16137,11 @@
     {
       "phone_number": "+904666112001",
       "label": "PTT Artvin ARDANUÇ ŞUBESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+904666112066",
+      "label": "ARDANUÇ DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -15245,6 +16160,16 @@
       "category": null
     },
     {
+      "phone_number": "+904722152019",
+      "label": "Ağrı Fizik Tedavi ve Rehabilitasyon Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+904722156363",
+      "label": "Ağrı Eğitim ve Araştırma Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+904722160666",
       "label": "PTT AĞRI MÜDÜRLÜĞÜ",
       "category": null
@@ -15255,8 +16180,18 @@
       "category": null
     },
     {
+      "phone_number": "+904723126047",
+      "label": "Doğubeyazıt Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+904723212001",
       "label": "PTT GÜRBULAK MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+904724112005",
+      "label": "Tutak İlçe Devlet Hastanesi",
       "category": null
     },
     {
@@ -15270,13 +16205,33 @@
       "category": null
     },
     {
+      "phone_number": "+904724512584",
+      "label": "Hamur İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+904725112004",
       "label": "PTT DİYADİN MÜDÜRLÜĞÜ",
       "category": null
     },
     {
+      "phone_number": "+904725112476",
+      "label": "Diyadin İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
       "phone_number": "+904725512070",
       "label": "PTT TAŞLIÇAY MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+904725513305",
+      "label": "Taşlıçay İlçe Devlet Hastanesi",
+      "category": null
+    },
+    {
+      "phone_number": "+904726161556",
+      "label": "Patnos Devlet Hastanesi",
       "category": null
     },
     {
@@ -15292,6 +16247,11 @@
     {
       "phone_number": "+904727114115",
       "label": "PTT ELEŞKİRT MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+904727114142",
+      "label": "Eleşkirt İlçe Devlet Hastanesi",
       "category": null
     },
     {
@@ -15375,13 +16335,48 @@
       "category": null
     },
     {
+      "phone_number": "+904782112821",
+      "label": "ARDAHAN DEVLET HASTANESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+904782112909",
+      "label": "ARDAHAN DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+904782113001",
       "label": "PTT Ardahan ARDAHAN MÜDÜRLÜĞÜ",
       "category": null
     },
     {
+      "phone_number": "+904782113044",
+      "label": "ARDAHAN DEVLET HASTANESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+904782113500",
+      "label": "ARDAHAN DEVLET HASTANESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+904782115448",
+      "label": "ARDAHAN DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+904783112121",
       "label": "PTT Ardahan ÇILDIR MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+904783112279",
+      "label": "ÇILDIR İLÇE DEVLET HASTANESİ",
+      "category": null
+    },
+    {
+      "phone_number": "+904784112013",
+      "label": "GÖLE DEVLET HASTANESİ",
       "category": null
     },
     {
@@ -16550,6 +17545,11 @@
       "category": null
     },
     {
+      "phone_number": "+905491443112",
+      "label": "MAMAK DEVLET HASTANESİ",
+      "category": null
+    },
+    {
       "phone_number": "+905497870878",
       "label": "CEVA Lojistik Gaziantep Ofisi",
       "category": null
@@ -17586,9 +18586,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 3609,
-    "identify_count": 3516,
-    "exact_blocking_count": 93,
+    "total_numbers_considered": 3840,
+    "identify_count": 3716,
+    "exact_blocking_count": 124,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },

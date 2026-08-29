@@ -1,8 +1,8 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-08-26T22:05:29.613Z",
-  "version": "v1-dfa6f3fedd84aea3",
-  "entry_count": 93,
+  "generated_at": "2026-08-29T14:51:44.598Z",
+  "version": "v1-41e17b0a45475cef",
+  "entry_count": 124,
   "entries": [
     {
       "phone_number": "+902123156500",
@@ -53,6 +53,12 @@
       "block": true
     },
     {
+      "phone_number": "+902124548569",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902127027060",
       "label": "Spam",
       "category": null,
@@ -65,8 +71,20 @@
       "block": true
     },
     {
+      "phone_number": "+902128220567",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902128240255",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129081977",
+      "label": "Reported",
       "category": null,
       "block": true
     },
@@ -95,6 +113,18 @@
       "block": true
     },
     {
+      "phone_number": "+902129220895",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129221245",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902129221793",
       "label": "Reported",
       "category": null,
@@ -102,6 +132,18 @@
     },
     {
       "phone_number": "+902129221840",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129224835",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129225021",
       "label": "Reported",
       "category": null,
       "block": true
@@ -120,6 +162,12 @@
     },
     {
       "phone_number": "+902162030593",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902162030711",
       "label": "Reported",
       "category": null,
       "block": true
@@ -187,6 +235,30 @@
     {
       "phone_number": "+903124520425",
       "label": "Robocall",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+903124520732",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+903125242270",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+903125242276",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+903125242293",
+      "label": "Reported",
       "category": null,
       "block": true
     },
@@ -341,6 +413,12 @@
       "block": true
     },
     {
+      "phone_number": "+908502700743",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+908503117701",
       "label": "Spam",
       "category": null,
@@ -371,8 +449,104 @@
       "block": true
     },
     {
+      "phone_number": "+908504801592",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908504805600",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908504808856",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908504840103",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908504840763",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908504841294",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908504841671",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908504842200",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908504842541",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908504842814",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908504842987",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908505120007",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908505120046",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+908505120843",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908505120863",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908505120865",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908505120879",
+      "label": "Reported",
       "category": null,
       "block": true
     },
@@ -391,6 +565,12 @@
     {
       "phone_number": "+908505326258",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908505454331",
+      "label": "Reported",
       "category": null,
       "block": true
     },
@@ -539,6 +719,12 @@
       "block": true
     },
     {
+      "phone_number": "+908507711662",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+908509010557",
       "label": "Spam",
       "category": null,
@@ -564,9 +750,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 3609,
-    "identify_count": 3516,
-    "exact_blocking_count": 93,
+    "total_numbers_considered": 3840,
+    "identify_count": 3716,
+    "exact_blocking_count": 124,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },
