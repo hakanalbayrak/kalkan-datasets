@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-08-29T14:51:44.598Z",
-  "version": "v1-68bffe2b0577a635",
-  "entry_count": 3840,
+  "generated_at": "2026-09-11T08:36:30.959Z",
+  "version": "v1-f13c06d9dad48cfc",
+  "entry_count": 3947,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -2393,6 +2393,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902129191500",
+      "label": "DHL Kargo",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902129220007",
       "label": "Robot Ses Arama",
       "block": true,
@@ -2483,6 +2489,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902162030696",
+      "label": "Reported by user",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902162030711",
       "label": "Reported",
       "block": true,
@@ -2527,6 +2539,12 @@
     {
       "phone_number": "+902162230736",
       "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902162230928",
+      "label": "Reported by user",
       "block": true,
       "block_recommended": true
     },
@@ -5927,6 +5945,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902422455500",
+      "label": "Konyaaltı Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902422455900",
       "label": "Aksigorta Antalya Bölge Hattı",
       "block": false,
@@ -6137,6 +6161,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902424263049",
+      "label": "Aksu Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902424372462",
       "label": "PTT Antalya BADEMAĞACI ACENTELİĞİ",
       "block": false,
@@ -6257,6 +6287,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902425721013",
+      "label": "Gazipaşa Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902425721562",
       "label": "GAZİPAŞA DEVLET HASTANESİ",
       "block": false,
@@ -6265,6 +6301,12 @@
     {
       "phone_number": "+902425721576",
       "label": "PTT – GAZİPAŞA MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902426186702",
+      "label": "Elmalı Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -6301,6 +6343,12 @@
     {
       "phone_number": "+902426883218",
       "label": "PTT Antalya CEVİZLİ ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902426912004",
+      "label": "İbradı Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -6347,6 +6395,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902427428000",
+      "label": "Manavgat Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902427432363",
       "label": "PTT Antalya ADALET SARAYI ŞUBESİ",
       "block": false,
@@ -6379,6 +6433,12 @@
     {
       "phone_number": "+902427636001",
       "label": "PTT – ÇOLAKLI ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902427812011",
+      "label": "Gündoğmuş Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -7295,6 +7355,18 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902563564040",
+      "label": "Sultanhisar Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902563613040",
+      "label": "Yenipazar Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902563613212",
       "label": "PTT Aydın YENİPAZAR MÜDÜRLÜĞÜ",
       "block": false,
@@ -7331,6 +7403,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902563913005",
+      "label": "Buharkent Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902563913212",
       "label": "PTT Aydın BUHARKENT MÜDÜRLÜĞÜ",
       "block": false,
@@ -7339,6 +7417,12 @@
     {
       "phone_number": "+902563914390",
       "label": "BUHARKENT İLÇE DEVLET HASTANESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902564141008",
+      "label": "Bozdoğan Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -7375,6 +7459,18 @@
     {
       "phone_number": "+902564488160",
       "label": "PTT Aydın GEYRE ACENTELİĞİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902564604040",
+      "label": "Kuşadası Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902564613010",
+      "label": "Köşk Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -7427,6 +7523,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902565182311",
+      "label": "Söke Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902565182361",
       "label": "SÖKE FEHİME FAİK KOCAGÖZ DEVLET HASTANESİ",
       "block": false,
@@ -7465,6 +7567,12 @@
     {
       "phone_number": "+902565851212",
       "label": "PTT Aydın İNCİRLİOVA MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902565851224",
+      "label": "İncirliova Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -7523,8 +7631,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902567116028",
+      "label": "Çine Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902567116212",
       "label": "PTT Aydın ÇİNE MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902567412003",
+      "label": "Karpuzlu Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -8561,8 +8681,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902662391510",
+      "label": "Balıkesir Büyükşehir Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902662397662",
       "label": "PTT BAHÇELİEVLER ŞUBESİ (Balikesi̇r)",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902662410010",
+      "label": "Altıeylül Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -8729,6 +8861,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902664126450",
+      "label": "Burhaniye Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902664126999",
       "label": "BURHANİYE DEVLET HASTANESİ",
       "block": false,
@@ -8747,8 +8885,26 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902664321567",
+      "label": "Havran Devlet Hastanesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902664427193",
       "label": "PTT BÜYÜKDERE ŞUBESİ (Balikesi̇r)",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902664561004",
+      "label": "İvrindi Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902664561138",
+      "label": "İvrindi Devlet Hastanesi",
       "block": false,
       "block_recommended": false
     },
@@ -8789,8 +8945,32 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902664861001",
+      "label": "Balya Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902664861151",
       "label": "PTT BALYA ŞUBESİ (Balikesi̇r)",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902665161124",
+      "label": "Sındırgı Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902665164100",
+      "label": "Sındırgı Devlet Hastanesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902665521128",
+      "label": "Savaştepe Devlet Hastanesi",
       "block": false,
       "block_recommended": false
     },
@@ -8807,8 +8987,32 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902665761008",
+      "label": "Kepsut Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902665763322",
+      "label": "Kepsut İlçe Devlet Hastanesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902666121400",
       "label": "Balıkesir Üniversitesi UZEM",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902666141209",
+      "label": "Bigadiç Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902666141300",
+      "label": "Bigadiç Devlet Hastanesi",
       "block": false,
       "block_recommended": false
     },
@@ -8879,8 +9083,26 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902667621828",
+      "label": "Gönen Devlet Hastanesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902667621845",
+      "label": "Gönen Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902667741413",
       "label": "PTT Balıkesir SARIKÖY ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902668181033",
+      "label": "Manyas Devlet Hastanesi",
       "block": false,
       "block_recommended": false
     },
@@ -8893,6 +9115,12 @@
     {
       "phone_number": "+902668351000",
       "label": "PTT ERDEK MÜDÜRLÜĞÜ (Balikesi̇r)",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902668351077",
+      "label": "Erdek Neyyire Sıtkı Devlet Hastanesi",
       "block": false,
       "block_recommended": false
     },
@@ -8921,8 +9149,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902668652522",
+      "label": "Susurluk Devlet Hastanesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902668855450",
       "label": "PTT MARMARA ŞUBESİ (Balikesi̇r)",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902668855489",
+      "label": "Marmara Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -8971,6 +9211,12 @@
     {
       "phone_number": "+902722142555",
       "label": "PTT ANITPARK ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902722144255",
+      "label": "Afyonkarahisar Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -9059,6 +9305,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902722612004",
+      "label": "Çobanlar Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902722612050",
       "label": "Çobanlar İlçe Devlet Hastanesi",
       "block": false,
@@ -9067,6 +9319,12 @@
     {
       "phone_number": "+902722612166",
       "label": "PTT ÇOBANLAR MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902722715010",
+      "label": "İhsaniye Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -9185,6 +9443,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902723536053",
+      "label": "Dinar Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902723536099",
       "label": "Dinar Devlet Hastanesi",
       "block": false,
@@ -9221,6 +9485,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902724213082",
+      "label": "Dazkırı Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902724213111",
       "label": "PTT DAZKIRI MÜDÜRLÜĞÜ",
       "block": false,
@@ -9229,6 +9499,12 @@
     {
       "phone_number": "+902724312014",
       "label": "Evciler İlçe Devlet Hastanesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902724312061",
+      "label": "Evciler Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -9247,6 +9523,12 @@
     {
       "phone_number": "+902724427056",
       "label": "Emirdağ Devlet Hastanesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902724427801",
+      "label": "Emirdağ Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -9317,6 +9599,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902726125234",
+      "label": "Bolvadin Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902726126161",
       "label": "PTT BOLVADİN MÜDÜRLÜĞÜ",
       "block": false,
@@ -9329,6 +9617,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902726312951",
+      "label": "Çay Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902726324166",
       "label": "PTT ÇAY MÜDÜRLÜĞÜ",
       "block": false,
@@ -9337,6 +9631,12 @@
     {
       "phone_number": "+902726396421",
       "label": "PTT KARACAÖREN ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902726561021",
+      "label": "Sultandağı Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -9367,6 +9667,12 @@
     {
       "phone_number": "+902727181166",
       "label": "PTT Afyonkarahisar Şuhut Müdürlüğü",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902727182001",
+      "label": "Şuhut Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -11171,6 +11477,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903123611065",
+      "label": "Keçiören Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903123640020",
       "label": "PTT Ankara DEREBOYU ŞUBESİ",
       "block": false,
@@ -11549,6 +11861,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+903124588900",
+      "label": "Çankaya Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903124601000",
       "label": "PTT Ankara İNCEK",
       "block": false,
@@ -11653,6 +11971,12 @@
     {
       "phone_number": "+903124852745",
       "label": "GÖLBAŞI ÜLKÜ ULUSOY ADSM",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903124855555",
+      "label": "Gölbaşı Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -11771,6 +12095,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+903125242548",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+903125270354",
       "label": "PTT PURSAKLAR MÜDÜRLÜĞÜ – Ankara",
       "block": false,
@@ -11791,6 +12121,12 @@
     {
       "phone_number": "+903125464646",
       "label": "Enerji Bakanlığı Enerji Verimliliği",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903125507000",
+      "label": "Mamak Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -11915,6 +12251,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903126220606",
+      "label": "Polatlı Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903126220851",
       "label": "PTT Ankara DUA TEPE ŞUBESİ",
       "block": false,
@@ -11941,6 +12283,12 @@
     {
       "phone_number": "+903126411623",
       "label": "PTT Ankara İSKİTLER",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903126581007",
+      "label": "Haymana Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -11981,6 +12329,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903127122600",
+      "label": "Ayaş Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903127122825",
       "label": "Ayaş Şehit Mehmet Çifci Devlet Hastanesi",
       "block": false,
@@ -12011,14 +12365,32 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903127361030",
+      "label": "Kızılcahamam Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903127531004",
       "label": "PTT Ankara ÇAMLIDERE ŞUBESİ",
       "block": false,
       "block_recommended": false
     },
     {
+      "phone_number": "+903127532301",
+      "label": "Çamlıdere Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903127600995",
       "label": "PTT Ankara BEYPAZARI ADLİYE ŞB. ŞUBESİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903127622510",
+      "label": "Beypazarı Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -12037,6 +12409,12 @@
     {
       "phone_number": "+903127632215",
       "label": "PTT Ankara BEYPAZARI MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903127851011",
+      "label": "Nallıhan Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -12083,6 +12461,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903128145300",
+      "label": "Kahramankazan Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903128154488",
       "label": "PTT SARAY ŞUBESİ – Ankara",
       "block": false,
@@ -12097,6 +12481,12 @@
     {
       "phone_number": "+903128370130",
       "label": "PTT Ankara ÇUBUK MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903128371073",
+      "label": "Çubuk Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -12121,6 +12511,12 @@
     {
       "phone_number": "+903128441105",
       "label": "PTT – AKYURT MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903128571036",
+      "label": "Kalecik Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -12175,6 +12571,12 @@
     {
       "phone_number": "+903128761818",
       "label": "Bala İlçe Devlet Hastanesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903128935001",
+      "label": "Evren Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -12437,6 +12839,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903222396464",
+      "label": "Çukurova Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903222471822",
       "label": "PTT Adana Huzur Evleri Şubesi",
       "block": false,
@@ -12611,6 +13019,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903223410808",
+      "label": "Sarıçam Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903223412024",
       "label": "PTT Adana Fatih Şubesi",
       "block": false,
@@ -12721,6 +13135,12 @@
     {
       "phone_number": "+903224553100",
       "label": "Allianz Güney Anadolu Bölge",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903224553500",
+      "label": "Adana Büyükşehir Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -12893,6 +13313,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903225158395",
+      "label": "Kozan Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903225332029",
       "label": "PTT Adana Hacıbeyli Şubesi",
       "block": false,
@@ -12923,6 +13349,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903225813029",
+      "label": "Pozantı Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903225813920",
       "label": "Pozantı 80. Yıl Devlet Hastanesi",
       "block": false,
@@ -12943,6 +13375,12 @@
     {
       "phone_number": "+903225912001",
       "label": "PTT Adana Aladağ Şubesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903225912018",
+      "label": "Aladağ Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -13001,8 +13439,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903226813208",
+      "label": "Karataş Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903227412001",
       "label": "PTT Adana Feke Müdürlüğü",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903227412022",
+      "label": "Feke Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -13037,6 +13487,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903227818391",
+      "label": "Tufanbeyli Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903227819496",
       "label": "Tufanbeyli Devlet Hastanesi",
       "block": false,
@@ -13051,6 +13507,12 @@
     {
       "phone_number": "+903228921001",
       "label": "PTT Adana İmamoğlu Müdürlüğü",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903228921717",
+      "label": "İmamoğlu Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -15341,6 +15803,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903582188000",
+      "label": "Amasya Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903582240047",
       "label": "PTT AYDINCA ACENTELİĞİ – Amasya",
       "block": false,
@@ -15401,8 +15869,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903585131387",
+      "label": "Merzifon Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903585134444",
       "label": "Merzifon Kara Mustafa Paşa Devlet Hastanesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903586152081",
+      "label": "Göynücek Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -16517,8 +16997,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903783151081",
+      "label": "Amasra Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903783151415",
       "label": "PTT AMASRA MÜDÜRLÜĞÜ (Bartin)",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903784161015",
+      "label": "Ulus Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -16691,6 +17183,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903822422005",
+      "label": "Sultanhanı Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903822422400",
       "label": "PTT SULTANHANI ŞUBESİ",
       "block": false,
@@ -16715,8 +17213,26 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903822886868",
+      "label": "Aksaray Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903823112002",
+      "label": "Sarıyahşi Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+903823112490",
       "label": "PTT SARIYAHŞİ MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903823312007",
+      "label": "Ağaçören Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -16729,6 +17245,12 @@
     {
       "phone_number": "+903823518166",
       "label": "Ortaköy Devlet Hastanesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903823518843",
+      "label": "Ortaköy Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -16747,6 +17269,12 @@
     {
       "phone_number": "+903824115294",
       "label": "Eskil Devlet Hastanesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903824312075",
+      "label": "Gülağaç Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -16771,6 +17299,12 @@
     {
       "phone_number": "+903824362629",
       "label": "PTT DEMİRCİ ACENTELİĞİ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+903824512019",
+      "label": "Güzelyurt Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -17573,8 +18107,26 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904163181636",
+      "label": "Besni Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904164112025",
+      "label": "Samsat Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904164112053",
       "label": "Samsat İlçe Devlet Hastanesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904164212008",
+      "label": "Sincik Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -17587,6 +18139,12 @@
     {
       "phone_number": "+904164212100",
       "label": "PTT Adıyaman Sincik Şubesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904164312127",
+      "label": "Gerger Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -17647,6 +18205,12 @@
     {
       "phone_number": "+904167816001",
       "label": "PTT Adıyaman Gölbaşı Müdürlüğü",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904167816100",
+      "label": "Gölbaşı Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -19619,6 +20183,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904663514020",
+      "label": "Hopa Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904663514946",
       "label": "PTT Artvin HOPA MÜDÜRLÜĞÜ",
       "block": false,
@@ -19633,6 +20203,12 @@
     {
       "phone_number": "+904664151001",
       "label": "PTT Artvin BORÇKA MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904664151033",
+      "label": "Borçka Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -19655,6 +20231,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904665171444",
+      "label": "Şavşat Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904666112001",
       "label": "PTT Artvin ARDANUÇ ŞUBESİ",
       "block": false,
@@ -19673,8 +20255,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904667113011",
+      "label": "Murgul Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904668112383",
       "label": "PTT Artvin YUSUFELİ MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904722151190",
+      "label": "Ağrı Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -19715,6 +20309,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904723126403",
+      "label": "Doğubayazıt Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904723212001",
       "label": "PTT GÜRBULAK MÜDÜRLÜĞÜ",
       "block": false,
@@ -19747,6 +20347,12 @@
     {
       "phone_number": "+904725112004",
       "label": "PTT DİYADİN MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904725112008",
+      "label": "Diyadin Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -19931,6 +20537,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904782116628",
+      "label": "Ardahan Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904783112121",
       "label": "PTT Ardahan ÇILDIR MÜDÜRLÜĞÜ",
       "block": false,
@@ -19955,6 +20567,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+904785112015",
+      "label": "Posof Belediyesi",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+904785112130",
       "label": "PTT Ardahan POSOF MÜDÜRLÜĞÜ",
       "block": false,
@@ -19963,6 +20581,12 @@
     {
       "phone_number": "+904786112469",
       "label": "PTT Ardahan HANAK MÜDÜRLÜĞÜ",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+904786112586",
+      "label": "Hanak Belediyesi",
       "block": false,
       "block_recommended": false
     },
@@ -21473,6 +22097,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908502006688",
+      "label": "Hopi Müşteri Hizmetleri",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908502010222",
       "label": "Samsung Kurumsal Çağrı Merkezi",
       "block": false,
@@ -21919,6 +22549,12 @@
     {
       "phone_number": "+908502500400",
       "label": "Halkbank Dialog Alternatif Hat",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908502506702",
+      "label": "Pegasus Hava Yolları Çağrı Merkezi",
       "block": false,
       "block_recommended": false
     },
@@ -22393,6 +23029,12 @@
     {
       "phone_number": "+908502903414",
       "label": "Golden Global Bank İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+908503045050",
+      "label": "Getir",
       "block": false,
       "block_recommended": false
     },
