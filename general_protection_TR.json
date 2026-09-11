@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-09-11T08:36:30.959Z",
-  "version": "v1-f13c06d9dad48cfc",
-  "entry_count": 3947,
+  "generated_at": "2026-09-11T12:17:49.391Z",
+  "version": "v1-309015f76aef7f22",
+  "entry_count": 3948,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -2481,6 +2481,12 @@
       "label": "Allianz Trade Satış Ekibi",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+902129459255",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+902162030593",
