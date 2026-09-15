@@ -1,8 +1,8 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-09-11T12:17:49.391Z",
-  "version": "v1-c9475114c155e583",
-  "entry_count": 128,
+  "generated_at": "2026-09-15T00:20:13.853Z",
+  "version": "v1-0fba266cb47848f1",
+  "entry_count": 131,
   "entries": [
     {
       "phone_number": "+902123156500",
@@ -161,6 +161,12 @@
       "block": true
     },
     {
+      "phone_number": "+902129453275",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902129459255",
       "label": "Spam",
       "category": null,
@@ -299,6 +305,12 @@
       "block": true
     },
     {
+      "phone_number": "+903128900694",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+903129391435",
       "label": "Spam",
       "category": null,
@@ -337,6 +349,12 @@
     {
       "phone_number": "+905338453563",
       "label": "Kıbrıs Casino",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+905340312890",
+      "label": "Spam",
       "category": null,
       "block": true
     },
@@ -774,9 +792,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 3948,
+    "total_numbers_considered": 3951,
     "identify_count": 3820,
-    "exact_blocking_count": 128,
+    "exact_blocking_count": 131,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },

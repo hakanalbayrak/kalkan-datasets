@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-09-11T12:17:49.391Z",
-  "version": "v1-309015f76aef7f22",
-  "entry_count": 3948,
+  "generated_at": "2026-09-15T00:20:13.853Z",
+  "version": "v1-08abe6ff515beb75",
+  "entry_count": 3951,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -2481,6 +2481,12 @@
       "label": "Allianz Trade Satış Ekibi",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+902129453275",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+902129459255",
@@ -12581,6 +12587,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903128900694",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+903128935001",
       "label": "Evren Belediyesi",
       "block": false,
@@ -21243,6 +21255,12 @@
       "label": "PTT - SOĞUKPINAR ACENTELİĞİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+905340312890",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+905344182981",
