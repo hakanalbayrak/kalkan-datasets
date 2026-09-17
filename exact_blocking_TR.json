@@ -1,8 +1,8 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-09-15T00:20:13.853Z",
-  "version": "v1-0fba266cb47848f1",
-  "entry_count": 131,
+  "generated_at": "2026-09-17T00:20:13.033Z",
+  "version": "v1-05b610cf757d9f19",
+  "entry_count": 134,
   "entries": [
     {
       "phone_number": "+902123156500",
@@ -269,6 +269,12 @@
       "block": true
     },
     {
+      "phone_number": "+903125242257",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+903125242270",
       "label": "Reported",
       "category": null,
@@ -289,6 +295,18 @@
     {
       "phone_number": "+903125242548",
       "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+903125242645",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+903125242678",
+      "label": "Spam",
       "category": null,
       "block": true
     },
@@ -792,9 +810,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 3951,
+    "total_numbers_considered": 3954,
     "identify_count": 3820,
-    "exact_blocking_count": 131,
+    "exact_blocking_count": 134,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },
