@@ -1,8 +1,8 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-09-21T00:20:13.821Z",
-  "version": "v1-e85b924594b54f81",
-  "entry_count": 136,
+  "generated_at": "2026-09-25T08:59:36.995Z",
+  "version": "v1-eaf595a8ac7772eb",
+  "entry_count": 192,
   "entries": [
     {
       "phone_number": "+902123156500",
@@ -53,8 +53,86 @@
       "block": true
     },
     {
+      "phone_number": "+902124548541",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902124548569",
       "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902124666724",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902124820337",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902124969501",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902125990803",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902125990804",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902125990806",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902126591203",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902126591208",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902126591252",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902126596832",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902126597709",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902127010743",
+      "label": "Spam",
       "category": null,
       "block": true
     },
@@ -83,6 +161,30 @@
       "block": true
     },
     {
+      "phone_number": "+902128240260",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902128240954",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902128755405",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902128761207",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902129081977",
       "label": "Reported",
       "category": null,
@@ -91,6 +193,18 @@
     {
       "phone_number": "+902129220007",
       "label": "Robot Ses Arama",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129220043",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129220203",
+      "label": "Spam",
       "category": null,
       "block": true
     },
@@ -125,6 +239,12 @@
       "block": true
     },
     {
+      "phone_number": "+902129221373",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902129221793",
       "label": "Reported",
       "category": null,
@@ -149,6 +269,18 @@
       "block": true
     },
     {
+      "phone_number": "+902129250393",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129255099",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902129351125",
       "label": "Reported",
       "category": null,
@@ -161,7 +293,19 @@
       "block": true
     },
     {
+      "phone_number": "+902129450519",
+      "label": "Reported by user",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902129453275",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129455561",
       "label": "Spam",
       "category": null,
       "block": true
@@ -169,6 +313,30 @@
     {
       "phone_number": "+902129459255",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129459581",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129752770",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129860655",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902162030582",
+      "label": "Reported by user",
       "category": null,
       "block": true
     },
@@ -197,6 +365,12 @@
       "block": true
     },
     {
+      "phone_number": "+902162120539",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902162230736",
       "label": "Reported",
       "category": null,
@@ -209,6 +383,42 @@
       "block": true
     },
     {
+      "phone_number": "+902162270877",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902162270880",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902162370514",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902162565405",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902162565644",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902162700320",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902162852000",
       "label": "Spam",
       "category": null,
@@ -217,6 +427,12 @@
     {
       "phone_number": "+902165382525",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902169080617",
+      "label": "Agent spam discovery",
       "category": null,
       "block": true
     },
@@ -294,7 +510,7 @@
     },
     {
       "phone_number": "+903125242548",
-      "label": "Reported",
+      "label": "Reported by user",
       "category": null,
       "block": true
     },
@@ -365,7 +581,19 @@
       "block": true
     },
     {
+      "phone_number": "+905321119614",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+905325320000",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+905327575555",
       "label": "Spam",
       "category": null,
       "block": true
@@ -379,6 +607,36 @@
     {
       "phone_number": "+905340312890",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+905354960802",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+905358651081",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+905394119072",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+905394976833",
+      "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+905398418600",
+      "label": "Agent spam discovery",
       "category": null,
       "block": true
     },
@@ -409,6 +667,12 @@
     {
       "phone_number": "+905555555556",
       "label": "Reported by user",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908501112233",
+      "label": "Agent spam discovery",
       "category": null,
       "block": true
     },
@@ -485,14 +749,38 @@
       "block": true
     },
     {
+      "phone_number": "+908502229988",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908502700497",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+908502700743",
       "label": "Reported",
       "category": null,
       "block": true
     },
     {
+      "phone_number": "+908502700839",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+908503117701",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908503331122",
+      "label": "Agent spam discovery",
       "category": null,
       "block": true
     },
@@ -509,8 +797,26 @@
       "block": true
     },
     {
+      "phone_number": "+908504301319",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+908504442525",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908504445566",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908504737929",
+      "label": "Agent spam discovery",
       "category": null,
       "block": true
     },
@@ -641,6 +947,12 @@
       "block": true
     },
     {
+      "phone_number": "+908505330632",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+908505454331",
       "label": "Reported",
       "category": null,
@@ -695,6 +1007,12 @@
       "block": true
     },
     {
+      "phone_number": "+908505557788",
+      "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+908505826006",
       "label": "Spam",
       "category": null,
@@ -703,6 +1021,12 @@
     {
       "phone_number": "+908506330623",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908506669900",
+      "label": "Agent spam discovery",
       "category": null,
       "block": true
     },
@@ -809,6 +1133,18 @@
       "block": true
     },
     {
+      "phone_number": "+908509010648",
+      "label": "Reported by user",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908509010849",
+      "label": "Reported by user",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+908509550955",
       "label": "Spam",
       "category": null,
@@ -822,9 +1158,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 3956,
+    "total_numbers_considered": 4012,
     "identify_count": 3820,
-    "exact_blocking_count": 136,
+    "exact_blocking_count": 192,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },

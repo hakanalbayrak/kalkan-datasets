@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-09-21T00:20:13.821Z",
-  "version": "v1-7190d6f84d39ab4e",
-  "entry_count": 3956,
+  "generated_at": "2026-09-25T08:59:36.995Z",
+  "version": "v1-5c17bba59bfbef16",
+  "entry_count": 4012,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -1265,6 +1265,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902124548541",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902124548569",
       "label": "Reported",
       "block": true,
@@ -1317,6 +1323,12 @@
       "label": "PTT - YENİBOSNA ADLİYE ŞUBESİ (+1 işyeri)",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+902124666724",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+902124713616",
@@ -1385,10 +1397,22 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902124820337",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902124943986",
       "label": "PTT - MEHMET AKİF ŞUBESİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+902124969501",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+902124972828",
@@ -1727,6 +1751,24 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902125990803",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902125990804",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902125990806",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902126100910",
       "label": "PTT - ÜÇYÜZLÜ ŞUBESİ",
       "block": false,
@@ -1895,6 +1937,36 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902126591203",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902126591208",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902126591252",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902126596832",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902126597709",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902126598484",
       "label": "PTT - İSTOÇ MÜDÜRLÜĞÜ",
       "block": false,
@@ -2061,6 +2133,12 @@
       "label": "PTT - 19 MAYIS KURUMSAL ACENTELİĞİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+902127010743",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+902127027060",
@@ -2255,6 +2333,18 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902128240260",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902128240954",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902128303147",
       "label": "PTT - KIRAÇ KARGO DAĞITIM MÜDÜRLÜĞÜ",
       "block": false,
@@ -2333,6 +2423,18 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902128755405",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902128761207",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902128768709",
       "label": "PTT - HÜRRİYET ŞUBESİ",
       "block": false,
@@ -2405,6 +2507,18 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902129220043",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129220203",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902129220340",
       "label": "Spam",
       "block": true,
@@ -2435,6 +2549,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902129221373",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902129221793",
       "label": "Reported",
       "block": true,
@@ -2455,6 +2575,18 @@
     {
       "phone_number": "+902129225021",
       "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129250393",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129255099",
+      "label": "Spam",
       "block": true,
       "block_recommended": true
     },
@@ -2483,7 +2615,19 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902129450519",
+      "label": "Reported by user",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902129453275",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129455561",
       "label": "Spam",
       "block": true,
       "block_recommended": true
@@ -2491,6 +2635,30 @@
     {
       "phone_number": "+902129459255",
       "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129459581",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129752770",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129860655",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902162030582",
+      "label": "Reported by user",
       "block": true,
       "block_recommended": true
     },
@@ -2523,6 +2691,12 @@
       "label": "Türkiye Katılım Sigorta Genel Müdürlük",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+902162120539",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+902162162161",
@@ -2579,10 +2753,28 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902162270877",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902162270880",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902162323088",
       "label": "Scotty Destek Hattı",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+902162370514",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+902162519900",
@@ -2591,10 +2783,28 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902162565405",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902162565644",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902162662626",
       "label": "Emlak Katılım Genel İletişim",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+902162700320",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+902162808888",
@@ -3669,6 +3879,12 @@
       "label": "PTT - DOĞANEVLER KURUMSAL ACENTELİĞİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+902169080617",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+902169220171",
@@ -12114,7 +12330,7 @@
     },
     {
       "phone_number": "+903125242548",
-      "label": "Reported",
+      "label": "Reported by user",
       "block": true,
       "block_recommended": true
     },
@@ -21155,6 +21371,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+905321119614",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+905322565559",
       "label": "PTT - DİKMEN ACENTELİĞİ",
       "block": false,
@@ -21219,6 +21441,12 @@
       "label": "PTT - YAVUZ KEMAL ACENTELİĞİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+905327575555",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+905332143471",
@@ -21341,6 +21569,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+905354960802",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+905355481571",
       "label": "PTT - KAZIM KARABEKİR KURUMSAL ACENTELİĞİ",
       "block": false,
@@ -21393,6 +21627,12 @@
       "label": "PTT SALAR ACENTELİĞİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+905358651081",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+905359324440",
@@ -21683,6 +21923,18 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+905394119072",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+905394976833",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+905396273929",
       "label": "PTT - BALCILAR ACENTELİĞİ",
       "block": false,
@@ -21699,6 +21951,12 @@
       "label": "PTT - KARAKÖY KURUMSAL ACENTELİĞİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+905398418600",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+905412350852",
@@ -22139,6 +22397,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908501112233",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+908502000666",
       "label": "TEB Telefon Şubesi",
       "block": false,
@@ -22545,6 +22809,12 @@
       "label": "Halkbank Emekli Müşteri Hattı",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+908502229988",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+908502233447",
@@ -23057,8 +23327,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908502700497",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+908502700743",
       "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908502700839",
+      "label": "Agent spam discovery",
       "block": true,
       "block_recommended": true
     },
@@ -23109,6 +23391,12 @@
       "label": "AGT Kurye WhatsApp Destek Hattı",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+908503331122",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+908503332286",
@@ -23177,8 +23465,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908504301319",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+908504442525",
       "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908504445566",
+      "label": "Agent spam discovery",
       "block": true,
       "block_recommended": true
     },
@@ -23187,6 +23487,12 @@
       "label": "Ana Sigorta Müşteri Hizmetleri",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+908504737929",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+908504741313",
@@ -23363,6 +23669,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908505330632",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+908505400042",
       "label": "AppleConnect",
       "block": false,
@@ -23423,6 +23735,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908505557788",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+908505580333",
       "label": "HepsiJET Danışma Hattı",
       "block": false,
@@ -23445,6 +23763,12 @@
       "label": "Hepiyi Sigorta Müşteri Hizmetleri",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+908506669900",
+      "label": "Agent spam discovery",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+908507228000",
@@ -23719,6 +24043,18 @@
     {
       "phone_number": "+908509010568",
       "label": "Robocall",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908509010648",
+      "label": "Reported by user",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908509010849",
+      "label": "Reported by user",
       "block": true,
       "block_recommended": true
     },
