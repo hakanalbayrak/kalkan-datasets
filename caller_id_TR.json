@@ -1,7 +1,7 @@
 {
   "protection_layer": "caller_id_exact",
-  "generated_at": "2026-09-25T09:04:27.551Z",
-  "version": "v1-cd527a65c94b4862",
+  "generated_at": "2026-09-26T00:24:31.603Z",
+  "version": "v1-0baa86aaf0e76417",
   "entry_count": 3820,
   "entries": [
     {
@@ -19106,9 +19106,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 4012,
+    "total_numbers_considered": 4013,
     "identify_count": 3820,
-    "exact_blocking_count": 192,
+    "exact_blocking_count": 193,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },

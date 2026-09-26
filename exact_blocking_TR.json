@@ -1,8 +1,8 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-09-25T09:04:27.551Z",
-  "version": "v1-960ecd44527bb2d8",
-  "entry_count": 192,
+  "generated_at": "2026-09-26T00:24:31.603Z",
+  "version": "v1-f50b370b44820315",
+  "entry_count": 193,
   "entries": [
     {
       "phone_number": "+902123156500",
@@ -755,6 +755,12 @@
       "block": true
     },
     {
+      "phone_number": "+908502700417",
+      "label": "Fraud",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+908502700497",
       "label": "Agent spam discovery",
       "category": null,
@@ -1158,9 +1164,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 4012,
+    "total_numbers_considered": 4013,
     "identify_count": 3820,
-    "exact_blocking_count": 192,
+    "exact_blocking_count": 193,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },

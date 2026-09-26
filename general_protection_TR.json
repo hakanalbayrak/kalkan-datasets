@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-09-25T09:04:27.551Z",
-  "version": "v1-23fc66e9aab9c99b",
-  "entry_count": 4012,
+  "generated_at": "2026-09-26T00:24:31.603Z",
+  "version": "v1-c78c661006b38bd6",
+  "entry_count": 4013,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -23325,6 +23325,12 @@
       "label": "D-Smart Müşteri Hizmetleri",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+908502700417",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+908502700497",
