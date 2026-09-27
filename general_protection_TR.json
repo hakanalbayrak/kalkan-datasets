@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-09-26T00:24:31.603Z",
-  "version": "v1-c78c661006b38bd6",
-  "entry_count": 4013,
+  "generated_at": "2026-09-27T00:24:30.280Z",
+  "version": "v1-2411753a8787ce8a",
+  "entry_count": 4014,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -23637,6 +23637,12 @@
       "label": "Dyson Destek Hattı",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+908505321607",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+908505322222",
