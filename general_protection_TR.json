@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-09-27T00:24:30.280Z",
-  "version": "v1-2411753a8787ce8a",
-  "entry_count": 4014,
+  "generated_at": "2026-09-28T00:21:33.994Z",
+  "version": "v1-c4b7b867ae553fd8",
+  "entry_count": 4015,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -24045,6 +24045,12 @@
       "label": "Ethica Sigorta Müşteri Hizmetleri",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+908509001252",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+908509010557",
