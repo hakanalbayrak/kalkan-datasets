@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-09-28T00:21:33.994Z",
-  "version": "v1-c4b7b867ae553fd8",
-  "entry_count": 4015,
+  "generated_at": "2026-09-30T00:25:35.698Z",
+  "version": "v1-5a232dac96153a90",
+  "entry_count": 4017,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -23327,6 +23327,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908502700053",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+908502700417",
       "label": "Fraud",
       "block": true,
@@ -23545,6 +23551,12 @@
     {
       "phone_number": "+908504808856",
       "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908504809637",
+      "label": "Fraud",
       "block": true,
       "block_recommended": true
     },
