@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-10-15T14:34:01.709Z",
-  "version": "v1-e14dfd374d2e3b88",
-  "entry_count": 4049,
+  "generated_at": "2026-10-15T14:35:25.993Z",
+  "version": "v1-b35a541fd8a2611e",
+  "entry_count": 4052,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -21455,6 +21455,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+905304823362",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+905307491876",
       "label": "PTT - ÇÖĞÜRLÜ ACENTELİĞİ",
       "block": false,
@@ -22301,6 +22307,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+905438676241",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+905439332330",
       "label": "PTT - SANCAKLIBOZKÖY ACENTELİĞİ",
       "block": false,
@@ -22503,6 +22515,12 @@
       "label": "PTT - KAVAKLIDERE ACENTELİĞİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+905531499201",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+905536545313",
