@@ -1,8 +1,8 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-10-01T00:23:32.947Z",
-  "version": "v1-bfd608343bf09b2f",
-  "entry_count": 198,
+  "generated_at": "2026-10-15T14:32:52.363Z",
+  "version": "v1-954e2799e49fd97b",
+  "entry_count": 205,
   "entries": [
     {
       "phone_number": "+902123156500",
@@ -185,6 +185,12 @@
       "block": true
     },
     {
+      "phone_number": "+902129080022",
+      "label": "Fraud",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902129081977",
       "label": "Reported",
       "category": null,
@@ -311,6 +317,18 @@
       "block": true
     },
     {
+      "phone_number": "+902129456502",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129459232",
+      "label": "Reported by user",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902129459255",
       "label": "Spam",
       "category": null,
@@ -331,6 +349,12 @@
     {
       "phone_number": "+902129860655",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129891025",
+      "label": "Agent spam discovery",
       "category": null,
       "block": true
     },
@@ -527,6 +551,12 @@
       "block": true
     },
     {
+      "phone_number": "+903125680765",
+      "label": "Reported by user",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+903125840429",
       "label": "Spam",
       "category": null,
@@ -571,6 +601,12 @@
     {
       "phone_number": "+903129990594",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+905015292507",
+      "label": "Reported",
       "category": null,
       "block": true
     },
@@ -637,6 +673,12 @@
     {
       "phone_number": "+905398418600",
       "label": "Agent spam discovery",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+905416556029",
+      "label": "Reported",
       "category": null,
       "block": true
     },
@@ -1194,9 +1236,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 4018,
+    "total_numbers_considered": 4025,
     "identify_count": 3820,
-    "exact_blocking_count": 198,
+    "exact_blocking_count": 205,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },

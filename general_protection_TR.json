@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-10-01T00:23:32.947Z",
-  "version": "v1-25b0621c587c5e0b",
-  "entry_count": 4018,
+  "generated_at": "2026-10-15T14:32:52.363Z",
+  "version": "v1-dc5a517fb1b22f8b",
+  "entry_count": 4025,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -2489,6 +2489,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902129080022",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902129081977",
       "label": "Reported",
       "block": true,
@@ -2633,6 +2639,18 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902129456502",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129459232",
+      "label": "Reported by user",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902129459255",
       "label": "Spam",
       "block": true,
@@ -2653,6 +2671,12 @@
     {
       "phone_number": "+902129860655",
       "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129891025",
+      "label": "Agent spam discovery",
       "block": true,
       "block_recommended": true
     },
@@ -12431,6 +12455,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+903125680765",
+      "label": "Reported by user",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+903125800388",
       "label": "PTT – ATAPARK ŞUBESİ",
       "block": false,
@@ -21227,6 +21257,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+905015292507",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+905051225395",
       "label": "PTT - KONUKBEKLER ACENTELİĞİ",
       "block": false,
@@ -22011,6 +22047,12 @@
       "label": "PTT - GÜNEY ACENTELİĞİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+905416556029",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+905417639371",
