@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-10-15T14:32:52.363Z",
-  "version": "v1-dc5a517fb1b22f8b",
-  "entry_count": 4025,
+  "generated_at": "2026-10-15T14:34:01.709Z",
+  "version": "v1-e14dfd374d2e3b88",
+  "entry_count": 4049,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -2495,6 +2495,30 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902129080500",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129080700",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129080890",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129081100",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902129081977",
       "label": "Reported",
       "block": true,
@@ -2621,8 +2645,20 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902129450443",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902129450519",
       "label": "Reported by user",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129450986",
+      "label": "Spam",
       "block": true,
       "block_recommended": true
     },
@@ -2658,6 +2694,12 @@
     },
     {
       "phone_number": "+902129459581",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129631901",
       "label": "Spam",
       "block": true,
       "block_recommended": true
@@ -5171,6 +5213,18 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902323263042",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902323263439",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902323340655",
       "label": "Reported",
       "block": true,
@@ -6189,6 +6243,12 @@
       "label": "PTT Antalya BAYINDIR ŞUBESİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+902422378452",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+902422434575",
@@ -12353,6 +12413,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+903125242546",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+903125242548",
       "label": "Reported by user",
       "block": true,
@@ -12366,6 +12432,12 @@
     },
     {
       "phone_number": "+903125242678",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+903125242820",
       "label": "Spam",
       "block": true,
       "block_recommended": true
@@ -15885,6 +15957,12 @@
       "label": "PTT - HÜKÜMET KONAĞI ŞUBESİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+903545024371",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+903545161230",
@@ -21275,6 +21353,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+905052134133",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+905053837070",
       "label": "PTT – OBAGÖL 1 KURUMSAL ACENTELİĞİ",
       "block": false,
@@ -21283,6 +21367,12 @@
     {
       "phone_number": "+905059195744",
       "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+905060398975",
+      "label": "Fraud",
       "block": true,
       "block_recommended": true
     },
@@ -21369,6 +21459,12 @@
       "label": "PTT - ÇÖĞÜRLÜ ACENTELİĞİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+905307719864",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+905307828047",
@@ -22079,6 +22175,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+905422011201",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+905422688092",
       "label": "PTT - DEMİRLİ ACENTELİĞİ",
       "block": false,
@@ -22161,6 +22263,12 @@
       "label": "PTT - KAT ACENTELİĞİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+905433384458",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+905433492919",
@@ -22355,6 +22463,18 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+905496250205",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+905496980230",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+905497870878",
       "label": "CEVA Lojistik Gaziantep Ofisi",
       "block": false,
@@ -22403,6 +22523,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+905545691833",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+905546260873",
       "label": "PTT - AĞIRNAS ACENTELİĞİ",
       "block": false,
@@ -22413,6 +22539,12 @@
       "label": "PTT - ÜÇKUYULAR KURUMSAL ACENTELİĞİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+905550072178",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+905551112235",
@@ -23405,6 +23537,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908502810474",
+      "label": "Fraud",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+908502886363",
       "label": "Bank Mellat İletişim Hattı",
       "block": false,
@@ -24133,6 +24271,12 @@
     {
       "phone_number": "+908509010849",
       "label": "Reported by user",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908509010965",
+      "label": "Spam",
       "block": true,
       "block_recommended": true
     },
