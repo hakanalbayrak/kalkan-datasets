@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-10-15T14:35:25.993Z",
-  "version": "v1-b35a541fd8a2611e",
-  "entry_count": 4052,
+  "generated_at": "2026-10-20T14:50:04.557Z",
+  "version": "v1-37df9eb933d64073",
+  "entry_count": 4054,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -1020,9 +1020,9 @@
     },
     {
       "phone_number": "+902123653401",
-      "label": "Trendyol Go Yemek / UberEats",
-      "block": true,
-      "block_recommended": true
+      "label": "Trendyol Yemek / Uber Eats",
+      "block": false,
+      "block_recommended": false
     },
     {
       "phone_number": "+902123657585",
@@ -3773,6 +3773,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+902166255500",
+      "label": "Garanti BBVA",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+902166296301",
       "label": "PTT - SANCAKTEPE KARGO DAĞITIM MÜDÜRLÜĞÜ",
       "block": false,
@@ -3945,6 +3951,12 @@
       "label": "PTT - DOĞANEVLER KURUMSAL ACENTELİĞİ",
       "block": false,
       "block_recommended": false
+    },
+    {
+      "phone_number": "+902168220190",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
     },
     {
       "phone_number": "+902169080617",

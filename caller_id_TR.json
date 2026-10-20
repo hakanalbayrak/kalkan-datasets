@@ -1,8 +1,8 @@
 {
   "protection_layer": "caller_id_exact",
-  "generated_at": "2026-10-15T14:35:25.993Z",
-  "version": "v1-dcb866bf3e9b25eb",
-  "entry_count": 3820,
+  "generated_at": "2026-10-20T14:50:04.557Z",
+  "version": "v1-feff5288176328b8",
+  "entry_count": 3822,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -822,6 +822,11 @@
     {
       "phone_number": "+902123632500",
       "label": "Ray Sigorta Genel İletişim",
+      "category": null
+    },
+    {
+      "phone_number": "+902123653401",
+      "label": "Trendyol Yemek / Uber Eats",
       "category": null
     },
     {
@@ -2732,6 +2737,11 @@
     {
       "phone_number": "+902166226527",
       "label": "PTT - SANCAKTEPE MÜDÜRLÜĞÜ",
+      "category": null
+    },
+    {
+      "phone_number": "+902166255500",
+      "label": "Garanti BBVA",
       "category": null
     },
     {
@@ -19106,8 +19116,8 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 4052,
-    "identify_count": 3820,
+    "total_numbers_considered": 4054,
+    "identify_count": 3822,
     "exact_blocking_count": 232,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0

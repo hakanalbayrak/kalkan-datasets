@@ -1,7 +1,7 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-10-15T14:35:25.993Z",
-  "version": "v1-3c6ace692d126bf0",
+  "generated_at": "2026-10-20T14:50:04.557Z",
+  "version": "v1-a9b6cca253df0130",
   "entry_count": 232,
   "entries": [
     {
@@ -31,12 +31,6 @@
     {
       "phone_number": "+902123550555",
       "label": "Spam",
-      "category": null,
-      "block": true
-    },
-    {
-      "phone_number": "+902123653401",
-      "label": "Trendyol Go Yemek / UberEats",
       "category": null,
       "block": true
     },
@@ -493,6 +487,12 @@
     {
       "phone_number": "+902165382525",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902168220190",
+      "label": "Reported",
       "category": null,
       "block": true
     },
@@ -1398,8 +1398,8 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 4052,
-    "identify_count": 3820,
+    "total_numbers_considered": 4054,
+    "identify_count": 3822,
     "exact_blocking_count": 232,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
