@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-10-20T14:50:04.557Z",
-  "version": "v1-37df9eb933d64073",
-  "entry_count": 4054,
+  "generated_at": "2026-10-22T13:16:51.081Z",
+  "version": "v1-ce593ea5cd278fab",
+  "entry_count": 4056,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -3774,7 +3774,7 @@
     },
     {
       "phone_number": "+902166255500",
-      "label": "Garanti BBVA",
+      "label": "Garanti BBVA Güvenlik Birimi",
       "block": false,
       "block_recommended": false
     },
@@ -22481,6 +22481,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+905488257473",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+905491443112",
       "label": "MAMAK DEVLET HASTANESİ",
       "block": false,
@@ -24235,6 +24241,12 @@
     {
       "phone_number": "+908507711662",
       "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507711829",
+      "label": "Reported by user",
       "block": true,
       "block_recommended": true
     },
