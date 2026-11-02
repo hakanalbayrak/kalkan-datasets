@@ -1,8 +1,8 @@
 {
   "protection_layer": "caller_id_exact",
-  "generated_at": "2026-10-22T13:16:51.081Z",
-  "version": "v1-186c5b9a51b26267",
-  "entry_count": 3822,
+  "generated_at": "2026-11-02T07:26:13.722Z",
+  "version": "v1-8afdc92a064d3815",
+  "entry_count": 3824,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -17390,6 +17390,11 @@
       "category": null
     },
     {
+      "phone_number": "+905330525803",
+      "label": "Acarlar Colesium",
+      "category": null
+    },
+    {
       "phone_number": "+905332143471",
       "label": "PTT - HACIYAKUP ACENTELİĞİ",
       "category": null
@@ -18860,6 +18865,11 @@
       "category": null
     },
     {
+      "phone_number": "+908503330849",
+      "label": "Türk Hava Yolları",
+      "category": null
+    },
+    {
       "phone_number": "+908503332286",
       "label": "DeFacto Müşteri Hizmetleri",
       "category": null
@@ -19116,9 +19126,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 4056,
-    "identify_count": 3822,
-    "exact_blocking_count": 234,
+    "total_numbers_considered": 4065,
+    "identify_count": 3824,
+    "exact_blocking_count": 241,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },

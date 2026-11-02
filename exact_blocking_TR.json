@@ -1,8 +1,8 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-10-22T13:16:51.081Z",
-  "version": "v1-04885fa725b8847b",
-  "entry_count": 234,
+  "generated_at": "2026-11-02T07:26:13.722Z",
+  "version": "v1-1fbc04f321e6107c",
+  "entry_count": 241,
   "entries": [
     {
       "phone_number": "+902123156500",
@@ -281,6 +281,24 @@
       "block": true
     },
     {
+      "phone_number": "+902129221956",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129222596",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129222598",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902129224835",
       "label": "Reported",
       "category": null,
@@ -341,6 +359,12 @@
       "block": true
     },
     {
+      "phone_number": "+902129453932",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902129455561",
       "label": "Spam",
       "category": null,
@@ -367,6 +391,12 @@
     {
       "phone_number": "+902129459581",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129510329",
+      "label": "Reported by user",
       "category": null,
       "block": true
     },
@@ -403,6 +433,12 @@
     {
       "phone_number": "+902162030593",
       "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902162030687",
+      "label": "Reported by user",
       "category": null,
       "block": true
     },
@@ -1391,6 +1427,12 @@
       "block": true
     },
     {
+      "phone_number": "+908509010876",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+908509010965",
       "label": "Spam",
       "category": null,
@@ -1410,9 +1452,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 4056,
-    "identify_count": 3822,
-    "exact_blocking_count": 234,
+    "total_numbers_considered": 4065,
+    "identify_count": 3824,
+    "exact_blocking_count": 241,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },

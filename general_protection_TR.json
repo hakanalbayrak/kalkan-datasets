@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-10-22T13:16:51.081Z",
-  "version": "v1-ce593ea5cd278fab",
-  "entry_count": 4056,
+  "generated_at": "2026-11-02T07:26:13.722Z",
+  "version": "v1-abb8d659fb320f56",
+  "entry_count": 4065,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -2597,6 +2597,24 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902129221956",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129222596",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129222598",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902129224835",
       "label": "Reported",
       "block": true,
@@ -2669,6 +2687,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902129453932",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902129455561",
       "label": "Spam",
       "block": true,
@@ -2695,6 +2719,12 @@
     {
       "phone_number": "+902129459581",
       "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129510329",
+      "label": "Reported by user",
       "block": true,
       "block_recommended": true
     },
@@ -2731,6 +2761,12 @@
     {
       "phone_number": "+902162030593",
       "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902162030687",
+      "label": "Reported by user",
       "block": true,
       "block_recommended": true
     },
@@ -21599,6 +21635,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+905330525803",
+      "label": "Acarlar Colesium",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+905332143471",
       "label": "PTT - HACIYAKUP ACENTELİĞİ",
       "block": false,
@@ -23627,6 +23669,12 @@
       "block_recommended": false
     },
     {
+      "phone_number": "+908503330849",
+      "label": "Türk Hava Yolları",
+      "block": false,
+      "block_recommended": false
+    },
+    {
       "phone_number": "+908503331122",
       "label": "Agent spam discovery",
       "block": true,
@@ -24313,6 +24361,12 @@
     {
       "phone_number": "+908509010849",
       "label": "Reported by user",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908509010876",
+      "label": "Reported",
       "block": true,
       "block_recommended": true
     },
