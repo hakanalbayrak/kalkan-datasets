@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-11-02T07:26:13.722Z",
-  "version": "v1-abb8d659fb320f56",
-  "entry_count": 4065,
+  "generated_at": "2026-11-05T22:14:49.671Z",
+  "version": "v1-f82018d81e7a5f00",
+  "entry_count": 4067,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -2615,6 +2615,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902129222742",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902129224835",
       "label": "Reported",
       "block": true,
@@ -2688,6 +2694,12 @@
     },
     {
       "phone_number": "+902129453932",
+      "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129454244",
       "label": "Reported",
       "block": true,
       "block_recommended": true
@@ -2766,7 +2778,7 @@
     },
     {
       "phone_number": "+902162030687",
-      "label": "Reported by user",
+      "label": "Reported",
       "block": true,
       "block_recommended": true
     },
