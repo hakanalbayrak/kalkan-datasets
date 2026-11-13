@@ -1,8 +1,8 @@
 {
   "protection_layer": "general",
-  "generated_at": "2026-11-05T22:14:49.671Z",
-  "version": "v1-f82018d81e7a5f00",
-  "entry_count": 4067,
+  "generated_at": "2026-11-13T04:25:56.241Z",
+  "version": "v1-ea07d185f0b10656",
+  "entry_count": 4073,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -553,6 +553,12 @@
     {
       "phone_number": "+902122314730",
       "label": "Milli Reasürans Genel İletişim",
+      "block": false,
+      "block_recommended": false
+    },
+    {
+      "phone_number": "+902122332398",
+      "label": "Yapı Kredi Bankası Amerikan Hastanesi Şubesi",
       "block": false,
       "block_recommended": false
     },
@@ -2567,6 +2573,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+902129220647",
+      "label": "Reported by user",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+902129220895",
       "label": "Reported",
       "block": true,
@@ -2581,6 +2593,12 @@
     {
       "phone_number": "+902129221373",
       "label": "Spam",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129221386",
+      "label": "Reported by user",
       "block": true,
       "block_recommended": true
     },
@@ -2611,6 +2629,12 @@
     {
       "phone_number": "+902129222598",
       "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+902129222658",
+      "label": "Reported by user",
       "block": true,
       "block_recommended": true
     },
@@ -24299,6 +24323,12 @@
       "block_recommended": true
     },
     {
+      "phone_number": "+908507711538",
+      "label": "Reported",
+      "block": true,
+      "block_recommended": true
+    },
+    {
       "phone_number": "+908507711662",
       "label": "Reported",
       "block": true,
@@ -24306,6 +24336,12 @@
     },
     {
       "phone_number": "+908507711829",
+      "label": "Reported by user",
+      "block": true,
+      "block_recommended": true
+    },
+    {
+      "phone_number": "+908507711840",
       "label": "Reported by user",
       "block": true,
       "block_recommended": true

@@ -1,8 +1,8 @@
 {
   "protection_layer": "caller_id_exact",
-  "generated_at": "2026-11-05T22:14:49.671Z",
-  "version": "v1-4a68810c9a520cf3",
-  "entry_count": 3824,
+  "generated_at": "2026-11-13T04:25:56.241Z",
+  "version": "v1-eeb4c477edd4cd66",
+  "entry_count": 3825,
   "entries": [
     {
       "phone_number": "+904440000",
@@ -462,6 +462,11 @@
     {
       "phone_number": "+902122314730",
       "label": "Milli Reasürans Genel İletişim",
+      "category": null
+    },
+    {
+      "phone_number": "+902122332398",
+      "label": "Yapı Kredi Bankası Amerikan Hastanesi Şubesi",
       "category": null
     },
     {
@@ -19126,9 +19131,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 4067,
-    "identify_count": 3824,
-    "exact_blocking_count": 243,
+    "total_numbers_considered": 4073,
+    "identify_count": 3825,
+    "exact_blocking_count": 248,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },

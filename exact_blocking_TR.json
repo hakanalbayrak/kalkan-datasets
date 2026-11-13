@@ -1,8 +1,8 @@
 {
   "protection_layer": "exact_blocking",
-  "generated_at": "2026-11-05T22:14:49.671Z",
-  "version": "v1-8902b3fc7396c708",
-  "entry_count": 243,
+  "generated_at": "2026-11-13T04:25:56.241Z",
+  "version": "v1-de23400504429b65",
+  "entry_count": 248,
   "entries": [
     {
       "phone_number": "+902123156500",
@@ -251,6 +251,12 @@
       "block": true
     },
     {
+      "phone_number": "+902129220647",
+      "label": "Reported by user",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+902129220895",
       "label": "Reported",
       "category": null,
@@ -265,6 +271,12 @@
     {
       "phone_number": "+902129221373",
       "label": "Spam",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129221386",
+      "label": "Reported by user",
       "category": null,
       "block": true
     },
@@ -295,6 +307,12 @@
     {
       "phone_number": "+902129222598",
       "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+902129222658",
+      "label": "Reported by user",
       "category": null,
       "block": true
     },
@@ -1397,6 +1415,12 @@
       "block": true
     },
     {
+      "phone_number": "+908507711538",
+      "label": "Reported",
+      "category": null,
+      "block": true
+    },
+    {
       "phone_number": "+908507711662",
       "label": "Reported",
       "category": null,
@@ -1404,6 +1428,12 @@
     },
     {
       "phone_number": "+908507711829",
+      "label": "Reported by user",
+      "category": null,
+      "block": true
+    },
+    {
+      "phone_number": "+908507711840",
       "label": "Reported by user",
       "category": null,
       "block": true
@@ -1464,9 +1494,9 @@
     }
   ],
   "routing_summary": {
-    "total_numbers_considered": 4067,
-    "identify_count": 3824,
-    "exact_blocking_count": 243,
+    "total_numbers_considered": 4073,
+    "identify_count": 3825,
+    "exact_blocking_count": 248,
     "admin_override_count": 0,
     "policy_non_block_override_count": 0
   },
